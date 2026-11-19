@@ -1,0 +1,4 @@
+RiskRating,customers,overdue,overdue_pct,oldest_due_date
+High,102,67,65.7,2015-04-04
+Medium,461,58,12.6,2021-01-19
+Low,1237,51,4.1,2022-06-09

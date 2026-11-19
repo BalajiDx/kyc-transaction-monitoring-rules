@@ -1,0 +1,192 @@
+RuleID,Rule,Typology,CustomerID,AccountID,FirstSeen,Detail,ValueINR
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00018,AC000018,2024-07-09,3 credit(s) moved out within 2 days,3096348.0
+R03,Credits above 3x declared income,Income mismatch,K00018,AC000018,2024-01-07,credits 4.9x declared income,3866597.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00018,AC000018,2024-07-01,2024-07 credits 7x the customer's normal month,1530522.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00018,AC000018,2024-08-01,2024-08 credits 9x the customer's normal month,1694760.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00023,AC000023,2024-02-09,22 senders in 7 days,48921.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00026,AC000026,2024-05-31,1 credit(s) moved out within 2 days,585197.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00026,AC000026,2024-05-01,2024-05 credits 14x the customer's normal month,1579633.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00057,AC000057,2024-12-01,1 credit(s) moved out within 2 days,5549839.0
+R03,Credits above 3x declared income,Income mismatch,K00057,AC000057,2024-01-05,credits 5.7x declared income,6709348.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00057,AC000057,2024-12-01,2024-12 credits 59x the customer's normal month,5648220.0
+R03,Credits above 3x declared income,Income mismatch,K00092,AC000092,2024-02-27,credits 13.8x declared income,982897.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00092,AC000092,2024-05-01,2024-05 credits 15x the customer's normal month,704306.0
+R03,Credits above 3x declared income,Income mismatch,K00103,AC000103,2024-01-24,credits 7.7x declared income,843101.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00103,AC000103,2024-08-01,2024-08 credits 9x the customer's normal month,462569.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00105,AC000105,2024-03-20,4 deposits of ₹40-50k in 10 days,175699.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00138,AC000138,2024-07-25,27 senders in 7 days,324066.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00138,AC000138,2024-07-01,2024-07 credits 7x the customer's normal month,383546.0
+R03,Credits above 3x declared income,Income mismatch,K00149,AC000149,2024-01-19,credits 20.7x declared income,1242298.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00149,AC000149,2024-06-01,2024-06 credits 7x the customer's normal month,522298.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00149,AC000149,2024-07-01,2024-07 credits 12x the customer's normal month,674447.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00190,AC000190,2024-09-30,3 deposits of ₹40-50k in 10 days,142136.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00226,AC000226,2024-08-15,25 senders in 7 days,63524.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00243,AC000243,2024-08-08,1 credit(s) moved out within 2 days,5065382.0
+R03,Credits above 3x declared income,Income mismatch,K00243,AC000243,2024-01-03,credits 9.9x declared income,5635671.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00243,AC000243,2024-08-01,2024-08 credits 107x the customer's normal month,5112228.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00248,AC000248,2024-06-24,31 senders in 7 days,32785.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00255,AC000255,2024-02-07,26 senders in 7 days,172680.0
+R03,Credits above 3x declared income,Income mismatch,K00261,AC000261,2024-01-17,credits 15.7x declared income,1319504.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00261,AC000261,2024-04-01,2024-04 credits 5x the customer's normal month,516144.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00261,AC000261,2024-05-01,2024-05 credits 11x the customer's normal month,757881.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00269,AC000269,2024-08-31,23 senders in 7 days,264520.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00310,AC000310,2024-06-28,1 credit(s) moved out within 2 days,971890.0
+R03,Credits above 3x declared income,Income mismatch,K00310,AC000310,2024-01-03,credits 11.1x declared income,2474568.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00310,AC000310,2024-06-01,2024-06 credits 123x the customer's normal month,2272119.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00319,AC000319,2024-01-13,1 credit(s) moved out within 2 days,4348778.0
+R03,Credits above 3x declared income,Income mismatch,K00319,AC000319,2024-01-13,credits 7.3x declared income,4979785.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00319,AC000319,2024-01-01,2024-01 credits 86x the customer's normal month,4413477.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00335,AC000335,2024-03-30,1 credit(s) moved out within 2 days,5472051.0
+R03,Credits above 3x declared income,Income mismatch,K00335,AC000335,2024-01-02,credits 6.8x declared income,6354886.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00335,AC000335,2024-03-01,2024-03 credits 77x the customer's normal month,5559178.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00340,AC000340,2024-01-18,33 senders in 7 days,125975.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00368,AC000368,2024-04-13,1 credit(s) moved out within 2 days,5919511.0
+R03,Credits above 3x declared income,Income mismatch,K00368,AC000368,2024-01-04,credits 13.7x declared income,6387001.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00368,AC000368,2024-04-01,2024-04 credits 153x the customer's normal month,5958322.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00393,AC000393,2024-02-02,25 senders in 7 days,42058.0
+R03,Credits above 3x declared income,Income mismatch,K00396,AC000396,2024-01-15,credits 22.9x declared income,1649492.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00396,AC000396,2024-05-01,2024-05 credits 13x the customer's normal month,1064043.0
+R03,Credits above 3x declared income,Income mismatch,K00413,AC000413,2024-01-03,credits 5.0x declared income,1876740.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K00413,AC000413,2024-04-29,"2 transfer(s) with XB, XC",1499842.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00413,AC000413,2024-04-01,2024-04 credits 49x the customer's normal month,1532402.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00432,AC000432,2024-04-09,24 senders in 7 days,79080.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00441,AC000441,2024-07-14,1 credit(s) moved out within 2 days,1572451.0
+R03,Credits above 3x declared income,Income mismatch,K00441,AC000441,2024-01-22,credits 22.1x declared income,1613405.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00441,AC000441,2024-07-01,2024-07 credits 305x the customer's normal month,1577221.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00504,AC000504,2024-02-01,23 senders in 7 days,388222.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00521,AC000521,2024-06-17,4 deposits of ₹40-50k in 10 days,180927.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00523,AC000523,2024-05-29,6 deposits of ₹40-50k in 10 days,279829.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00524,AC000524,2024-07-05,24 senders in 7 days,260866.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00564,AC000564,2024-01-01,27 senders in 7 days,104101.0
+R03,Credits above 3x declared income,Income mismatch,K00580,AC000580,2024-01-12,credits 17.2x declared income,1000186.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00580,AC000580,2024-11-01,2024-11 credits 14x the customer's normal month,612089.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00583,AC000583,2024-08-23,3 credit(s) moved out within 2 days,3170802.0
+R03,Credits above 3x declared income,Income mismatch,K00583,AC000583,2024-01-03,credits 13.8x declared income,4369608.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00583,AC000583,2024-10-01,2024-10 credits 5x the customer's normal month,1426841.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00610,AC000610,2024-10-09,3 deposits of ₹40-50k in 10 days,146812.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00610,AC000610,2024-10-01,2024-10 credits 6x the customer's normal month,320781.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00623,AC000623,2024-12-11,2 credit(s) moved out within 2 days,2818120.0
+R03,Credits above 3x declared income,Income mismatch,K00623,AC000623,2024-01-03,credits 20.1x declared income,5017114.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00623,AC000623,2024-11-01,2024-11 credits 7x the customer's normal month,1971363.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00623,AC000623,2024-12-01,2024-12 credits 14x the customer's normal month,2838376.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00629,AC000629,2024-09-26,5 deposits of ₹40-50k in 10 days,239003.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00648,AC000648,2024-05-19,6 deposits of ₹40-50k in 10 days,288417.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00648,AC000648,2024-05-01,2024-05 credits 7x the customer's normal month,315965.0
+R03,Credits above 3x declared income,Income mismatch,K00673,AC000673,2024-01-05,credits 3.7x declared income,2254843.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K00673,AC000673,2024-11-04,1 transfer(s) with XB,1655830.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00673,AC000673,2024-11-01,2024-11 credits 34x the customer's normal month,1705735.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00678,AC000678,2024-08-13,6 deposits of ₹40-50k in 10 days,269280.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00697,AC000697,2024-10-30,3 credit(s) moved out within 2 days,2131308.0
+R03,Credits above 3x declared income,Income mismatch,K00697,AC000697,2024-01-02,credits 8.0x declared income,3281038.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00697,AC000697,2024-12-01,2024-12 credits 10x the customer's normal month,1599326.0
+R03,Credits above 3x declared income,Income mismatch,K00706,AC000706,2024-01-07,credits 4.5x declared income,2795575.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K00706,AC000706,2024-06-02,3 transfer(s) with XB,2759165.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00706,AC000706,2024-06-01,2024-06 credits 9x the customer's normal month,1257614.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00706,AC000706,2024-07-01,2024-07 credits 7x the customer's normal month,1068089.0
+R03,Credits above 3x declared income,Income mismatch,K00719,AC000719,2024-01-10,credits 7.0x declared income,1422813.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00719,AC000719,2024-10-01,2024-10 credits 14x the customer's normal month,951797.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00749,AC000749,2024-03-29,7 deposits of ₹40-50k in 10 days,328815.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00749,AC000749,2024-04-01,2024-04 credits 6x the customer's normal month,331172.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00757,AC000757,2024-10-19,26 senders in 7 days,41791.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00769,AC000769,2024-04-12,1 credit(s) moved out within 2 days,2266491.0
+R03,Credits above 3x declared income,Income mismatch,K00769,AC000769,2024-01-02,credits 4.6x declared income,3053695.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00769,AC000769,2024-04-01,2024-04 credits 35x the customer's normal month,2321214.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00773,AC000773,2024-07-20,2 credit(s) moved out within 2 days,1844603.0
+R03,Credits above 3x declared income,Income mismatch,K00773,AC000773,2024-01-02,credits 5.3x declared income,2262853.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00773,AC000773,2024-08-01,2024-08 credits 17x the customer's normal month,1367234.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00783,AC000783,2024-10-16,26 senders in 7 days,41258.0
+R03,Credits above 3x declared income,Income mismatch,K00797,AC000797,2024-01-02,credits 4.7x declared income,2433859.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K00797,AC000797,2024-09-06,3 transfer(s) with XB,2892087.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00797,AC000797,2024-09-01,2024-09 credits 45x the customer's normal month,1959444.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00824,AC000824,2024-09-03,25 senders in 7 days,65772.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K00831,AC000831,2024-09-13,1 credit(s) moved out within 2 days,1901226.0
+R03,Credits above 3x declared income,Income mismatch,K00831,AC000831,2024-01-01,credits 3.8x declared income,2588051.0
+R06,Monthly credits above 5x own normal,Unusual spike,K00831,AC000831,2024-09-01,2024-09 credits 34x the customer's normal month,1960177.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00861,AC000861,2024-07-12,27 senders in 7 days,40314.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00890,AC000890,2024-03-18,4 deposits of ₹40-50k in 10 days,189142.0
+R01,"Cash deposits just under ₹50,000",Structuring,K00908,AC000908,2024-04-24,7 deposits of ₹40-50k in 10 days,336192.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00959,AC000959,2024-11-16,26 senders in 7 days,165857.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K00985,AC000985,2024-06-21,25 senders in 7 days,104652.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01002,AC001002,2024-05-12,1 credit(s) moved out within 2 days,2697937.0
+R03,Credits above 3x declared income,Income mismatch,K01002,AC001002,2024-01-05,credits 3.7x declared income,3687866.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01002,AC001002,2024-05-01,2024-05 credits 34x the customer's normal month,2781193.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01004,AC001004,2024-01-16,24 senders in 7 days,51087.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01028,AC001028,2024-05-08,18 senders in 7 days,192729.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01031,AC001031,2024-10-26,6 deposits of ₹40-50k in 10 days,279842.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01046,AC001046,2024-09-10,1 credit(s) moved out within 2 days,5924650.0
+R03,Credits above 3x declared income,Income mismatch,K01046,AC001046,2024-01-16,credits 80.1x declared income,6005776.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01046,AC001046,2024-09-01,2024-09 credits 837x the customer's normal month,5927902.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01149,AC001149,2024-12-12,44 senders in 7 days,86584.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01154,AC001154,2024-04-18,1 credit(s) moved out within 2 days,2775391.0
+R03,Credits above 3x declared income,Income mismatch,K01154,AC001154,2024-01-26,credits 71.8x declared income,2800268.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01154,AC001154,2024-04-01,2024-04 credits 887x the customer's normal month,2778352.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01160,AC001160,2024-02-06,25 senders in 7 days,112144.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01181,AC001181,2024-07-22,3 deposits of ₹40-50k in 10 days,138402.0
+R03,Credits above 3x declared income,Income mismatch,K01213,AC001213,2024-01-03,credits 3.5x declared income,2051866.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K01213,AC001213,2024-07-21,"3 transfer(s) with XA, XB, XC",1883503.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01213,AC001213,2024-07-01,2024-07 credits 31x the customer's normal month,1508323.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01218,AC001218,2024-02-03,30 senders in 7 days,342351.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01218,AC001218,2024-02-01,2024-02 credits 9x the customer's normal month,342351.0
+R03,Credits above 3x declared income,Income mismatch,K01239,AC001239,2024-01-08,credits 13.4x declared income,1629155.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01239,AC001239,2024-04-01,2024-04 credits 15x the customer's normal month,1116768.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01242,AC001242,2024-07-01,26 senders in 7 days,69104.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01266,AC001266,2024-10-05,7 deposits of ₹40-50k in 10 days,328332.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01266,AC001266,2024-10-01,2024-10 credits 9x the customer's normal month,367503.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01268,AC001268,2024-11-12,26 senders in 7 days,39283.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01318,AC001318,2024-06-18,3 deposits of ₹40-50k in 10 days,137933.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01324,AC001324,2024-04-21,2 credit(s) moved out within 2 days,1794254.0
+R03,Credits above 3x declared income,Income mismatch,K01324,AC001324,2024-01-03,credits 5.5x declared income,2200716.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01324,AC001324,2024-05-01,2024-05 credits 19x the customer's normal month,1392992.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01414,AC001414,2024-08-15,3 deposits of ₹40-50k in 10 days,140188.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01418,AC001418,2024-11-08,4 credit(s) moved out within 2 days,3923493.0
+R03,Credits above 3x declared income,Income mismatch,K01418,AC001418,2024-01-05,credits 6.0x declared income,4722698.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01418,AC001418,2024-11-01,2024-11 credits 10x the customer's normal month,2272698.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01418,AC001418,2024-12-01,2024-12 credits 7x the customer's normal month,1821812.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01419,AC001419,2024-11-12,1 credit(s) moved out within 2 days,3316833.0
+R03,Credits above 3x declared income,Income mismatch,K01419,AC001419,2024-01-05,credits 16.4x declared income,3535455.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01419,AC001419,2024-11-01,2024-11 credits 183x the customer's normal month,3335223.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01426,AC001426,2024-07-23,22 senders in 7 days,223147.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01469,AC001469,2024-10-16,30 senders in 7 days,59739.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01492,AC001492,2024-03-12,1 credit(s) moved out within 2 days,4442729.0
+R03,Credits above 3x declared income,Income mismatch,K01492,AC001492,2024-01-11,credits 9.9x declared income,5003438.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01492,AC001492,2024-03-01,2024-03 credits 98x the customer's normal month,4500204.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01497,AC001497,2024-02-18,3 deposits of ₹40-50k in 10 days,142513.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01501,AC001501,2024-07-07,7 deposits of ₹40-50k in 10 days,328320.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01504,AC001504,2024-02-10,23 senders in 7 days,33314.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01517,AC001517,2024-09-08,3 deposits of ₹40-50k in 10 days,133514.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01522,AC001522,2024-02-06,1 credit(s) moved out within 2 days,1531926.0
+R03,Credits above 3x declared income,Income mismatch,K01522,AC001522,2024-01-10,credits 24.6x declared income,1573562.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01522,AC001522,2024-02-01,2024-02 credits 331x the customer's normal month,1531926.0
+R03,Credits above 3x declared income,Income mismatch,K01531,AC001531,2024-01-24,credits 7.8x declared income,962592.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01531,AC001531,2024-07-01,2024-07 credits 10x the customer's normal month,591732.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01536,AC001536,2024-01-15,6 deposits of ₹40-50k in 10 days,273851.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01541,AC001541,2024-07-05,4 deposits of ₹40-50k in 10 days,188933.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01581,AC001581,2024-09-21,1 credit(s) moved out within 2 days,5904432.0
+R03,Credits above 3x declared income,Income mismatch,K01581,AC001581,2024-02-27,credits 85.0x declared income,5951550.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01581,AC001581,2024-09-01,2024-09 credits 990x the customer's normal month,5909782.0
+R03,Credits above 3x declared income,Income mismatch,K01589,AC001589,2024-01-12,credits 50.3x declared income,2465259.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K01589,AC001589,2024-05-21,"3 transfer(s) with XA, XB",2652168.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01589,AC001589,2024-05-01,2024-05 credits 12x the customer's normal month,1544008.0
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,K01662,AC001662,2024-11-21,"3 transfer(s) with XA, XB, XC",2326664.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01662,AC001662,2024-12-01,2024-12 credits 5x the customer's normal month,685249.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01693,AC001693,2024-08-25,29 senders in 7 days,39338.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01712,AC001712,2024-01-30,1 credit(s) moved out within 2 days,3603466.0
+R03,Credits above 3x declared income,Income mismatch,K01712,AC001712,2024-01-01,credits 8.9x declared income,4058676.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01712,AC001712,2024-01-01,2024-01 credits 96x the customer's normal month,3642859.0
+R04,15+ different senders in 7 days,Funnel account (many senders),K01719,AC001719,2024-04-14,20 senders in 7 days,256805.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01719,AC001719,2024-04-01,2024-04 credits 6x the customer's normal month,311824.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01725,AC001725,2024-09-12,4 credit(s) moved out within 2 days,3565755.0
+R03,Credits above 3x declared income,Income mismatch,K01725,AC001725,2024-01-03,credits 8.2x declared income,4068418.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01725,AC001725,2024-09-01,2024-09 credits 10x the customer's normal month,1902856.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01729,AC001729,2024-05-08,3 credit(s) moved out within 2 days,3381320.0
+R03,Credits above 3x declared income,Income mismatch,K01729,AC001729,2024-01-02,credits 7.4x declared income,5342793.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01729,AC001729,2024-06-01,2024-06 credits 9x the customer's normal month,2411579.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01747,AC001747,2024-01-27,3 deposits of ₹40-50k in 10 days,130399.0
+R01,"Cash deposits just under ₹50,000",Structuring,K01770,AC001770,2024-05-07,6 deposits of ₹40-50k in 10 days,286821.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01770,AC001770,2024-05-01,2024-05 credits 7x the customer's normal month,333443.0
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),K01788,AC001788,2024-01-18,3 credit(s) moved out within 2 days,3040564.0
+R03,Credits above 3x declared income,Income mismatch,K01788,AC001788,2024-01-01,credits 8.4x declared income,3457578.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01788,AC001788,2024-01-01,2024-01 credits 16x the customer's normal month,2024201.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01788,AC001788,2024-02-01,2024-02 credits 5x the customer's normal month,1087281.0
+R03,Credits above 3x declared income,Income mismatch,K01790,AC001790,2024-01-13,credits 20.0x declared income,1457406.0
+R06,Monthly credits above 5x own normal,Unusual spike,K01790,AC001790,2024-04-01,2024-04 credits 58x the customer's normal month,1260907.0

@@ -1,0 +1,30 @@
+// =====================================================================
+// KYC & Transaction Monitoring - DAX (Power BI)
+// Tables : Alerts (03. Python Rules Engine/Output/Alerts.csv), RuleHits (Rule_Hits.csv),
+//          Customers (01. Dataset/Customers.csv)
+// Relationships: Customers[CustomerID] 1 -> * Alerts[CustomerID]; Customers 1 -> * RuleHits
+// NOTE : written for the model above and not executed here; check against Rule_Evaluation.csv.
+// =====================================================================
+
+Total Customers   = DISTINCTCOUNT ( Customers[CustomerID] )
+Total Alerts      = COUNTROWS ( Alerts )
+Rule Hits         = COUNTROWS ( RuleHits )
+Alert Rate %      = DIVIDE ( [Total Alerts], [Total Customers] )
+P1 Alerts         = CALCULATE ( [Total Alerts], LEFT ( Alerts[Priority], 2 ) = "P1" )
+Open Alerts       = CALCULATE ( [Total Alerts], Alerts[Status] = "Open" )
+Avg Risk Score    = AVERAGE ( Alerts[RiskScore] )
+High Risk Alerts  = CALCULATE ( [Total Alerts], Alerts[RiskRating] = "High" )
+PEP Alerts        = CALCULATE ( [Total Alerts], Alerts[PEP] = 1 )
+Multi-Rule Alerts =
+    COUNTROWS ( FILTER ( Alerts, LEN ( Alerts[Rules] ) > 3 ) )   // more than one rule id in the list
+
+// KYC health
+KYC Incomplete =
+    CALCULATE ( [Total Customers],
+        FILTER ( Customers, Customers[PANAvailable] = 0 || Customers[AadhaarVerified] = 0 || Customers[AddressProofOnFile] = 0 ) )
+KYC Incomplete %  = DIVIDE ( [KYC Incomplete], [Total Customers] )
+Next Review Due   =                                       // calculated column on Customers
+    EDATE ( Customers[LastKYCReviewDate],
+        12 * SWITCH ( Customers[RiskRating], "High", 2, "Medium", 8, 10 ) )
+KYC Overdue       = CALCULATE ( [Total Customers], FILTER ( Customers, Customers[Next Review Due] < DATE ( 2024, 12, 31 ) ) )
+High Risk No EDD  = CALCULATE ( [Total Customers], Customers[RiskRating] = "High", Customers[EDDCompleted] = 0 )

@@ -1,0 +1,4 @@
+RiskRating,customers,missing_pan,aadhaar_not_verified,missing_address_proof,incomplete_kyc,incomplete_pct
+High,102,5,3,7,14,13.7
+Medium,461,22,25,28,72,15.6
+Low,1237,80,45,54,169,13.7

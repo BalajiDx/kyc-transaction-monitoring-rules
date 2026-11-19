@@ -1,0 +1,52 @@
+CustomerID,AccountID,Typology,FirstDate
+K01621,AC001621,Structuring,2024-02-28
+K00890,AC000890,Structuring,2024-03-16
+K00908,AC000908,Structuring,2024-04-24
+K00648,AC000648,Structuring,2024-05-19
+K00190,AC000190,Structuring,2024-09-14
+K01031,AC001031,Structuring,2024-10-25
+K01501,AC001501,Structuring,2024-07-06
+K01541,AC001541,Structuring,2024-07-01
+K01770,AC001770,Structuring,2024-05-06
+K00389,AC000389,Structuring,2024-03-01
+K00629,AC000629,Structuring,2024-09-26
+K00749,AC000749,Structuring,2024-03-29
+K01266,AC001266,Structuring,2024-10-04
+K00887,AC000887,Structuring,2024-06-25
+K01418,AC001418,Pass-through (rapid in/out),2024-11-08
+K00018,AC000018,Pass-through (rapid in/out),2024-07-09
+K00697,AC000697,Pass-through (rapid in/out),2024-10-30
+K00026,AC000026,Pass-through (rapid in/out),2024-05-08
+K01729,AC001729,Pass-through (rapid in/out),2024-05-08
+K00623,AC000623,Pass-through (rapid in/out),2024-11-11
+K01725,AC001725,Pass-through (rapid in/out),2024-09-12
+K01324,AC001324,Pass-through (rapid in/out),2024-04-21
+K01788,AC001788,Pass-through (rapid in/out),2024-01-18
+K00773,AC000773,Pass-through (rapid in/out),2024-07-20
+K00310,AC000310,Pass-through (rapid in/out),2024-06-09
+K00583,AC000583,Pass-through (rapid in/out),2024-07-28
+K00092,AC000092,Income mismatch,2024-04-20
+K00103,AC000103,Income mismatch,2024-08-14
+K01790,AC001790,Income mismatch,2024-03-20
+K00149,AC000149,Income mismatch,2024-06-15
+K00396,AC000396,Income mismatch,2024-04-24
+K01531,AC001531,Income mismatch,2024-06-22
+K00261,AC000261,Income mismatch,2024-04-08
+K00580,AC000580,Income mismatch,2024-10-31
+K01239,AC001239,Income mismatch,2024-03-26
+K00719,AC000719,Income mismatch,2024-09-10
+K00524,AC000524,Funnel account (many senders),2024-07-05
+K01218,AC001218,Funnel account (many senders),2024-02-03
+K01028,AC001028,Funnel account (many senders),2024-05-08
+K00269,AC000269,Funnel account (many senders),2024-08-31
+K00504,AC000504,Funnel account (many senders),2024-02-01
+K01426,AC001426,Funnel account (many senders),2024-07-23
+K01719,AC001719,Funnel account (many senders),2024-04-14
+K00138,AC000138,Funnel account (many senders),2024-07-25
+K00413,AC000413,High-risk jurisdiction,2024-03-22
+K01589,AC001589,High-risk jurisdiction,2024-05-16
+K00706,AC000706,High-risk jurisdiction,2024-05-25
+K01662,AC001662,High-risk jurisdiction,2024-11-16
+K00797,AC000797,High-risk jurisdiction,2024-08-23
+K00673,AC000673,High-risk jurisdiction,2024-10-31
+K01213,AC001213,High-risk jurisdiction,2024-07-16

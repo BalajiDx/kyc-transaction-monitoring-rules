@@ -1,0 +1,1801 @@
+CustomerID,CustomerType,Occupation,DeclaredAnnualIncome,State,PEP,PANAvailable,AadhaarVerified,AddressProofOnFile,OnboardingDate,RiskRating,LastKYCReviewDate,EDDCompleted
+K00001,Individual,Salaried,275000,Kerala,0,1,1,1,2021-05-01,Medium,2022-12-11,0
+K00002,Individual,Self-Employed,867000,Tamil Nadu,0,1,1,1,2014-07-03,Low,2022-02-26,0
+K00003,Individual,Self-Employed,414000,Tamil Nadu,0,1,1,0,2018-04-25,Medium,2024-07-05,0
+K00004,Individual,Salaried,290000,Tamil Nadu,0,1,1,1,2020-03-31,Low,2023-12-02,0
+K00005,Individual,Salaried,234000,Tamil Nadu,0,1,1,1,2019-01-29,Medium,2019-12-06,0
+K00006,Individual,Retired,491000,Delhi,0,1,1,1,2013-05-23,Low,2017-01-16,0
+K00007,Individual,Salaried,978000,Tamil Nadu,1,0,1,1,2022-11-03,High,2023-04-19,0
+K00008,Individual,Salaried,262000,Kerala,0,1,1,1,2023-05-25,Low,2023-06-01,0
+K00009,Individual,Homemaker,99000,Tamil Nadu,0,1,1,1,2018-08-18,Low,2019-08-10,0
+K00010,Individual,Self-Employed,896000,Karnataka,0,1,1,1,2014-08-13,Low,2021-01-09,0
+K00011,Individual,Salaried,1046000,Kerala,0,1,1,1,2016-03-22,Low,2016-06-29,0
+K00012,Individual,Self-Employed,196000,Puducherry,0,1,1,1,2014-04-03,Low,2022-12-08,0
+K00013,Individual,Business Owner,1228000,Kerala,0,1,1,1,2013-10-25,Medium,2022-01-28,0
+K00014,Individual,Salaried,539000,Maharashtra,0,1,1,1,2019-03-04,Low,2023-08-19,0
+K00015,Individual,Salaried,207000,Maharashtra,0,1,0,1,2015-06-09,Low,2021-10-01,0
+K00016,Individual,Student,69000,Maharashtra,0,1,1,1,2019-05-24,Medium,2019-07-25,0
+K00017,Sole Proprietor,Business Owner,1258000,Tamil Nadu,0,1,1,1,2017-01-08,High,2023-08-20,1
+K00018,Individual,Self-Employed,797000,Puducherry,0,1,1,1,2019-04-28,Medium,2021-10-17,0
+K00019,Individual,Student,44000,Tamil Nadu,0,0,1,1,2022-10-06,Low,2024-03-05,0
+K00020,Individual,Self-Employed,694000,Maharashtra,0,1,1,1,2019-06-14,Low,2020-07-04,0
+K00021,Individual,Homemaker,66000,Karnataka,0,0,1,1,2018-12-24,Low,2022-10-30,0
+K00022,Individual,Salaried,529000,Tamil Nadu,0,1,1,1,2017-03-07,Low,2023-11-06,0
+K00023,Individual,Self-Employed,618000,Puducherry,0,1,1,1,2023-06-09,Medium,2023-06-25,0
+K00024,Individual,Self-Employed,485000,Puducherry,0,1,1,1,2018-03-11,Low,2023-10-03,0
+K00025,Individual,Salaried,213000,Tamil Nadu,0,1,1,1,2020-02-12,Medium,2022-09-11,0
+K00026,Individual,Self-Employed,1207000,Maharashtra,0,1,1,1,2022-02-18,Medium,2024-04-17,0
+K00027,Individual,Salaried,663000,Karnataka,0,1,1,1,2018-11-02,Low,2022-11-15,0
+K00028,Individual,Student,85000,Tamil Nadu,0,0,1,1,2015-02-10,Low,2015-08-05,0
+K00029,Individual,Retired,213000,Puducherry,0,1,1,1,2014-11-16,Medium,2019-04-03,0
+K00030,Individual,Salaried,344000,Tamil Nadu,0,1,1,1,2016-02-10,Low,2016-11-13,0
+K00031,Individual,Self-Employed,1219000,Karnataka,0,0,1,1,2022-02-06,Low,2023-01-11,0
+K00032,Individual,Salaried,562000,Tamil Nadu,0,1,1,1,2017-02-23,Low,2024-07-01,0
+K00033,Individual,Salaried,274000,Tamil Nadu,0,1,1,1,2019-10-17,Low,2020-08-19,0
+K00034,Individual,Retired,294000,Puducherry,0,1,1,1,2013-12-23,Low,2015-04-21,0
+K00035,Individual,Salaried,429000,Tamil Nadu,0,1,1,1,2019-07-27,Low,2020-01-18,0
+K00036,Individual,Salaried,368000,Tamil Nadu,0,1,1,1,2016-04-21,Medium,2024-11-21,0
+K00037,Sole Proprietor,Business Owner,752000,Puducherry,0,1,1,1,2015-06-06,High,2016-01-02,0
+K00038,Individual,Salaried,708000,Maharashtra,0,0,1,1,2019-04-16,Low,2023-11-13,0
+K00039,Individual,Retired,375000,Kerala,0,1,1,1,2016-01-03,Low,2024-01-25,0
+K00040,Individual,Salaried,369000,Puducherry,0,1,1,1,2019-05-06,Low,2022-01-18,0
+K00041,Individual,Salaried,199000,Karnataka,0,1,1,1,2021-07-18,Medium,2024-04-15,0
+K00042,Individual,Salaried,310000,Maharashtra,0,1,1,1,2023-11-27,Medium,2023-12-05,0
+K00043,Individual,Salaried,403000,Tamil Nadu,0,1,1,1,2015-05-12,Medium,2017-10-12,0
+K00044,Individual,Self-Employed,852000,Kerala,0,1,1,1,2016-12-25,Low,2024-09-07,0
+K00045,Individual,Retired,244000,Puducherry,0,1,1,1,2018-11-21,Low,2024-03-02,0
+K00046,Sole Proprietor,Business Owner,1900000,Puducherry,0,1,1,1,2018-10-31,Low,2021-07-05,0
+K00047,Individual,Salaried,430000,Tamil Nadu,0,1,1,1,2022-08-16,Low,2023-07-14,0
+K00048,Individual,Salaried,289000,Kerala,0,0,1,0,2020-08-01,Low,2023-11-15,0
+K00049,Individual,Salaried,115000,Tamil Nadu,0,1,1,1,2013-04-25,Low,2016-02-15,0
+K00050,Individual,Homemaker,51000,Maharashtra,0,1,1,1,2021-09-30,Low,2022-12-10,0
+K00051,Individual,Self-Employed,296000,Puducherry,0,1,1,1,2019-12-02,Low,2022-08-08,0
+K00052,Sole Proprietor,Business Owner,1080000,Tamil Nadu,0,1,1,1,2023-05-19,High,2024-07-22,1
+K00053,Individual,Salaried,470000,Tamil Nadu,0,1,1,1,2013-12-05,Low,2021-06-12,0
+K00054,Individual,Salaried,757000,Kerala,0,1,1,1,2014-09-21,Low,2017-09-28,0
+K00055,Individual,Student,58000,Karnataka,0,1,1,1,2019-09-04,Low,2022-06-03,0
+K00056,Individual,Self-Employed,344000,Kerala,0,1,1,1,2012-06-22,Low,2020-10-13,0
+K00057,Individual,Salaried,1169000,Karnataka,0,1,1,1,2017-09-10,Medium,2022-08-27,0
+K00058,Individual,Salaried,467000,Puducherry,0,0,1,1,2023-10-20,Medium,2023-04-17,0
+K00059,Individual,Salaried,360000,Kerala,0,1,1,1,2020-05-15,Low,2023-10-15,0
+K00060,Individual,Salaried,361000,Karnataka,0,1,1,0,2016-11-13,Medium,2019-07-09,0
+K00061,Individual,Salaried,221000,Kerala,0,1,1,1,2018-08-29,Low,2020-09-29,0
+K00062,Individual,Student,77000,Tamil Nadu,0,0,0,1,2013-12-02,Low,2022-04-06,0
+K00063,Individual,Self-Employed,687000,Tamil Nadu,0,1,1,1,2020-04-14,Low,2023-04-12,0
+K00064,Individual,Salaried,831000,Puducherry,0,1,1,1,2020-03-13,Low,2022-04-27,0
+K00065,Individual,Business Owner,1908000,Kerala,0,1,1,1,2018-07-16,High,2018-12-08,0
+K00066,Individual,Salaried,601000,Tamil Nadu,0,1,1,1,2021-05-03,Low,2022-04-20,0
+K00067,Individual,Salaried,717000,Delhi,0,1,1,1,2012-05-13,Low,2016-04-18,0
+K00068,Individual,Self-Employed,512000,Tamil Nadu,0,1,1,1,2016-02-17,Medium,2023-08-15,0
+K00069,Individual,Retired,238000,Tamil Nadu,0,1,1,1,2012-08-18,Low,2015-12-03,0
+K00070,Individual,Salaried,398000,Tamil Nadu,0,1,1,1,2021-10-29,Low,2022-05-27,0
+K00071,Individual,Student,33000,Karnataka,0,1,1,1,2015-02-25,Low,2017-06-11,0
+K00072,Individual,Salaried,382000,Delhi,0,1,1,1,2015-08-20,Medium,2020-11-08,0
+K00073,Individual,Salaried,352000,Tamil Nadu,0,1,1,1,2012-08-07,Medium,2013-12-28,0
+K00074,Individual,Salaried,551000,Tamil Nadu,0,1,1,1,2015-01-16,Low,2016-01-14,0
+K00075,Individual,Salaried,406000,Tamil Nadu,0,1,0,1,2018-11-17,Medium,2022-09-18,0
+K00076,Individual,Business Owner,494000,Puducherry,0,1,1,1,2021-10-28,Low,2023-04-16,0
+K00077,Individual,Self-Employed,592000,Puducherry,0,1,1,1,2017-11-05,Medium,2019-02-15,0
+K00078,Individual,Retired,552000,Delhi,0,1,1,1,2020-11-05,Low,2023-08-08,0
+K00079,Individual,Salaried,179000,Tamil Nadu,0,1,1,1,2016-08-30,Low,2023-11-08,0
+K00080,Individual,Salaried,291000,Karnataka,0,1,1,1,2019-05-16,Medium,2022-11-04,0
+K00081,Individual,Salaried,412000,Kerala,0,1,1,1,2015-05-04,Medium,2023-04-09,0
+K00082,Individual,Homemaker,48000,Karnataka,0,1,1,1,2014-09-03,Low,2021-04-28,0
+K00083,Individual,Homemaker,69000,Tamil Nadu,0,1,1,1,2020-11-28,Low,2023-10-25,0
+K00084,Individual,Salaried,420000,Karnataka,0,1,1,1,2016-02-07,Low,2020-08-22,0
+K00085,Individual,Salaried,226000,Delhi,0,1,1,1,2013-09-06,Low,2015-11-13,0
+K00086,Individual,Salaried,468000,Tamil Nadu,0,1,0,1,2020-10-20,Medium,2024-09-28,0
+K00087,Individual,Business Owner,1409000,Maharashtra,0,1,1,1,2018-04-28,High,2022-01-24,0
+K00088,Individual,Salaried,232000,Maharashtra,0,1,1,1,2020-05-21,Medium,2022-07-31,0
+K00089,Individual,Salaried,416000,Kerala,0,1,1,1,2022-05-29,Low,2022-09-18,0
+K00090,Individual,Salaried,668000,Karnataka,0,1,1,1,2020-07-13,Low,2023-10-02,0
+K00091,Individual,Salaried,380000,Delhi,0,1,0,1,2020-01-12,Low,2024-08-30,0
+K00092,Individual,Student,71000,Tamil Nadu,0,1,1,1,2019-04-06,Low,2019-10-27,0
+K00093,Sole Proprietor,Business Owner,1569000,Maharashtra,0,1,1,1,2019-07-09,High,2023-10-04,1
+K00094,Individual,Self-Employed,529000,Puducherry,0,1,1,1,2013-12-21,Low,2015-04-17,0
+K00095,Individual,Business Owner,1830000,Karnataka,0,1,1,1,2022-02-08,High,2023-09-04,1
+K00096,Sole Proprietor,Business Owner,1399000,Puducherry,0,1,1,1,2015-06-25,Low,2017-03-25,0
+K00097,Individual,Student,38000,Tamil Nadu,0,1,1,1,2022-06-30,Medium,2024-06-27,0
+K00098,Individual,Retired,372000,Karnataka,0,1,1,1,2012-12-09,Medium,2018-03-16,0
+K00099,Individual,Salaried,608000,Karnataka,0,1,1,1,2017-08-27,Low,2024-11-08,0
+K00100,Individual,Self-Employed,846000,Karnataka,0,1,1,1,2022-09-28,Low,2023-09-18,0
+K00101,Individual,Salaried,309000,Puducherry,1,1,1,0,2013-09-29,High,2014-05-04,0
+K00102,Individual,Salaried,508000,Puducherry,0,1,1,1,2020-07-26,Medium,2022-02-15,0
+K00103,Individual,Student,109000,Puducherry,0,1,1,1,2019-09-26,Low,2024-04-24,0
+K00104,Individual,Retired,327000,Karnataka,0,1,1,1,2016-07-24,Medium,2016-10-16,0
+K00105,Sole Proprietor,Business Owner,2013000,Puducherry,0,1,1,1,2016-05-24,High,2016-09-09,1
+K00106,Individual,Salaried,743000,Maharashtra,0,0,1,1,2013-03-08,Low,2019-12-24,0
+K00107,Individual,Salaried,407000,Karnataka,0,1,1,1,2021-12-05,Medium,2024-02-25,0
+K00108,Individual,Salaried,557000,Tamil Nadu,0,1,1,1,2023-10-12,Low,2022-12-11,0
+K00109,Individual,Homemaker,78000,Karnataka,0,1,1,1,2013-03-21,Low,2020-10-25,0
+K00110,Individual,Salaried,670000,Puducherry,0,1,1,1,2012-12-03,Medium,2018-12-20,0
+K00111,Individual,Salaried,398000,Karnataka,0,1,1,1,2018-03-07,Medium,2022-01-07,0
+K00112,Individual,Salaried,324000,Puducherry,0,1,1,1,2018-02-21,Low,2024-11-27,0
+K00113,Individual,Salaried,410000,Karnataka,0,1,1,1,2022-08-25,Low,2023-06-27,0
+K00114,Individual,Retired,287000,Tamil Nadu,0,1,1,1,2022-09-02,Medium,2023-04-12,0
+K00115,Sole Proprietor,Business Owner,1408000,Tamil Nadu,0,1,1,1,2015-06-23,Low,2017-11-07,0
+K00116,Individual,Salaried,512000,Karnataka,0,1,1,1,2016-09-05,Low,2018-11-04,0
+K00117,Individual,Self-Employed,351000,Tamil Nadu,0,1,1,1,2022-04-04,Low,2023-04-22,0
+K00118,Individual,Salaried,310000,Puducherry,0,1,1,1,2014-01-04,Low,2019-12-01,0
+K00119,Individual,Self-Employed,698000,Puducherry,0,1,1,1,2020-06-23,Low,2022-08-05,0
+K00120,Individual,Salaried,516000,Maharashtra,0,1,1,1,2014-02-12,Low,2017-04-12,0
+K00121,Individual,Salaried,432000,Delhi,0,1,0,1,2022-11-06,Low,2022-10-26,0
+K00122,Individual,Salaried,1361000,Tamil Nadu,0,1,1,1,2012-10-04,Medium,2014-04-28,0
+K00123,Individual,Self-Employed,984000,Puducherry,0,1,1,1,2014-01-16,Medium,2014-12-08,0
+K00124,Sole Proprietor,Business Owner,1150000,Karnataka,0,1,1,0,2017-02-09,Low,2023-09-22,0
+K00125,Individual,Salaried,579000,Tamil Nadu,0,1,1,1,2022-04-22,Low,2023-02-19,0
+K00126,Sole Proprietor,Business Owner,2176000,Puducherry,0,1,1,1,2019-06-20,Medium,2022-12-20,0
+K00127,Individual,Salaried,492000,Kerala,0,1,1,1,2016-11-21,Low,2018-04-11,0
+K00128,Individual,Salaried,190000,Maharashtra,0,1,1,1,2015-08-08,Medium,2021-02-05,0
+K00129,Individual,Salaried,437000,Tamil Nadu,0,1,1,1,2023-08-13,Low,2024-03-19,0
+K00130,Individual,Salaried,428000,Tamil Nadu,0,1,1,1,2017-05-31,Medium,2024-03-29,0
+K00131,Individual,Retired,780000,Delhi,0,1,1,0,2018-06-18,Low,2018-07-19,0
+K00132,Individual,Salaried,183000,Puducherry,0,1,1,1,2018-12-20,Low,2021-05-27,0
+K00133,Individual,Salaried,840000,Maharashtra,0,1,1,1,2014-04-24,Low,2022-03-31,0
+K00134,Individual,Self-Employed,558000,Delhi,0,1,1,1,2019-03-12,Low,2022-08-26,0
+K00135,Individual,Homemaker,137000,Maharashtra,0,1,1,1,2023-09-12,Medium,2024-05-26,0
+K00136,Individual,Retired,263000,Tamil Nadu,0,0,1,1,2017-02-27,Low,2021-04-26,0
+K00137,Sole Proprietor,Business Owner,1299000,Maharashtra,0,1,1,0,2020-09-27,High,2023-07-15,1
+K00138,Individual,Salaried,699000,Tamil Nadu,0,1,1,1,2021-01-06,Low,2022-08-26,0
+K00139,Individual,Student,62000,Tamil Nadu,0,1,1,1,2012-02-26,Low,2020-02-01,0
+K00140,Individual,Business Owner,1932000,Tamil Nadu,0,1,1,1,2015-03-15,Low,2017-06-16,0
+K00141,Individual,Salaried,406000,Puducherry,0,1,1,1,2023-03-05,Low,2024-05-23,0
+K00142,Individual,Self-Employed,500000,Puducherry,0,1,1,1,2022-07-22,Low,2022-12-24,0
+K00143,Individual,Salaried,382000,Tamil Nadu,0,1,1,1,2019-09-27,Low,2022-04-18,0
+K00144,Individual,Student,48000,Karnataka,0,1,1,1,2019-05-29,Low,2023-01-27,0
+K00145,Sole Proprietor,Business Owner,1141000,Puducherry,0,1,1,1,2018-06-21,High,2022-07-01,0
+K00146,Individual,Student,111000,Kerala,0,1,1,1,2013-08-23,Low,2022-04-17,0
+K00147,Individual,Business Owner,712000,Puducherry,0,1,1,0,2016-05-07,Low,2021-09-12,0
+K00148,Individual,Salaried,200000,Tamil Nadu,0,0,1,1,2017-03-15,Low,2024-12-17,0
+K00149,Individual,Student,60000,Tamil Nadu,0,1,1,1,2012-12-05,Low,2013-04-19,0
+K00150,Individual,Salaried,901000,Kerala,0,1,1,1,2015-02-09,Low,2023-02-14,0
+K00151,Individual,Salaried,677000,Tamil Nadu,0,1,1,1,2017-05-24,Low,2024-05-07,0
+K00152,Individual,Salaried,766000,Maharashtra,0,1,1,1,2016-11-22,Low,2018-08-01,0
+K00153,Individual,Self-Employed,1060000,Kerala,0,1,1,1,2014-02-26,Low,2021-03-07,0
+K00154,Individual,Salaried,305000,Tamil Nadu,0,1,1,1,2013-11-08,Low,2019-05-26,0
+K00155,Individual,Self-Employed,638000,Maharashtra,0,1,1,1,2013-08-22,Low,2019-09-02,0
+K00156,Individual,Self-Employed,183000,Tamil Nadu,0,1,1,1,2015-05-04,Low,2017-02-14,0
+K00157,Individual,Salaried,322000,Tamil Nadu,0,1,1,0,2014-10-27,Low,2015-06-02,0
+K00158,Individual,Self-Employed,795000,Karnataka,0,1,1,1,2013-04-13,Low,2020-10-17,0
+K00159,Individual,Salaried,210000,Puducherry,0,1,1,1,2020-08-10,Low,2024-01-27,0
+K00160,Individual,Business Owner,479000,Tamil Nadu,0,1,1,1,2018-10-20,Low,2023-03-15,0
+K00161,Individual,Salaried,236000,Delhi,0,1,1,1,2012-04-27,Low,2014-12-27,0
+K00162,Individual,Student,67000,Tamil Nadu,1,1,1,1,2020-07-28,High,2024-02-27,1
+K00163,Individual,Salaried,718000,Maharashtra,0,1,1,1,2018-01-19,Low,2023-09-09,0
+K00164,Individual,Self-Employed,1944000,Puducherry,0,1,1,1,2014-04-14,Low,2015-02-18,0
+K00165,Individual,Business Owner,2313000,Tamil Nadu,0,1,0,1,2018-09-04,Low,2022-09-06,0
+K00166,Individual,Self-Employed,307000,Tamil Nadu,0,1,1,1,2023-11-24,Medium,2024-03-27,0
+K00167,Individual,Salaried,150000,Puducherry,0,1,1,1,2023-01-03,Low,2024-04-17,0
+K00168,Individual,Homemaker,98000,Kerala,0,1,1,1,2015-06-20,Low,2017-03-30,0
+K00169,Individual,Salaried,687000,Tamil Nadu,0,1,1,1,2016-10-13,Low,2018-02-08,0
+K00170,Individual,Salaried,206000,Karnataka,0,1,1,1,2022-02-15,Low,2022-08-24,0
+K00171,Individual,Self-Employed,482000,Puducherry,0,1,1,1,2017-10-02,Low,2018-12-18,0
+K00172,Individual,Salaried,349000,Tamil Nadu,0,1,1,1,2015-02-04,Low,2021-06-10,0
+K00173,Individual,Salaried,435000,Tamil Nadu,0,1,1,1,2019-09-27,Low,2024-07-01,0
+K00174,Individual,Student,56000,Tamil Nadu,0,0,1,1,2012-05-17,Low,2013-08-06,0
+K00175,Individual,Student,77000,Kerala,0,1,1,1,2020-10-11,Low,2022-05-15,0
+K00176,Sole Proprietor,Business Owner,1975000,Tamil Nadu,0,1,1,1,2012-10-24,Medium,2014-12-29,0
+K00177,Individual,Retired,317000,Karnataka,0,1,1,1,2023-09-29,Low,2024-09-11,0
+K00178,Individual,Business Owner,1723000,Kerala,0,1,1,1,2012-08-21,Medium,2019-02-15,0
+K00179,Individual,Salaried,1056000,Tamil Nadu,0,1,1,1,2021-08-23,Low,2024-08-18,0
+K00180,Sole Proprietor,Business Owner,777000,Tamil Nadu,1,1,1,1,2023-01-01,High,2022-10-25,1
+K00181,Individual,Salaried,269000,Karnataka,0,1,1,0,2023-07-15,Medium,2023-11-12,0
+K00182,Sole Proprietor,Business Owner,1550000,Puducherry,0,1,1,1,2018-04-01,Low,2020-04-30,0
+K00183,Individual,Salaried,994000,Puducherry,0,1,1,1,2013-05-07,Low,2021-07-05,0
+K00184,Individual,Salaried,466000,Karnataka,0,1,1,0,2021-12-15,Low,2023-10-03,0
+K00185,Individual,Retired,505000,Karnataka,0,1,1,1,2014-11-04,Low,2022-09-22,0
+K00186,Sole Proprietor,Business Owner,1077000,Puducherry,0,1,0,1,2018-10-10,Medium,2022-12-31,0
+K00187,Individual,Business Owner,1869000,Tamil Nadu,0,1,1,1,2014-11-18,Low,2019-02-21,0
+K00188,Individual,Self-Employed,467000,Tamil Nadu,0,1,1,1,2012-01-18,Low,2020-01-23,0
+K00189,Individual,Student,84000,Tamil Nadu,0,1,1,0,2023-01-31,Low,2022-12-07,0
+K00190,Individual,Salaried,519000,Delhi,0,1,1,1,2019-10-14,Medium,2024-11-20,0
+K00191,Individual,Self-Employed,741000,Puducherry,0,1,1,1,2021-11-06,Low,2022-12-24,0
+K00192,Individual,Salaried,808000,Puducherry,0,1,1,1,2021-05-25,Low,2023-03-12,0
+K00193,Individual,Self-Employed,1006000,Puducherry,0,1,1,1,2020-11-16,Medium,2023-09-09,0
+K00194,Individual,Student,48000,Karnataka,0,1,1,1,2017-07-14,Low,2023-07-03,0
+K00195,Sole Proprietor,Business Owner,1857000,Maharashtra,0,1,0,1,2020-12-19,Low,2023-01-18,0
+K00196,Individual,Student,30000,Tamil Nadu,0,1,1,1,2020-11-06,Medium,2024-08-11,0
+K00197,Individual,Self-Employed,975000,Puducherry,0,1,1,1,2012-01-15,Low,2020-11-20,0
+K00198,Individual,Retired,1078000,Tamil Nadu,0,1,1,1,2014-08-09,Low,2018-08-18,0
+K00199,Individual,Salaried,556000,Puducherry,0,1,1,1,2023-09-17,Low,2024-03-19,0
+K00200,Individual,Retired,394000,Puducherry,0,1,1,1,2023-04-27,Low,2022-12-12,0
+K00201,Individual,Salaried,452000,Tamil Nadu,0,1,1,1,2013-10-16,Low,2016-08-15,0
+K00202,Individual,Salaried,639000,Maharashtra,0,1,1,1,2023-08-27,Low,2022-12-20,0
+K00203,Individual,Self-Employed,513000,Karnataka,0,1,1,1,2017-11-17,Low,2024-05-21,0
+K00204,Individual,Self-Employed,852000,Delhi,0,1,1,1,2023-05-12,Medium,2024-06-19,0
+K00205,Individual,Salaried,391000,Tamil Nadu,0,1,1,1,2021-11-02,Low,2023-07-04,0
+K00206,Individual,Retired,261000,Puducherry,0,1,1,1,2016-07-21,Medium,2018-07-13,0
+K00207,Individual,Salaried,468000,Tamil Nadu,0,1,1,1,2023-01-24,Medium,2023-06-30,0
+K00208,Individual,Self-Employed,616000,Puducherry,0,1,1,1,2022-03-16,Low,2024-08-24,0
+K00209,Individual,Salaried,203000,Tamil Nadu,0,1,1,1,2018-07-03,Low,2022-10-09,0
+K00210,Individual,Self-Employed,1612000,Karnataka,0,1,1,1,2019-07-04,Medium,2023-01-02,0
+K00211,Individual,Self-Employed,675000,Karnataka,0,1,1,1,2012-03-15,Low,2016-02-08,0
+K00212,Individual,Salaried,207000,Delhi,0,0,1,1,2015-10-13,Low,2024-10-08,0
+K00213,Individual,Self-Employed,1030000,Tamil Nadu,0,1,1,1,2021-06-26,Low,2022-10-17,0
+K00214,Individual,Retired,313000,Puducherry,0,1,1,1,2015-08-19,Low,2022-08-04,0
+K00215,Individual,Salaried,487000,Maharashtra,0,1,1,1,2018-06-04,Medium,2020-01-06,0
+K00216,Individual,Salaried,611000,Puducherry,0,1,1,1,2013-01-10,Low,2016-05-21,0
+K00217,Individual,Salaried,297000,Tamil Nadu,0,1,1,1,2021-12-05,Medium,2022-04-17,0
+K00218,Individual,Self-Employed,169000,Puducherry,0,1,1,1,2023-01-24,Low,2022-10-09,0
+K00219,Individual,Homemaker,91000,Karnataka,0,1,1,1,2022-08-03,Low,2024-08-12,0
+K00220,Individual,Salaried,495000,Maharashtra,0,1,1,1,2014-07-08,Medium,2015-06-14,0
+K00221,Individual,Homemaker,150000,Tamil Nadu,0,1,1,1,2013-10-27,Low,2020-01-04,0
+K00222,Individual,Self-Employed,452000,Tamil Nadu,0,1,1,1,2023-12-23,Low,2024-05-12,0
+K00223,Individual,Salaried,394000,Puducherry,0,1,1,1,2021-03-18,Low,2022-07-16,0
+K00224,Individual,Salaried,532000,Karnataka,0,1,1,1,2016-02-24,Low,2018-08-29,0
+K00225,Individual,Salaried,385000,Puducherry,0,0,1,1,2016-01-19,Low,2020-04-26,0
+K00226,Sole Proprietor,Business Owner,1135000,Tamil Nadu,0,1,0,1,2015-08-11,Low,2020-10-11,0
+K00227,Individual,Self-Employed,712000,Tamil Nadu,0,1,1,1,2018-03-22,Medium,2024-08-04,0
+K00228,Individual,Salaried,284000,Tamil Nadu,0,1,1,1,2022-03-29,Low,2024-01-27,0
+K00229,Individual,Salaried,906000,Kerala,0,1,1,1,2015-12-05,Low,2024-02-20,0
+K00230,Individual,Retired,210000,Puducherry,0,1,1,0,2020-11-13,Low,2021-10-24,0
+K00231,Individual,Business Owner,1290000,Tamil Nadu,0,1,1,1,2012-11-24,High,2018-07-25,1
+K00232,Individual,Salaried,383000,Puducherry,0,1,1,1,2012-09-27,Low,2020-12-11,0
+K00233,Individual,Salaried,323000,Tamil Nadu,0,1,1,1,2020-03-04,Low,2022-03-01,0
+K00234,Sole Proprietor,Business Owner,1614000,Maharashtra,0,1,1,1,2018-04-12,Medium,2021-11-09,0
+K00235,Individual,Homemaker,150000,Delhi,0,1,1,1,2023-08-28,Low,2023-10-24,0
+K00236,Individual,Salaried,855000,Delhi,0,1,1,1,2016-07-14,Medium,2018-01-26,0
+K00237,Individual,Salaried,577000,Puducherry,0,1,1,1,2015-08-21,Low,2018-09-15,0
+K00238,Individual,Salaried,363000,Tamil Nadu,0,1,1,1,2014-01-04,Low,2019-11-19,0
+K00239,Individual,Self-Employed,935000,Tamil Nadu,0,1,1,0,2014-09-04,Low,2016-04-21,0
+K00240,Individual,Salaried,232000,Karnataka,0,1,1,1,2018-01-25,Low,2021-10-23,0
+K00241,Individual,Salaried,453000,Maharashtra,0,1,1,1,2019-11-25,Low,2022-03-22,0
+K00242,Individual,Salaried,561000,Tamil Nadu,0,0,1,1,2023-10-02,Low,2024-05-01,0
+K00243,Individual,Salaried,571000,Puducherry,0,1,1,1,2018-05-25,Low,2020-06-16,0
+K00244,Sole Proprietor,Business Owner,754000,Karnataka,0,1,1,1,2020-09-14,Medium,2023-10-05,0
+K00245,Individual,Self-Employed,322000,Karnataka,0,1,1,1,2014-03-08,Low,2014-11-19,0
+K00246,Individual,Salaried,934000,Tamil Nadu,0,1,0,1,2021-06-29,Medium,2024-11-07,0
+K00247,Individual,Salaried,351000,Tamil Nadu,0,1,1,1,2022-08-30,Low,2023-07-27,0
+K00248,Individual,Self-Employed,301000,Tamil Nadu,0,1,1,1,2018-03-07,Low,2022-07-30,0
+K00249,Individual,Retired,180000,Tamil Nadu,0,0,1,1,2012-08-18,Medium,2019-12-08,0
+K00250,Individual,Retired,317000,Karnataka,0,1,1,1,2013-01-14,Medium,2016-12-26,0
+K00251,Individual,Salaried,749000,Tamil Nadu,0,1,1,1,2016-05-12,Low,2023-11-04,0
+K00252,Individual,Retired,314000,Tamil Nadu,0,1,1,1,2012-07-25,Medium,2019-07-28,0
+K00253,Individual,Retired,539000,Puducherry,0,1,1,1,2015-04-13,Medium,2020-01-27,0
+K00254,Individual,Salaried,487000,Maharashtra,0,1,1,1,2012-08-11,Medium,2018-03-15,0
+K00255,Sole Proprietor,Business Owner,1552000,Tamil Nadu,0,1,1,1,2020-08-19,High,2020-10-24,1
+K00256,Individual,Salaried,684000,Maharashtra,0,1,1,1,2022-10-13,Low,2024-07-11,0
+K00257,Individual,Salaried,370000,Karnataka,0,0,1,1,2019-10-16,Low,2022-12-03,0
+K00258,Individual,Self-Employed,716000,Puducherry,0,1,1,1,2021-11-04,Low,2023-05-06,0
+K00259,Individual,Salaried,368000,Puducherry,0,1,1,1,2016-07-07,Medium,2021-06-29,0
+K00260,Individual,Business Owner,939000,Puducherry,0,1,1,1,2017-04-07,Medium,2023-01-30,0
+K00261,Individual,Student,84000,Tamil Nadu,0,1,1,0,2013-07-15,Medium,2015-09-04,0
+K00262,Individual,Retired,216000,Puducherry,0,1,1,1,2014-05-21,Medium,2018-02-11,0
+K00263,Individual,Salaried,453000,Tamil Nadu,0,1,1,1,2017-06-28,Low,2022-08-28,0
+K00264,Individual,Salaried,306000,Maharashtra,0,1,0,1,2022-01-04,Medium,2023-04-02,0
+K00265,Individual,Retired,299000,Puducherry,0,1,1,1,2015-03-06,Low,2016-09-05,0
+K00266,Individual,Retired,246000,Puducherry,0,1,1,1,2018-04-20,Medium,2024-01-14,0
+K00267,Individual,Homemaker,153000,Karnataka,0,1,1,1,2014-05-27,Low,2015-02-10,0
+K00268,Individual,Self-Employed,645000,Kerala,0,1,1,1,2018-07-21,Medium,2022-03-15,0
+K00269,Individual,Business Owner,1287000,Tamil Nadu,0,1,1,1,2016-02-19,Low,2023-05-21,0
+K00270,Individual,Salaried,913000,Puducherry,0,0,1,1,2023-12-25,Low,2023-08-12,0
+K00271,Individual,Salaried,118000,Tamil Nadu,0,1,1,1,2020-02-10,Low,2022-11-30,0
+K00272,Individual,Salaried,262000,Karnataka,0,1,1,1,2016-01-30,Low,2021-01-25,0
+K00273,Sole Proprietor,Business Owner,360000,Tamil Nadu,0,1,1,1,2018-06-29,Low,2023-01-25,0
+K00274,Individual,Salaried,430000,Tamil Nadu,0,1,1,1,2012-04-15,Low,2013-03-11,0
+K00275,Individual,Business Owner,1501000,Tamil Nadu,0,1,1,1,2012-04-21,Medium,2013-12-29,0
+K00276,Individual,Self-Employed,822000,Maharashtra,0,1,1,1,2023-11-17,Medium,2024-05-12,0
+K00277,Individual,Salaried,486000,Karnataka,0,1,1,1,2021-11-08,Low,2023-12-14,0
+K00278,Individual,Homemaker,62000,Tamil Nadu,0,1,1,1,2020-08-16,Low,2022-03-10,0
+K00279,Individual,Salaried,945000,Tamil Nadu,0,1,1,1,2022-11-01,Low,2023-06-15,0
+K00280,Individual,Self-Employed,703000,Puducherry,0,1,1,1,2013-11-04,Low,2015-05-07,0
+K00281,Individual,Salaried,381000,Kerala,0,1,1,1,2023-09-04,Low,2024-05-14,0
+K00282,Individual,Homemaker,55000,Puducherry,0,1,1,1,2017-10-22,Low,2021-09-14,0
+K00283,Individual,Self-Employed,739000,Puducherry,0,1,1,0,2017-03-31,Low,2023-12-24,0
+K00284,Individual,Salaried,343000,Tamil Nadu,0,1,1,1,2014-02-03,Medium,2016-01-20,0
+K00285,Individual,Salaried,349000,Karnataka,0,1,1,0,2013-10-19,Low,2017-09-07,0
+K00286,Individual,Self-Employed,670000,Tamil Nadu,0,0,1,1,2019-10-08,Low,2023-10-17,0
+K00287,Individual,Salaried,471000,Puducherry,0,1,1,1,2022-10-17,Low,2024-07-11,0
+K00288,Individual,Salaried,295000,Karnataka,0,1,1,1,2022-04-18,Medium,2024-06-07,0
+K00289,Individual,Salaried,749000,Kerala,0,1,1,1,2021-06-08,Low,2023-07-17,0
+K00290,Individual,Salaried,271000,Kerala,0,1,1,1,2020-12-11,Medium,2021-06-14,0
+K00291,Individual,Self-Employed,368000,Tamil Nadu,0,1,1,1,2015-03-26,Low,2023-11-23,0
+K00292,Individual,Self-Employed,698000,Puducherry,0,1,1,1,2016-03-27,Low,2016-06-07,0
+K00293,Individual,Retired,322000,Tamil Nadu,0,1,1,0,2021-06-11,Low,2022-10-01,0
+K00294,Individual,Retired,313000,Tamil Nadu,0,1,1,1,2012-04-24,Medium,2017-03-08,0
+K00295,Individual,Homemaker,76000,Delhi,0,1,1,1,2013-03-08,Low,2020-02-01,0
+K00296,Individual,Student,62000,Karnataka,0,1,1,1,2017-02-05,Medium,2017-03-27,0
+K00297,Individual,Self-Employed,471000,Tamil Nadu,0,0,1,1,2014-11-07,Low,2021-06-23,0
+K00298,Individual,Self-Employed,289000,Maharashtra,0,1,1,1,2019-11-19,Low,2024-09-13,0
+K00299,Individual,Salaried,591000,Karnataka,0,1,1,1,2017-10-05,Low,2024-09-20,0
+K00300,Individual,Salaried,269000,Puducherry,0,1,1,1,2019-12-19,Low,2020-04-20,0
+K00301,Individual,Salaried,383000,Tamil Nadu,0,1,0,1,2013-10-04,Low,2020-06-21,0
+K00302,Individual,Student,84000,Tamil Nadu,0,1,1,1,2023-08-12,Low,2022-12-09,0
+K00303,Individual,Salaried,429000,Maharashtra,0,1,1,1,2015-10-16,Medium,2023-11-02,0
+K00304,Individual,Salaried,1456000,Karnataka,0,1,1,1,2017-06-17,Medium,2021-01-31,0
+K00305,Individual,Self-Employed,322000,Puducherry,0,1,1,1,2023-02-11,Medium,2023-06-06,0
+K00306,Sole Proprietor,Business Owner,864000,Maharashtra,0,1,1,1,2021-06-25,High,2024-07-24,0
+K00307,Individual,Salaried,441000,Tamil Nadu,0,1,1,1,2021-02-25,Medium,2022-10-05,0
+K00308,Individual,Salaried,780000,Delhi,0,1,1,1,2019-07-08,Low,2021-12-19,0
+K00309,Individual,Business Owner,1081000,Tamil Nadu,0,1,1,1,2012-10-04,Low,2014-01-24,0
+K00310,Individual,Salaried,222000,Puducherry,0,1,1,1,2020-11-06,Low,2024-10-27,0
+K00311,Individual,Salaried,708000,Tamil Nadu,0,1,1,1,2019-11-30,Medium,2023-03-03,0
+K00312,Individual,Self-Employed,399000,Karnataka,0,1,1,1,2017-02-18,Low,2023-08-15,0
+K00313,Individual,Self-Employed,552000,Tamil Nadu,0,1,1,1,2023-07-20,Low,2024-12-06,0
+K00314,Individual,Retired,449000,Karnataka,0,1,1,1,2023-07-12,Low,2024-11-22,0
+K00315,Individual,Salaried,313000,Puducherry,0,1,1,1,2020-07-25,Low,2023-01-04,0
+K00316,Individual,Student,49000,Puducherry,0,1,1,1,2013-01-30,Low,2020-08-06,0
+K00317,Individual,Salaried,526000,Puducherry,0,1,1,1,2012-11-06,Medium,2019-02-15,0
+K00318,Individual,Salaried,385000,Karnataka,0,1,1,1,2017-10-01,Low,2024-04-01,0
+K00319,Individual,Self-Employed,686000,Tamil Nadu,0,1,1,1,2019-11-12,Low,2024-02-13,0
+K00320,Individual,Salaried,276000,Kerala,0,1,1,1,2018-12-12,Low,2023-10-01,0
+K00321,Individual,Salaried,400000,Kerala,0,1,1,1,2012-11-15,Low,2017-12-02,0
+K00322,Individual,Salaried,258000,Puducherry,0,1,1,1,2022-05-18,Low,2023-07-31,0
+K00323,Individual,Salaried,209000,Puducherry,0,1,1,1,2022-12-24,Low,2023-10-16,0
+K00324,Individual,Salaried,929000,Karnataka,0,1,1,1,2020-05-27,Medium,2023-03-12,0
+K00325,Individual,Self-Employed,739000,Karnataka,0,1,1,1,2022-11-28,Low,2023-08-30,0
+K00326,Individual,Retired,455000,Maharashtra,0,1,1,1,2016-10-06,Medium,2017-01-18,0
+K00327,Individual,Salaried,272000,Tamil Nadu,0,1,1,1,2018-12-09,Medium,2022-12-04,0
+K00328,Individual,Salaried,416000,Puducherry,0,1,1,0,2015-04-16,Low,2018-12-19,0
+K00329,Individual,Self-Employed,548000,Kerala,0,1,1,1,2020-06-23,Medium,2021-12-25,0
+K00330,Individual,Salaried,222000,Karnataka,0,1,1,1,2018-10-02,Low,2022-07-17,0
+K00331,Individual,Salaried,538000,Delhi,0,1,1,1,2018-11-17,Low,2022-08-06,0
+K00332,Individual,Salaried,304000,Tamil Nadu,0,1,1,0,2023-03-31,Medium,2024-07-11,0
+K00333,Individual,Salaried,384000,Puducherry,0,1,1,1,2015-04-06,Low,2020-09-19,0
+K00334,Individual,Salaried,213000,Puducherry,0,1,1,1,2019-08-06,Low,2023-04-26,0
+K00335,Individual,Self-Employed,940000,Maharashtra,0,1,1,1,2016-11-27,Low,2023-10-19,0
+K00336,Individual,Self-Employed,846000,Tamil Nadu,0,1,1,1,2014-07-18,Low,2016-12-27,0
+K00337,Sole Proprietor,Business Owner,1435000,Puducherry,0,1,1,1,2020-03-16,High,2022-07-07,0
+K00338,Individual,Homemaker,60000,Puducherry,0,1,1,1,2021-10-14,Low,2023-10-30,0
+K00339,Individual,Salaried,330000,Karnataka,0,1,1,1,2012-09-17,Low,2012-09-26,0
+K00340,Sole Proprietor,Business Owner,2084000,Tamil Nadu,0,1,1,1,2014-10-06,Low,2021-06-17,0
+K00341,Individual,Salaried,372000,Kerala,0,0,1,1,2018-07-22,Low,2020-03-30,0
+K00342,Individual,Salaried,474000,Karnataka,0,1,0,1,2014-04-28,Medium,2017-12-02,0
+K00343,Individual,Retired,320000,Tamil Nadu,0,1,1,1,2013-05-13,Medium,2017-09-23,0
+K00344,Sole Proprietor,Business Owner,727000,Karnataka,0,1,1,1,2017-07-18,High,2019-04-15,1
+K00345,Individual,Homemaker,179000,Tamil Nadu,0,1,1,1,2022-02-02,Medium,2022-08-25,0
+K00346,Individual,Student,30000,Karnataka,0,0,1,1,2019-08-29,Low,2023-07-31,0
+K00347,Individual,Retired,332000,Tamil Nadu,0,1,1,1,2018-01-10,Low,2021-05-03,0
+K00348,Individual,Salaried,405000,Tamil Nadu,0,1,1,1,2022-02-14,Low,2023-10-23,0
+K00349,Individual,Salaried,203000,Puducherry,0,1,1,1,2023-06-25,Low,2022-12-02,0
+K00350,Individual,Salaried,489000,Puducherry,0,1,1,1,2013-10-15,Medium,2020-03-21,0
+K00351,Individual,Salaried,532000,Tamil Nadu,0,1,1,1,2016-03-14,Low,2024-08-12,0
+K00352,Sole Proprietor,Business Owner,1230000,Karnataka,0,1,1,1,2015-07-23,Low,2022-01-20,0
+K00353,Individual,Salaried,290000,Karnataka,0,1,1,1,2013-12-19,Low,2022-11-19,0
+K00354,Individual,Self-Employed,736000,Puducherry,0,1,1,1,2013-01-25,Low,2017-02-27,0
+K00355,Sole Proprietor,Business Owner,1985000,Tamil Nadu,0,1,1,1,2013-05-09,High,2017-04-08,1
+K00356,Individual,Salaried,465000,Tamil Nadu,0,1,1,1,2014-01-28,Medium,2017-07-06,0
+K00357,Sole Proprietor,Business Owner,2612000,Tamil Nadu,0,1,1,1,2014-06-18,Medium,2020-06-14,0
+K00358,Individual,Salaried,619000,Karnataka,0,0,1,1,2023-09-10,Low,2024-08-28,0
+K00359,Individual,Salaried,595000,Tamil Nadu,0,1,1,1,2015-05-04,Low,2023-02-19,0
+K00360,Individual,Business Owner,2248000,Puducherry,0,0,1,0,2019-04-23,High,2023-11-17,1
+K00361,Sole Proprietor,Business Owner,893000,Karnataka,0,1,1,1,2022-08-07,High,2022-12-01,1
+K00362,Individual,Salaried,333000,Puducherry,0,1,1,1,2013-11-12,Medium,2017-08-01,0
+K00363,Individual,Salaried,531000,Tamil Nadu,0,1,1,1,2022-01-27,Low,2024-10-13,0
+K00364,Individual,Student,76000,Kerala,0,1,1,1,2022-01-01,Low,2024-07-25,0
+K00365,Individual,Salaried,830000,Puducherry,0,1,1,1,2014-04-26,Low,2019-07-08,0
+K00366,Individual,Salaried,705000,Tamil Nadu,0,1,1,1,2012-07-10,Low,2018-12-11,0
+K00367,Individual,Salaried,456000,Karnataka,0,1,1,1,2013-12-28,Low,2022-12-03,0
+K00368,Individual,Salaried,465000,Tamil Nadu,0,1,1,1,2012-02-22,Low,2020-12-11,0
+K00369,Individual,Student,53000,Puducherry,0,1,1,1,2021-02-23,Medium,2023-01-30,0
+K00370,Individual,Salaried,358000,Tamil Nadu,0,1,1,1,2022-02-26,Low,2024-06-11,0
+K00371,Individual,Homemaker,74000,Tamil Nadu,0,1,1,1,2021-10-31,Low,2023-12-22,0
+K00372,Individual,Salaried,634000,Tamil Nadu,0,0,1,1,2019-07-28,Medium,2024-05-01,0
+K00373,Individual,Salaried,342000,Puducherry,0,1,1,1,2018-07-15,Low,2024-03-03,0
+K00374,Individual,Self-Employed,514000,Tamil Nadu,0,0,1,1,2020-02-25,Medium,2022-07-14,0
+K00375,Individual,Salaried,454000,Delhi,0,1,1,1,2012-03-18,Low,2019-02-22,0
+K00376,Individual,Salaried,336000,Puducherry,0,1,1,0,2017-05-29,Medium,2018-09-13,0
+K00377,Individual,Salaried,382000,Tamil Nadu,0,1,1,1,2014-03-30,Low,2019-10-26,0
+K00378,Individual,Salaried,159000,Tamil Nadu,0,1,1,1,2012-08-06,Medium,2019-08-23,0
+K00379,Individual,Salaried,502000,Maharashtra,0,1,1,1,2014-03-28,Low,2021-01-13,0
+K00380,Individual,Salaried,370000,Kerala,0,1,1,1,2014-07-15,Low,2015-08-17,0
+K00381,Individual,Retired,331000,Tamil Nadu,0,1,1,1,2014-04-15,Low,2015-12-31,0
+K00382,Individual,Salaried,502000,Tamil Nadu,0,1,1,1,2021-11-05,Low,2023-04-30,0
+K00383,Individual,Salaried,185000,Delhi,0,1,1,1,2020-02-06,Low,2024-12-06,0
+K00384,Sole Proprietor,Business Owner,3594000,Maharashtra,0,1,1,1,2012-02-21,Low,2020-09-04,0
+K00385,Individual,Retired,328000,Maharashtra,0,1,1,1,2020-01-02,Low,2024-05-29,0
+K00386,Individual,Salaried,466000,Puducherry,0,1,1,1,2016-03-05,Medium,2016-04-29,0
+K00387,Individual,Salaried,193000,Tamil Nadu,0,1,1,1,2018-02-10,Low,2021-06-18,0
+K00388,Individual,Business Owner,1638000,Tamil Nadu,0,1,1,1,2020-09-15,Low,2024-05-19,0
+K00389,Individual,Student,75000,Tamil Nadu,0,1,1,1,2015-03-19,Low,2023-05-07,0
+K00390,Individual,Self-Employed,531000,Tamil Nadu,0,1,1,1,2012-11-05,Low,2013-04-16,0
+K00391,Individual,Salaried,491000,Tamil Nadu,0,1,1,1,2021-10-28,Medium,2023-03-17,0
+K00392,Individual,Salaried,785000,Puducherry,0,1,1,1,2015-01-07,Low,2017-05-28,0
+K00393,Individual,Business Owner,1087000,Delhi,0,1,1,1,2013-08-25,Low,2017-02-19,0
+K00394,Individual,Business Owner,844000,Maharashtra,0,0,1,1,2019-03-07,Low,2022-08-04,0
+K00395,Individual,Retired,579000,Karnataka,0,0,1,1,2021-01-07,Medium,2022-10-30,0
+K00396,Individual,Student,72000,Tamil Nadu,0,1,1,1,2022-10-28,Low,2024-11-05,0
+K00397,Individual,Salaried,413000,Delhi,0,1,1,1,2019-06-30,Medium,2024-05-02,0
+K00398,Individual,Salaried,1261000,Tamil Nadu,0,1,1,1,2016-10-31,Medium,2024-04-02,0
+K00399,Individual,Retired,344000,Kerala,0,1,1,1,2022-02-16,Medium,2023-03-25,0
+K00400,Individual,Business Owner,1185000,Puducherry,0,1,0,1,2020-02-29,High,2022-06-27,1
+K00401,Individual,Self-Employed,723000,Tamil Nadu,0,1,1,1,2016-01-31,Low,2020-08-01,0
+K00402,Sole Proprietor,Business Owner,1070000,Puducherry,0,1,1,1,2018-05-01,Low,2018-07-10,0
+K00403,Individual,Salaried,494000,Puducherry,0,1,1,1,2018-07-31,Medium,2022-11-20,0
+K00404,Individual,Salaried,480000,Maharashtra,0,1,1,1,2020-04-22,Low,2024-03-26,0
+K00405,Individual,Self-Employed,477000,Kerala,0,1,1,1,2018-07-04,Medium,2024-01-25,0
+K00406,Individual,Self-Employed,569000,Tamil Nadu,0,1,1,0,2017-11-16,Medium,2022-09-28,0
+K00407,Individual,Business Owner,1470000,Puducherry,0,1,1,1,2018-11-23,Medium,2024-03-07,0
+K00408,Individual,Homemaker,114000,Kerala,0,1,1,1,2018-03-06,Low,2018-05-30,0
+K00409,Individual,Student,83000,Tamil Nadu,0,1,1,1,2022-12-17,Low,2024-01-28,0
+K00410,Individual,Salaried,636000,Kerala,0,1,1,1,2020-02-12,Low,2022-02-17,0
+K00411,Individual,Salaried,499000,Karnataka,0,1,1,1,2015-07-22,Medium,2022-03-09,0
+K00412,Individual,Retired,402000,Kerala,0,0,1,1,2014-10-18,Low,2016-09-26,0
+K00413,Individual,Salaried,376000,Karnataka,0,1,1,1,2019-10-06,Low,2024-08-23,0
+K00414,Individual,Student,57000,Delhi,0,1,1,1,2023-12-21,Low,2022-08-20,0
+K00415,Individual,Salaried,710000,Tamil Nadu,0,1,1,1,2013-06-28,Low,2016-03-31,0
+K00416,Individual,Self-Employed,261000,Maharashtra,0,1,1,1,2012-05-27,Medium,2015-09-01,0
+K00417,Individual,Self-Employed,749000,Karnataka,0,1,1,1,2012-02-22,Medium,2016-02-28,0
+K00418,Individual,Student,263000,Karnataka,0,1,1,1,2017-06-20,Low,2023-01-16,0
+K00419,Individual,Retired,137000,Delhi,0,1,1,1,2022-06-29,Low,2023-05-27,0
+K00420,Individual,Salaried,868000,Puducherry,0,1,1,1,2013-08-30,Low,2017-12-13,0
+K00421,Individual,Self-Employed,286000,Tamil Nadu,0,1,1,0,2023-07-22,Low,2023-08-14,0
+K00422,Individual,Self-Employed,740000,Kerala,0,1,1,1,2019-06-30,Low,2023-05-21,0
+K00423,Individual,Salaried,911000,Kerala,0,1,1,1,2013-10-10,Low,2017-09-05,0
+K00424,Individual,Student,122000,Tamil Nadu,0,1,1,1,2013-11-04,Low,2019-08-22,0
+K00425,Individual,Self-Employed,415000,Tamil Nadu,0,1,1,0,2018-12-28,Low,2023-03-13,0
+K00426,Individual,Homemaker,52000,Maharashtra,0,1,1,1,2020-04-02,Medium,2023-02-15,0
+K00427,Individual,Salaried,228000,Delhi,0,1,1,1,2015-06-05,Low,2021-11-13,0
+K00428,Individual,Self-Employed,856000,Delhi,0,1,1,1,2012-08-13,Medium,2016-03-07,0
+K00429,Individual,Salaried,363000,Tamil Nadu,0,1,1,1,2023-05-05,Low,2023-06-20,0
+K00430,Sole Proprietor,Business Owner,1238000,Tamil Nadu,0,1,1,1,2013-03-20,High,2015-08-11,1
+K00431,Individual,Self-Employed,693000,Tamil Nadu,0,1,1,1,2023-10-20,Low,2024-02-06,0
+K00432,Individual,Self-Employed,741000,Tamil Nadu,0,1,1,0,2013-01-30,Low,2016-02-11,0
+K00433,Individual,Salaried,548000,Maharashtra,0,1,1,1,2014-03-23,Low,2018-04-09,0
+K00434,Individual,Self-Employed,650000,Tamil Nadu,0,1,1,0,2019-02-21,Low,2024-06-27,0
+K00435,Individual,Salaried,209000,Tamil Nadu,0,1,1,1,2012-11-02,Low,2015-11-11,0
+K00436,Individual,Retired,591000,Karnataka,0,1,1,0,2016-03-13,Low,2023-02-05,0
+K00437,Individual,Self-Employed,178000,Kerala,0,1,1,1,2018-01-03,Low,2019-10-12,0
+K00438,Individual,Self-Employed,1069000,Karnataka,0,1,1,1,2012-04-25,Medium,2013-08-13,0
+K00439,Individual,Salaried,327000,Delhi,0,1,1,1,2017-10-14,Low,2020-05-04,0
+K00440,Individual,Salaried,392000,Delhi,0,0,1,1,2017-10-08,Low,2021-11-05,0
+K00441,Individual,Homemaker,73000,Kerala,0,1,1,1,2019-09-18,Low,2024-08-11,0
+K00442,Individual,Salaried,363000,Maharashtra,0,1,1,0,2018-10-02,Low,2020-07-01,0
+K00443,Individual,Retired,303000,Puducherry,0,1,1,1,2018-02-15,Low,2019-07-04,0
+K00444,Individual,Self-Employed,539000,Karnataka,0,1,1,1,2018-04-23,Low,2023-11-24,0
+K00445,Individual,Homemaker,56000,Puducherry,0,1,1,1,2018-05-02,Medium,2018-11-14,0
+K00446,Individual,Salaried,627000,Tamil Nadu,0,1,1,1,2020-02-09,Medium,2021-10-15,0
+K00447,Individual,Homemaker,71000,Karnataka,0,1,1,1,2012-03-07,Medium,2016-04-27,0
+K00448,Individual,Student,112000,Karnataka,0,1,1,1,2020-11-23,Medium,2024-07-08,0
+K00449,Individual,Self-Employed,570000,Maharashtra,0,1,0,1,2018-10-27,Low,2021-06-19,0
+K00450,Individual,Business Owner,889000,Maharashtra,0,1,1,1,2021-03-15,High,2024-02-13,1
+K00451,Individual,Business Owner,1486000,Tamil Nadu,0,1,1,1,2016-08-23,Low,2018-03-01,0
+K00452,Individual,Salaried,637000,Tamil Nadu,0,1,1,1,2021-07-22,Low,2024-01-17,0
+K00453,Sole Proprietor,Business Owner,805000,Kerala,0,1,1,1,2019-10-23,High,2022-10-31,1
+K00454,Individual,Salaried,376000,Tamil Nadu,0,1,0,1,2021-06-04,Medium,2024-10-08,0
+K00455,Individual,Salaried,812000,Maharashtra,0,1,1,1,2019-07-09,Low,2023-08-30,0
+K00456,Sole Proprietor,Business Owner,779000,Puducherry,0,1,1,1,2012-01-05,High,2020-12-24,1
+K00457,Individual,Self-Employed,416000,Tamil Nadu,0,0,1,1,2017-12-05,Low,2021-10-03,0
+K00458,Individual,Retired,329000,Puducherry,0,1,1,1,2016-01-04,Low,2023-08-22,0
+K00459,Individual,Salaried,247000,Tamil Nadu,0,1,1,1,2015-03-04,Medium,2023-12-01,0
+K00460,Individual,Student,30000,Maharashtra,0,1,1,1,2019-09-06,Medium,2023-07-12,0
+K00461,Individual,Homemaker,43000,Delhi,0,1,1,1,2018-09-04,Low,2020-06-14,0
+K00462,Individual,Retired,361000,Tamil Nadu,0,1,1,1,2016-06-26,Low,2016-06-27,0
+K00463,Individual,Homemaker,123000,Tamil Nadu,0,1,1,1,2013-10-31,Low,2022-04-03,0
+K00464,Individual,Salaried,557000,Tamil Nadu,0,1,1,1,2020-03-02,Low,2024-02-18,0
+K00465,Individual,Salaried,509000,Maharashtra,0,1,1,1,2019-01-26,Low,2022-02-23,0
+K00466,Individual,Salaried,245000,Puducherry,0,1,1,0,2022-05-01,Medium,2024-01-17,0
+K00467,Individual,Salaried,579000,Kerala,0,1,1,1,2017-02-09,Low,2023-11-18,0
+K00468,Individual,Salaried,717000,Tamil Nadu,0,1,1,1,2023-10-30,Low,2022-12-07,0
+K00469,Individual,Salaried,312000,Tamil Nadu,0,1,1,1,2013-05-03,Medium,2014-12-11,0
+K00470,Individual,Salaried,653000,Maharashtra,0,1,1,1,2013-07-10,Medium,2016-11-15,0
+K00471,Individual,Homemaker,78000,Tamil Nadu,0,1,1,1,2019-11-01,Medium,2021-01-03,0
+K00472,Individual,Salaried,465000,Delhi,0,0,1,1,2022-02-02,Low,2024-09-30,0
+K00473,Individual,Self-Employed,720000,Tamil Nadu,0,1,1,1,2023-02-24,Low,2022-08-24,0
+K00474,Individual,Self-Employed,313000,Delhi,0,1,1,1,2022-10-10,Low,2024-06-18,0
+K00475,Sole Proprietor,Business Owner,2362000,Kerala,0,1,0,1,2015-02-27,High,2017-03-30,0
+K00476,Individual,Student,42000,Maharashtra,0,1,1,1,2017-02-03,Medium,2017-05-22,0
+K00477,Individual,Salaried,408000,Tamil Nadu,0,1,1,1,2017-10-18,Low,2024-02-27,0
+K00478,Individual,Self-Employed,489000,Delhi,0,1,1,1,2014-07-02,Low,2015-09-01,0
+K00479,Individual,Salaried,525000,Karnataka,0,1,1,1,2016-09-17,Low,2024-06-29,0
+K00480,Individual,Salaried,519000,Tamil Nadu,0,1,1,1,2023-11-06,Low,2023-03-21,0
+K00481,Individual,Salaried,432000,Puducherry,0,1,1,1,2013-01-27,Medium,2018-09-02,0
+K00482,Individual,Salaried,808000,Puducherry,0,1,1,1,2013-05-18,Low,2016-03-26,0
+K00483,Individual,Salaried,486000,Maharashtra,0,1,1,1,2015-12-23,Low,2024-10-14,0
+K00484,Individual,Self-Employed,511000,Delhi,0,1,1,1,2022-03-05,Low,2022-07-28,0
+K00485,Individual,Salaried,117000,Puducherry,0,1,1,1,2019-09-25,Medium,2021-05-26,0
+K00486,Individual,Salaried,377000,Tamil Nadu,0,1,0,1,2015-06-08,Low,2016-10-23,0
+K00487,Individual,Student,54000,Tamil Nadu,0,1,1,1,2016-12-19,Low,2022-06-14,0
+K00488,Individual,Salaried,289000,Puducherry,0,1,1,1,2023-02-17,Medium,2024-06-23,0
+K00489,Individual,Salaried,290000,Puducherry,0,1,1,1,2022-12-31,Low,2023-03-10,0
+K00490,Individual,Salaried,559000,Maharashtra,0,1,1,1,2021-10-23,Low,2022-07-19,0
+K00491,Individual,Retired,489000,Maharashtra,0,1,1,1,2013-02-15,Low,2019-01-26,0
+K00492,Individual,Business Owner,2867000,Maharashtra,0,1,1,1,2021-04-30,Medium,2021-12-17,0
+K00493,Sole Proprietor,Business Owner,2044000,Tamil Nadu,0,1,1,1,2019-08-25,Low,2023-02-05,0
+K00494,Individual,Homemaker,67000,Maharashtra,0,1,1,1,2020-04-19,Low,2020-09-03,0
+K00495,Individual,Salaried,480000,Delhi,0,1,1,1,2012-05-07,Medium,2020-12-08,0
+K00496,Individual,Retired,165000,Kerala,0,1,1,1,2020-11-28,Low,2021-11-28,0
+K00497,Individual,Salaried,594000,Tamil Nadu,0,1,1,1,2022-10-26,Medium,2022-12-12,0
+K00498,Individual,Self-Employed,718000,Tamil Nadu,0,1,1,1,2016-02-28,Low,2024-12-06,0
+K00499,Sole Proprietor,Business Owner,929000,Tamil Nadu,0,1,1,1,2023-04-21,Low,2023-01-18,0
+K00500,Individual,Student,58000,Maharashtra,0,1,1,1,2022-11-08,Low,2023-11-15,0
+K00501,Individual,Salaried,382000,Tamil Nadu,0,1,1,1,2013-11-04,Low,2020-04-14,0
+K00502,Individual,Self-Employed,459000,Tamil Nadu,0,0,1,0,2017-03-09,Low,2021-07-17,0
+K00503,Individual,Salaried,775000,Puducherry,0,1,1,1,2016-07-06,Medium,2018-10-31,0
+K00504,Individual,Salaried,1731000,Tamil Nadu,0,1,1,1,2014-07-09,Low,2018-06-03,0
+K00505,Individual,Homemaker,133000,Tamil Nadu,0,1,1,1,2019-03-25,Low,2022-09-01,0
+K00506,Individual,Retired,492000,Tamil Nadu,0,1,1,1,2016-07-18,Low,2024-12-20,0
+K00507,Individual,Self-Employed,657000,Tamil Nadu,0,1,1,1,2016-10-07,Medium,2016-10-14,0
+K00508,Individual,Student,52000,Puducherry,0,1,1,1,2012-05-01,Low,2019-11-07,0
+K00509,Individual,Retired,821000,Puducherry,0,1,1,1,2021-01-08,Low,2024-11-29,0
+K00510,Individual,Salaried,363000,Karnataka,0,1,1,1,2016-06-26,Medium,2018-05-04,0
+K00511,Individual,Homemaker,110000,Tamil Nadu,0,1,1,1,2013-09-03,Low,2013-12-16,0
+K00512,Individual,Salaried,406000,Karnataka,0,1,1,0,2013-12-25,Low,2016-10-31,0
+K00513,Individual,Salaried,559000,Tamil Nadu,0,1,0,1,2016-04-12,Low,2017-04-23,0
+K00514,Individual,Self-Employed,598000,Maharashtra,0,1,0,1,2018-08-05,Medium,2019-01-15,0
+K00515,Individual,Self-Employed,799000,Tamil Nadu,0,1,1,1,2023-07-13,Low,2024-06-06,0
+K00516,Individual,Business Owner,692000,Delhi,0,1,1,1,2020-08-05,Medium,2024-07-30,0
+K00517,Sole Proprietor,Business Owner,1169000,Maharashtra,0,1,1,1,2016-04-08,Low,2024-12-26,0
+K00518,Individual,Salaried,793000,Tamil Nadu,0,1,1,1,2013-09-20,Low,2018-11-26,0
+K00519,Individual,Business Owner,768000,Tamil Nadu,0,1,1,1,2017-04-17,Low,2018-02-09,0
+K00520,Individual,Retired,226000,Tamil Nadu,0,1,1,1,2022-11-29,Low,2023-02-17,0
+K00521,Sole Proprietor,Business Owner,2267000,Tamil Nadu,0,0,1,1,2018-06-05,Low,2020-01-10,0
+K00522,Individual,Homemaker,110000,Puducherry,0,1,1,1,2016-05-01,Low,2021-05-05,0
+K00523,Individual,Self-Employed,989000,Tamil Nadu,0,1,1,1,2020-01-30,Medium,2022-11-25,0
+K00524,Individual,Student,30000,Puducherry,0,1,1,1,2012-11-30,Medium,2016-12-05,0
+K00525,Individual,Salaried,457000,Karnataka,0,1,1,1,2019-07-12,Medium,2023-02-19,0
+K00526,Individual,Retired,172000,Karnataka,0,0,1,1,2013-12-07,Medium,2018-01-18,0
+K00527,Individual,Salaried,229000,Karnataka,0,1,1,1,2014-04-18,Medium,2014-12-04,0
+K00528,Individual,Retired,368000,Maharashtra,0,1,1,1,2022-06-20,Low,2023-08-14,0
+K00529,Individual,Salaried,729000,Tamil Nadu,0,1,1,1,2023-02-09,Medium,2022-11-19,0
+K00530,Individual,Self-Employed,312000,Tamil Nadu,0,1,1,1,2023-04-14,Low,2024-07-02,0
+K00531,Individual,Student,37000,Tamil Nadu,0,1,1,1,2014-09-27,Low,2017-09-14,0
+K00532,Sole Proprietor,Business Owner,939000,Tamil Nadu,0,1,1,1,2015-01-05,High,2022-01-14,1
+K00533,Individual,Self-Employed,577000,Tamil Nadu,0,1,1,1,2013-05-03,Low,2020-04-24,0
+K00534,Individual,Homemaker,50000,Tamil Nadu,0,1,1,1,2015-10-24,Low,2016-02-10,0
+K00535,Individual,Salaried,1183000,Tamil Nadu,0,1,1,1,2019-03-30,Low,2024-05-23,0
+K00536,Individual,Salaried,557000,Puducherry,0,1,1,1,2012-02-05,Low,2020-06-13,0
+K00537,Individual,Self-Employed,519000,Kerala,0,1,1,1,2014-03-21,Low,2017-05-25,0
+K00538,Individual,Homemaker,72000,Delhi,0,1,1,1,2017-10-08,Low,2023-05-10,0
+K00539,Individual,Business Owner,3480000,Karnataka,0,0,1,1,2021-06-08,Low,2023-10-30,0
+K00540,Individual,Salaried,1173000,Karnataka,0,1,1,1,2016-07-11,Low,2018-08-14,0
+K00541,Individual,Salaried,342000,Puducherry,0,1,1,1,2022-08-28,Low,2022-09-22,0
+K00542,Individual,Salaried,499000,Tamil Nadu,0,1,1,1,2014-01-09,Low,2018-03-17,0
+K00543,Individual,Self-Employed,1076000,Delhi,0,1,1,1,2017-05-17,Low,2022-11-26,0
+K00544,Individual,Self-Employed,357000,Delhi,0,1,1,1,2020-09-13,Low,2024-02-06,0
+K00545,Individual,Self-Employed,467000,Puducherry,0,1,1,1,2012-08-12,Medium,2013-12-01,0
+K00546,Individual,Salaried,784000,Maharashtra,0,1,1,0,2014-01-13,Medium,2020-08-25,0
+K00547,Individual,Retired,222000,Tamil Nadu,0,1,1,1,2019-01-14,Low,2022-06-25,0
+K00548,Individual,Salaried,350000,Delhi,0,1,1,1,2013-12-09,Low,2014-06-24,0
+K00549,Individual,Salaried,232000,Tamil Nadu,0,1,1,1,2014-07-24,Medium,2017-11-04,0
+K00550,Individual,Salaried,302000,Kerala,0,1,1,1,2018-02-23,Medium,2023-09-11,0
+K00551,Individual,Homemaker,124000,Delhi,0,1,0,1,2013-12-08,Low,2014-11-29,0
+K00552,Individual,Salaried,293000,Puducherry,0,1,1,1,2016-08-26,Low,2022-11-03,0
+K00553,Individual,Salaried,235000,Puducherry,0,1,1,1,2012-08-09,Medium,2021-07-06,0
+K00554,Individual,Retired,228000,Tamil Nadu,0,1,1,1,2013-02-10,Medium,2013-02-11,0
+K00555,Individual,Salaried,945000,Tamil Nadu,0,1,1,1,2018-09-13,Medium,2023-08-28,0
+K00556,Individual,Student,66000,Delhi,0,1,1,1,2017-10-02,Low,2020-07-10,0
+K00557,Individual,Salaried,329000,Tamil Nadu,0,1,1,1,2021-02-19,Low,2022-08-16,0
+K00558,Individual,Retired,324000,Puducherry,0,1,1,1,2012-11-29,Low,2014-08-01,0
+K00559,Individual,Salaried,518000,Maharashtra,0,1,1,1,2021-03-18,Medium,2023-05-25,0
+K00560,Individual,Salaried,447000,Karnataka,0,1,1,1,2019-07-18,Low,2024-07-09,0
+K00561,Individual,Business Owner,534000,Tamil Nadu,0,1,1,1,2022-02-25,Low,2024-02-04,0
+K00562,Individual,Homemaker,104000,Karnataka,0,1,1,1,2015-07-31,Medium,2021-04-04,0
+K00563,Individual,Homemaker,82000,Maharashtra,0,1,1,1,2012-05-29,Low,2016-04-08,0
+K00564,Individual,Business Owner,1769000,Tamil Nadu,0,1,1,1,2013-03-21,High,2019-12-25,1
+K00565,Individual,Retired,164000,Tamil Nadu,0,0,1,1,2016-07-15,Low,2017-04-19,0
+K00566,Individual,Homemaker,145000,Delhi,0,1,1,1,2012-06-12,Low,2019-05-19,0
+K00567,Individual,Self-Employed,482000,Tamil Nadu,0,1,1,1,2023-03-14,Low,2023-10-17,0
+K00568,Individual,Salaried,195000,Puducherry,0,1,1,1,2023-09-16,Low,2024-01-29,0
+K00569,Individual,Student,110000,Kerala,0,1,1,1,2017-04-26,Medium,2021-08-20,0
+K00570,Individual,Salaried,334000,Tamil Nadu,0,1,1,1,2016-09-22,Low,2018-07-20,0
+K00571,Individual,Salaried,499000,Puducherry,0,1,1,1,2019-12-10,Low,2023-05-23,0
+K00572,Individual,Self-Employed,559000,Tamil Nadu,0,1,1,1,2012-09-03,Medium,2017-10-12,0
+K00573,Individual,Salaried,691000,Karnataka,0,1,1,1,2023-09-19,Low,2022-09-20,0
+K00574,Individual,Salaried,695000,Maharashtra,0,1,1,1,2022-06-13,Low,2024-04-12,0
+K00575,Individual,Salaried,698000,Karnataka,0,1,1,1,2014-11-10,Low,2015-11-30,0
+K00576,Individual,Self-Employed,831000,Karnataka,0,1,1,1,2017-12-08,Low,2021-08-25,0
+K00577,Sole Proprietor,Business Owner,578000,Kerala,0,1,1,1,2015-12-18,Medium,2020-08-19,0
+K00578,Individual,Homemaker,42000,Tamil Nadu,0,1,1,1,2020-04-14,Low,2022-08-19,0
+K00579,Individual,Student,66000,Kerala,0,1,1,1,2018-08-16,Low,2023-09-13,0
+K00580,Individual,Homemaker,58000,Kerala,0,1,1,1,2018-05-04,Low,2023-04-07,0
+K00581,Individual,Business Owner,1483000,Puducherry,0,1,1,1,2013-12-11,Medium,2015-08-12,0
+K00582,Sole Proprietor,Business Owner,1294000,Kerala,0,1,1,0,2014-11-28,Medium,2017-04-03,0
+K00583,Individual,Self-Employed,316000,Maharashtra,0,1,1,1,2017-11-30,Medium,2018-10-03,0
+K00584,Individual,Salaried,262000,Delhi,0,1,1,1,2018-12-12,Low,2021-12-01,0
+K00585,Individual,Salaried,251000,Tamil Nadu,0,1,1,1,2015-10-13,Low,2017-12-07,0
+K00586,Sole Proprietor,Business Owner,802000,Puducherry,0,1,1,0,2018-08-04,High,2021-02-28,1
+K00587,Individual,Salaried,382000,Tamil Nadu,0,1,1,1,2020-08-13,Low,2024-04-17,0
+K00588,Individual,Student,82000,Puducherry,0,1,1,1,2013-06-07,Low,2021-07-23,0
+K00589,Individual,Self-Employed,1101000,Tamil Nadu,0,1,1,1,2021-09-18,Low,2023-11-20,0
+K00590,Individual,Salaried,270000,Kerala,0,1,1,1,2012-05-02,Low,2017-09-03,0
+K00591,Individual,Self-Employed,464000,Karnataka,0,1,1,1,2022-06-10,Medium,2024-03-15,0
+K00592,Individual,Salaried,850000,Karnataka,0,0,1,1,2015-08-06,Low,2019-03-29,0
+K00593,Individual,Salaried,630000,Kerala,0,1,1,1,2017-05-13,Low,2021-01-21,0
+K00594,Individual,Salaried,467000,Tamil Nadu,0,1,1,1,2012-02-29,Low,2014-09-01,0
+K00595,Individual,Salaried,145000,Tamil Nadu,0,1,1,0,2012-02-06,Medium,2015-08-15,0
+K00596,Individual,Salaried,266000,Kerala,0,1,1,1,2019-05-16,Low,2024-01-07,0
+K00597,Sole Proprietor,Business Owner,1288000,Tamil Nadu,0,0,1,1,2021-10-28,Low,2022-12-16,0
+K00598,Individual,Salaried,321000,Karnataka,0,1,1,1,2018-01-18,Medium,2018-05-10,0
+K00599,Individual,Salaried,1036000,Tamil Nadu,0,1,1,1,2013-04-06,Low,2022-01-05,0
+K00600,Individual,Self-Employed,624000,Maharashtra,0,1,1,1,2019-10-20,Low,2024-12-24,0
+K00601,Individual,Homemaker,102000,Tamil Nadu,0,1,1,1,2022-10-06,Low,2023-11-06,0
+K00602,Individual,Salaried,255000,Karnataka,0,1,1,1,2015-08-13,Medium,2023-06-09,0
+K00603,Individual,Salaried,261000,Karnataka,0,1,1,1,2012-04-12,Low,2020-05-12,0
+K00604,Individual,Salaried,310000,Tamil Nadu,0,1,1,1,2021-12-23,Low,2024-01-10,0
+K00605,Individual,Salaried,316000,Kerala,0,1,1,1,2016-05-10,Medium,2019-02-10,0
+K00606,Individual,Salaried,377000,Tamil Nadu,0,1,1,1,2022-02-17,Low,2023-01-16,0
+K00607,Individual,Salaried,497000,Puducherry,0,1,1,1,2013-11-07,Low,2015-08-21,0
+K00608,Individual,Salaried,467000,Puducherry,0,1,1,1,2017-07-08,Low,2021-04-03,0
+K00609,Individual,Salaried,661000,Tamil Nadu,0,1,1,1,2021-12-18,Low,2023-12-05,0
+K00610,Individual,Self-Employed,324000,Karnataka,0,1,1,1,2019-08-09,Low,2021-02-07,0
+K00611,Sole Proprietor,Business Owner,1318000,Puducherry,0,1,1,1,2018-05-28,Low,2019-09-03,0
+K00612,Individual,Salaried,468000,Tamil Nadu,0,1,1,1,2019-07-31,Low,2022-10-27,0
+K00613,Individual,Salaried,863000,Karnataka,0,1,1,1,2012-10-04,Low,2016-08-07,0
+K00614,Individual,Salaried,380000,Tamil Nadu,0,1,1,1,2020-01-07,Medium,2022-12-04,0
+K00615,Individual,Salaried,486000,Karnataka,0,1,1,1,2019-09-04,Low,2020-12-03,0
+K00616,Individual,Salaried,289000,Karnataka,0,1,1,1,2019-07-13,Low,2023-07-29,0
+K00617,Individual,Self-Employed,726000,Tamil Nadu,0,1,1,1,2021-02-04,Low,2023-05-03,0
+K00618,Individual,Retired,359000,Maharashtra,0,1,1,1,2015-11-19,Low,2024-10-22,0
+K00619,Individual,Business Owner,900000,Delhi,0,1,1,1,2020-01-08,Low,2023-02-03,0
+K00620,Individual,Salaried,343000,Delhi,0,1,1,1,2016-12-27,Low,2020-08-30,0
+K00621,Individual,Salaried,413000,Tamil Nadu,0,1,1,1,2015-11-14,Low,2023-10-14,0
+K00622,Individual,Salaried,546000,Tamil Nadu,0,1,1,1,2013-05-21,Low,2018-04-15,0
+K00623,Individual,Salaried,249000,Tamil Nadu,0,1,1,1,2015-10-02,Medium,2016-06-14,0
+K00624,Individual,Salaried,627000,Kerala,0,1,1,1,2021-08-14,Low,2023-01-25,0
+K00625,Individual,Business Owner,1030000,Puducherry,0,1,1,1,2015-08-10,Low,2022-01-31,0
+K00626,Individual,Salaried,995000,Tamil Nadu,0,0,1,1,2013-12-03,Low,2014-07-04,0
+K00627,Individual,Salaried,815000,Karnataka,0,1,1,1,2014-06-28,Low,2022-07-21,0
+K00628,Individual,Business Owner,997000,Tamil Nadu,0,1,1,1,2019-06-11,Low,2024-03-08,0
+K00629,Individual,Self-Employed,451000,Tamil Nadu,0,1,1,1,2022-10-15,Low,2023-11-01,0
+K00630,Individual,Self-Employed,1832000,Delhi,0,0,1,1,2014-05-07,Low,2016-02-15,0
+K00631,Individual,Retired,399000,Karnataka,1,1,1,1,2020-10-20,High,2022-10-11,0
+K00632,Individual,Salaried,543000,Karnataka,0,0,1,1,2017-01-27,Low,2018-03-02,0
+K00633,Individual,Salaried,346000,Puducherry,1,1,1,1,2018-07-28,High,2021-04-16,1
+K00634,Individual,Self-Employed,565000,Tamil Nadu,0,1,1,1,2023-07-20,Low,2023-12-30,0
+K00635,Individual,Self-Employed,864000,Puducherry,0,1,1,1,2013-10-23,Medium,2017-09-01,0
+K00636,Individual,Homemaker,119000,Tamil Nadu,0,1,1,1,2014-04-06,Medium,2019-04-03,0
+K00637,Individual,Homemaker,62000,Puducherry,0,1,1,1,2021-02-21,Low,2023-04-02,0
+K00638,Individual,Self-Employed,1055000,Puducherry,0,1,1,1,2012-03-09,Low,2017-09-24,0
+K00639,Sole Proprietor,Business Owner,1379000,Kerala,0,1,1,1,2015-07-31,High,2020-08-02,1
+K00640,Sole Proprietor,Business Owner,778000,Tamil Nadu,0,1,1,0,2020-10-31,High,2023-04-19,1
+K00641,Individual,Salaried,660000,Maharashtra,0,1,1,1,2013-06-17,Low,2015-04-24,0
+K00642,Individual,Self-Employed,553000,Puducherry,0,1,1,1,2013-12-06,Low,2020-01-20,0
+K00643,Individual,Salaried,599000,Tamil Nadu,0,1,1,1,2020-05-17,Medium,2021-11-11,0
+K00644,Individual,Salaried,326000,Tamil Nadu,0,1,1,1,2013-07-20,Medium,2019-11-30,0
+K00645,Individual,Salaried,495000,Tamil Nadu,0,0,1,1,2018-10-22,Low,2020-08-17,0
+K00646,Individual,Salaried,201000,Tamil Nadu,0,1,1,0,2013-09-01,Low,2020-06-10,0
+K00647,Individual,Retired,355000,Tamil Nadu,0,1,1,1,2016-06-02,Low,2018-12-21,0
+K00648,Individual,Business Owner,601000,Tamil Nadu,0,1,1,1,2021-10-01,High,2022-07-16,0
+K00649,Sole Proprietor,Business Owner,1291000,Tamil Nadu,0,1,0,0,2014-12-09,Low,2020-01-01,0
+K00650,Individual,Salaried,133000,Karnataka,0,1,1,1,2021-04-24,Low,2024-12-18,0
+K00651,Individual,Salaried,408000,Tamil Nadu,0,1,1,1,2023-07-07,Low,2023-08-05,0
+K00652,Individual,Salaried,583000,Karnataka,0,1,1,1,2022-06-15,Low,2023-05-10,0
+K00653,Individual,Self-Employed,747000,Tamil Nadu,0,1,1,1,2017-06-12,Low,2024-03-28,0
+K00654,Individual,Student,103000,Tamil Nadu,0,1,1,1,2013-06-19,Low,2019-08-24,0
+K00655,Individual,Student,37000,Kerala,0,1,1,1,2021-11-29,Low,2024-11-27,0
+K00656,Individual,Homemaker,183000,Tamil Nadu,0,1,1,1,2019-11-23,Low,2023-03-16,0
+K00657,Individual,Salaried,870000,Karnataka,0,1,1,1,2019-04-08,Low,2020-08-11,0
+K00658,Sole Proprietor,Business Owner,695000,Puducherry,0,1,1,1,2016-03-26,High,2019-08-12,1
+K00659,Individual,Salaried,292000,Tamil Nadu,0,1,1,1,2021-12-06,Low,2024-10-07,0
+K00660,Individual,Self-Employed,462000,Tamil Nadu,0,1,0,1,2014-03-22,Low,2020-06-16,0
+K00661,Individual,Salaried,415000,Tamil Nadu,0,1,1,1,2018-10-04,Low,2019-02-13,0
+K00662,Individual,Self-Employed,652000,Tamil Nadu,0,1,1,1,2021-02-22,Low,2021-12-14,0
+K00663,Individual,Self-Employed,195000,Puducherry,0,1,1,1,2018-06-20,Medium,2024-01-15,0
+K00664,Individual,Salaried,549000,Tamil Nadu,0,1,1,1,2020-11-06,Low,2024-02-24,0
+K00665,Individual,Salaried,374000,Kerala,0,1,1,1,2018-10-29,Medium,2021-10-16,0
+K00666,Sole Proprietor,Business Owner,755000,Karnataka,0,1,1,1,2020-05-03,High,2021-01-25,1
+K00667,Individual,Self-Employed,922000,Tamil Nadu,0,1,0,1,2017-10-16,Medium,2023-05-31,0
+K00668,Individual,Salaried,359000,Puducherry,0,1,1,1,2017-08-07,Medium,2019-08-29,0
+K00669,Individual,Salaried,703000,Tamil Nadu,0,1,1,1,2017-08-04,Low,2019-03-06,0
+K00670,Individual,Salaried,534000,Tamil Nadu,0,1,1,1,2019-12-10,Medium,2024-08-09,0
+K00671,Individual,Student,52000,Puducherry,0,0,1,1,2020-11-25,Medium,2022-11-23,0
+K00672,Individual,Homemaker,153000,Tamil Nadu,0,1,1,1,2014-01-31,Low,2014-02-27,0
+K00673,Individual,Salaried,605000,Tamil Nadu,0,1,1,1,2023-03-13,Low,2023-04-10,0
+K00674,Individual,Retired,238000,Tamil Nadu,0,1,1,1,2023-06-04,Low,2024-10-12,0
+K00675,Individual,Retired,144000,Maharashtra,0,1,1,1,2021-05-10,Low,2023-02-03,0
+K00676,Individual,Salaried,327000,Tamil Nadu,0,1,1,1,2021-04-23,Low,2022-06-18,0
+K00677,Individual,Salaried,555000,Karnataka,0,1,1,1,2016-03-28,Low,2019-09-24,0
+K00678,Individual,Business Owner,1075000,Puducherry,0,1,1,1,2016-08-19,Low,2022-01-03,0
+K00679,Individual,Salaried,933000,Tamil Nadu,0,1,1,1,2015-12-12,Medium,2019-02-05,0
+K00680,Individual,Homemaker,101000,Maharashtra,0,1,1,1,2015-03-30,Medium,2015-07-21,0
+K00681,Individual,Salaried,458000,Kerala,0,1,1,1,2022-02-18,Medium,2023-04-22,0
+K00682,Sole Proprietor,Business Owner,1438000,Karnataka,0,1,1,1,2015-10-06,High,2022-04-03,0
+K00683,Individual,Business Owner,802000,Maharashtra,0,1,1,1,2019-02-22,High,2022-09-05,1
+K00684,Individual,Salaried,396000,Maharashtra,0,1,1,1,2022-09-26,Low,2023-12-05,0
+K00685,Individual,Retired,222000,Delhi,0,1,1,1,2014-04-08,Low,2015-02-28,0
+K00686,Individual,Salaried,144000,Kerala,0,1,1,1,2017-01-18,Medium,2024-03-09,0
+K00687,Individual,Salaried,187000,Delhi,0,1,1,1,2022-06-20,Medium,2024-02-12,0
+K00688,Individual,Salaried,586000,Tamil Nadu,0,0,1,1,2022-11-28,Medium,2024-04-17,0
+K00689,Individual,Self-Employed,489000,Tamil Nadu,0,1,1,1,2020-02-23,Low,2021-08-13,0
+K00690,Sole Proprietor,Business Owner,1133000,Puducherry,0,0,1,1,2019-07-24,Low,2023-07-17,0
+K00691,Individual,Salaried,214000,Puducherry,0,1,1,1,2013-06-06,Low,2015-07-27,0
+K00692,Individual,Student,46000,Tamil Nadu,0,1,1,1,2014-10-07,Low,2017-12-27,0
+K00693,Individual,Salaried,598000,Tamil Nadu,0,1,1,1,2015-09-18,Medium,2018-02-03,0
+K00694,Individual,Student,63000,Karnataka,0,1,1,0,2015-05-15,Low,2023-11-20,0
+K00695,Individual,Salaried,331000,Tamil Nadu,0,1,1,1,2020-05-24,Low,2024-06-29,0
+K00696,Individual,Salaried,839000,Puducherry,0,1,1,1,2021-12-14,Low,2023-12-12,0
+K00697,Individual,Salaried,408000,Tamil Nadu,0,1,1,1,2021-10-17,Low,2024-02-01,0
+K00698,Individual,Salaried,357000,Tamil Nadu,0,1,1,1,2018-09-09,Low,2019-09-28,0
+K00699,Individual,Salaried,704000,Kerala,0,1,1,1,2012-05-11,Medium,2015-03-12,0
+K00700,Individual,Salaried,191000,Karnataka,0,1,1,1,2015-04-20,Low,2019-11-19,0
+K00701,Individual,Retired,384000,Delhi,0,1,1,1,2018-06-13,Low,2018-09-14,0
+K00702,Individual,Self-Employed,361000,Delhi,0,1,1,1,2016-11-30,Low,2021-12-21,0
+K00703,Individual,Self-Employed,419000,Tamil Nadu,0,1,1,1,2016-07-27,Low,2017-02-24,0
+K00704,Individual,Salaried,307000,Tamil Nadu,0,1,1,1,2018-12-01,Low,2022-09-15,0
+K00705,Individual,Student,63000,Tamil Nadu,0,0,1,1,2017-04-11,Low,2023-05-24,0
+K00706,Individual,Self-Employed,628000,Tamil Nadu,0,1,1,1,2019-01-12,Low,2020-06-21,0
+K00707,Sole Proprietor,Business Owner,1374000,Tamil Nadu,0,1,1,1,2021-10-05,Medium,2022-11-11,0
+K00708,Individual,Retired,329000,Kerala,0,1,1,1,2023-12-08,Medium,2024-03-21,0
+K00709,Individual,Self-Employed,1130000,Kerala,0,1,1,1,2021-02-16,Medium,2023-01-15,0
+K00710,Individual,Salaried,902000,Tamil Nadu,0,1,1,1,2012-12-21,Low,2017-05-05,0
+K00711,Individual,Salaried,578000,Tamil Nadu,0,1,1,1,2017-03-01,Low,2021-01-08,0
+K00712,Individual,Retired,422000,Puducherry,0,1,1,1,2023-07-09,Low,2024-02-20,0
+K00713,Sole Proprietor,Business Owner,1010000,Maharashtra,0,0,1,1,2021-10-11,High,2023-06-19,1
+K00714,Individual,Student,36000,Maharashtra,0,1,1,1,2022-10-24,Low,2023-02-27,0
+K00715,Individual,Salaried,548000,Karnataka,0,1,1,1,2018-12-16,Low,2019-08-24,0
+K00716,Individual,Salaried,426000,Kerala,0,1,1,1,2019-07-02,Medium,2023-06-14,0
+K00717,Individual,Retired,442000,Puducherry,0,1,1,1,2015-05-03,Low,2021-12-08,0
+K00718,Individual,Salaried,183000,Karnataka,0,1,1,1,2015-05-28,Low,2015-07-21,0
+K00719,Individual,Student,202000,Tamil Nadu,0,1,1,1,2020-04-16,Low,2024-12-04,0
+K00720,Individual,Self-Employed,336000,Maharashtra,0,1,1,1,2019-10-21,Low,2024-12-03,0
+K00721,Individual,Salaried,426000,Tamil Nadu,0,1,1,1,2012-08-11,Low,2014-12-03,0
+K00722,Individual,Salaried,657000,Tamil Nadu,0,1,1,1,2020-12-08,Medium,2023-04-23,0
+K00723,Individual,Salaried,224000,Tamil Nadu,0,1,1,1,2022-05-25,Low,2023-03-07,0
+K00724,Individual,Business Owner,932000,Tamil Nadu,0,1,1,1,2013-07-25,Low,2013-08-15,0
+K00725,Sole Proprietor,Business Owner,479000,Maharashtra,0,1,1,1,2017-10-14,Low,2020-03-28,0
+K00726,Individual,Salaried,219000,Delhi,0,1,1,1,2023-07-04,Low,2022-10-27,0
+K00727,Individual,Salaried,174000,Tamil Nadu,0,1,1,1,2014-12-31,Low,2020-10-17,0
+K00728,Sole Proprietor,Business Owner,1256000,Kerala,0,1,1,1,2018-06-12,Low,2019-03-27,0
+K00729,Individual,Salaried,479000,Delhi,0,1,1,1,2019-11-16,Low,2020-11-20,0
+K00730,Individual,Self-Employed,519000,Tamil Nadu,0,1,1,1,2015-02-04,Low,2017-02-08,0
+K00731,Individual,Student,106000,Karnataka,0,1,1,1,2012-04-11,Low,2018-03-28,0
+K00732,Individual,Self-Employed,1125000,Maharashtra,0,1,1,1,2021-11-15,Medium,2023-05-15,0
+K00733,Individual,Salaried,418000,Karnataka,0,1,1,1,2021-01-24,Medium,2022-10-31,0
+K00734,Individual,Retired,271000,Tamil Nadu,0,1,1,1,2016-04-01,Low,2018-10-10,0
+K00735,Sole Proprietor,Business Owner,1059000,Maharashtra,0,1,1,0,2022-12-06,High,2024-07-05,0
+K00736,Individual,Self-Employed,488000,Tamil Nadu,0,1,1,1,2021-11-27,Low,2024-07-06,0
+K00737,Individual,Salaried,759000,Kerala,0,1,1,1,2017-04-14,Low,2024-09-03,0
+K00738,Individual,Self-Employed,668000,Maharashtra,0,1,1,1,2016-04-22,Medium,2017-06-15,0
+K00739,Individual,Salaried,361000,Tamil Nadu,0,1,1,1,2015-12-19,Medium,2022-10-17,0
+K00740,Individual,Salaried,379000,Maharashtra,0,1,1,1,2012-04-19,Medium,2019-11-13,0
+K00741,Individual,Salaried,538000,Puducherry,0,1,1,0,2023-09-13,Medium,2022-09-16,0
+K00742,Individual,Salaried,350000,Tamil Nadu,0,1,1,1,2018-08-05,Low,2018-10-17,0
+K00743,Individual,Salaried,484000,Karnataka,0,1,1,1,2014-09-21,Low,2020-03-21,0
+K00744,Individual,Salaried,413000,Maharashtra,0,1,1,1,2017-08-28,Low,2018-12-14,0
+K00745,Sole Proprietor,Business Owner,2218000,Tamil Nadu,0,1,1,1,2019-06-05,Low,2023-03-01,0
+K00746,Individual,Self-Employed,1015000,Delhi,0,1,1,1,2012-11-24,Low,2017-04-07,0
+K00747,Individual,Self-Employed,316000,Kerala,0,1,1,1,2018-08-30,Low,2022-11-30,0
+K00748,Individual,Student,56000,Delhi,0,1,1,1,2021-04-17,Low,2024-02-26,0
+K00749,Individual,Salaried,580000,Tamil Nadu,0,1,1,1,2020-01-06,Low,2022-07-18,0
+K00750,Individual,Salaried,343000,Tamil Nadu,0,0,1,1,2016-05-05,Low,2016-11-02,0
+K00751,Individual,Salaried,607000,Tamil Nadu,0,1,1,1,2014-12-08,Low,2015-12-01,0
+K00752,Individual,Salaried,489000,Delhi,0,1,1,1,2019-02-28,Low,2023-10-25,0
+K00753,Individual,Salaried,550000,Kerala,0,1,1,1,2013-04-14,Low,2013-08-27,0
+K00754,Individual,Salaried,408000,Puducherry,0,1,0,1,2020-02-17,Low,2023-03-01,0
+K00755,Individual,Salaried,482000,Maharashtra,0,1,1,1,2023-10-02,Medium,2023-01-15,0
+K00756,Individual,Salaried,533000,Tamil Nadu,0,0,1,1,2016-09-26,Low,2024-08-26,0
+K00757,Individual,Business Owner,617000,Tamil Nadu,0,0,1,1,2016-06-12,Low,2024-04-28,0
+K00758,Individual,Salaried,278000,Puducherry,0,1,1,1,2013-02-04,Low,2017-08-25,0
+K00759,Sole Proprietor,Business Owner,757000,Tamil Nadu,0,1,1,1,2013-06-19,Low,2020-05-30,0
+K00760,Individual,Salaried,901000,Maharashtra,0,1,1,1,2021-08-17,Low,2021-11-12,0
+K00761,Individual,Salaried,482000,Tamil Nadu,0,1,1,1,2012-05-14,Low,2017-02-15,0
+K00762,Individual,Self-Employed,711000,Puducherry,0,1,0,1,2021-01-17,Low,2022-09-19,0
+K00763,Individual,Salaried,455000,Maharashtra,0,1,1,1,2015-10-05,Low,2018-12-27,0
+K00764,Individual,Salaried,333000,Tamil Nadu,0,1,1,1,2015-10-02,Medium,2020-05-15,0
+K00765,Individual,Self-Employed,429000,Puducherry,0,1,1,1,2023-12-09,Low,2022-09-23,0
+K00766,Individual,Student,88000,Karnataka,0,1,1,1,2017-09-03,Low,2022-09-18,0
+K00767,Individual,Salaried,355000,Puducherry,0,1,1,1,2015-03-23,Medium,2017-10-31,0
+K00768,Individual,Student,123000,Karnataka,0,1,1,1,2018-12-18,Low,2023-10-07,0
+K00769,Individual,Self-Employed,657000,Tamil Nadu,0,1,1,1,2020-11-12,Low,2022-10-26,0
+K00770,Individual,Self-Employed,627000,Tamil Nadu,0,1,1,1,2016-09-23,Medium,2022-06-07,0
+K00771,Individual,Salaried,381000,Tamil Nadu,0,1,1,1,2017-07-24,Low,2021-05-07,0
+K00772,Individual,Retired,291000,Tamil Nadu,0,1,1,1,2023-09-03,Medium,2023-09-28,0
+K00773,Individual,Salaried,427000,Tamil Nadu,0,1,1,1,2017-10-08,Low,2024-11-23,0
+K00774,Individual,Self-Employed,1197000,Karnataka,0,1,1,1,2019-05-01,Low,2021-04-05,0
+K00775,Individual,Self-Employed,1731000,Tamil Nadu,0,1,1,1,2020-11-20,Medium,2022-10-27,0
+K00776,Individual,Retired,178000,Puducherry,0,1,1,1,2013-06-26,Low,2018-01-15,0
+K00777,Individual,Self-Employed,675000,Tamil Nadu,0,1,1,1,2012-05-03,Low,2016-04-08,0
+K00778,Individual,Homemaker,124000,Delhi,0,1,1,1,2012-07-02,Medium,2018-10-27,0
+K00779,Individual,Salaried,280000,Maharashtra,0,1,1,1,2012-08-08,Low,2014-07-11,0
+K00780,Individual,Business Owner,904000,Tamil Nadu,0,1,1,1,2018-03-26,Low,2024-10-05,0
+K00781,Individual,Self-Employed,489000,Kerala,0,1,1,1,2018-06-27,Low,2022-07-19,0
+K00782,Individual,Self-Employed,203000,Puducherry,0,1,1,1,2021-03-19,Low,2023-02-13,0
+K00783,Individual,Self-Employed,808000,Karnataka,0,1,1,1,2023-01-03,Low,2024-01-30,0
+K00784,Individual,Self-Employed,589000,Puducherry,0,0,1,1,2015-09-05,Low,2019-09-05,0
+K00785,Individual,Salaried,404000,Puducherry,0,1,1,1,2015-10-08,Low,2021-08-07,0
+K00786,Individual,Business Owner,1249000,Karnataka,0,1,1,1,2018-03-12,High,2020-05-21,0
+K00787,Individual,Salaried,472000,Tamil Nadu,0,1,1,1,2012-07-13,Low,2017-10-20,0
+K00788,Individual,Self-Employed,1714000,Tamil Nadu,0,1,1,1,2022-05-19,Medium,2024-06-14,0
+K00789,Individual,Self-Employed,654000,Puducherry,0,1,1,1,2014-06-13,Low,2019-04-06,0
+K00790,Individual,Salaried,615000,Tamil Nadu,0,1,1,1,2014-09-20,Low,2021-10-24,0
+K00791,Individual,Self-Employed,476000,Puducherry,0,1,1,1,2015-06-18,Low,2021-10-20,0
+K00792,Individual,Business Owner,1413000,Delhi,0,1,1,1,2020-06-23,High,2023-08-12,1
+K00793,Individual,Salaried,366000,Puducherry,0,1,1,1,2014-09-30,Low,2016-02-09,0
+K00794,Individual,Salaried,394000,Delhi,0,1,1,1,2021-08-29,Low,2024-04-17,0
+K00795,Individual,Salaried,281000,Puducherry,0,1,1,1,2018-10-15,Low,2024-09-22,0
+K00796,Individual,Self-Employed,417000,Tamil Nadu,0,1,1,1,2015-06-30,Low,2019-11-18,0
+K00797,Individual,Salaried,519000,Karnataka,0,1,1,1,2023-06-28,Low,2023-04-10,0
+K00798,Individual,Salaried,591000,Karnataka,0,1,1,1,2017-05-27,Low,2023-09-21,0
+K00799,Individual,Salaried,520000,Puducherry,0,1,0,1,2018-09-29,Low,2022-08-21,0
+K00800,Individual,Self-Employed,445000,Tamil Nadu,0,1,1,1,2021-01-04,Low,2023-08-22,0
+K00801,Individual,Salaried,487000,Puducherry,0,1,1,1,2021-10-04,Low,2022-06-03,0
+K00802,Individual,Homemaker,30000,Tamil Nadu,0,1,1,1,2023-07-27,Low,2023-11-21,0
+K00803,Individual,Salaried,647000,Tamil Nadu,0,1,1,0,2021-10-31,Medium,2024-04-16,0
+K00804,Individual,Self-Employed,593000,Tamil Nadu,0,1,1,1,2017-05-18,Low,2024-07-18,0
+K00805,Individual,Salaried,478000,Kerala,0,1,1,1,2022-09-23,Low,2023-10-10,0
+K00806,Individual,Self-Employed,1022000,Puducherry,0,1,1,1,2017-11-19,Low,2020-05-23,0
+K00807,Individual,Salaried,350000,Karnataka,0,1,0,1,2014-06-23,Low,2021-09-19,0
+K00808,Individual,Salaried,652000,Delhi,0,1,0,1,2013-09-22,Low,2022-05-30,0
+K00809,Individual,Self-Employed,496000,Tamil Nadu,0,1,1,1,2022-01-28,Low,2023-12-08,0
+K00810,Individual,Self-Employed,773000,Karnataka,0,1,1,1,2022-12-17,Medium,2024-12-03,0
+K00811,Individual,Self-Employed,503000,Tamil Nadu,0,1,1,1,2013-04-01,Medium,2018-11-16,0
+K00812,Sole Proprietor,Business Owner,1388000,Tamil Nadu,0,1,1,1,2016-06-08,Low,2020-10-06,0
+K00813,Individual,Salaried,816000,Tamil Nadu,0,1,1,1,2019-01-15,Low,2024-06-09,0
+K00814,Individual,Salaried,316000,Puducherry,0,1,1,1,2017-05-27,Medium,2023-05-18,0
+K00815,Individual,Salaried,322000,Karnataka,0,1,1,1,2019-01-01,Low,2023-02-17,0
+K00816,Individual,Salaried,366000,Tamil Nadu,0,1,1,1,2021-03-26,Low,2023-02-13,0
+K00817,Individual,Self-Employed,694000,Tamil Nadu,0,1,1,1,2018-12-23,Low,2019-11-07,0
+K00818,Individual,Salaried,1468000,Puducherry,0,1,1,1,2018-04-22,Low,2023-04-26,0
+K00819,Individual,Salaried,327000,Delhi,0,1,1,1,2013-05-19,Low,2017-02-23,0
+K00820,Individual,Salaried,169000,Karnataka,0,1,1,1,2023-08-28,Low,2023-11-18,0
+K00821,Individual,Self-Employed,452000,Puducherry,0,1,1,1,2014-04-22,Low,2015-01-08,0
+K00822,Individual,Salaried,208000,Kerala,0,1,1,1,2021-12-28,Low,2023-08-05,0
+K00823,Individual,Self-Employed,472000,Puducherry,0,1,1,1,2014-07-31,Medium,2023-01-06,0
+K00824,Sole Proprietor,Business Owner,1224000,Tamil Nadu,0,1,1,1,2021-02-20,High,2024-01-26,1
+K00825,Individual,Self-Employed,394000,Puducherry,0,1,1,1,2017-07-21,Low,2023-11-08,0
+K00826,Individual,Salaried,313000,Maharashtra,0,1,1,1,2013-07-16,Low,2018-12-09,0
+K00827,Individual,Salaried,183000,Karnataka,0,1,1,1,2012-10-25,Low,2020-08-16,0
+K00828,Individual,Homemaker,99000,Karnataka,0,1,1,1,2018-03-03,Low,2023-04-02,0
+K00829,Individual,Salaried,304000,Tamil Nadu,0,1,1,1,2016-07-13,Low,2023-03-26,0
+K00830,Individual,Business Owner,1985000,Tamil Nadu,0,1,1,1,2022-10-20,High,2023-12-08,1
+K00831,Individual,Salaried,684000,Puducherry,0,1,1,1,2023-06-28,Medium,2024-06-14,0
+K00832,Individual,Self-Employed,411000,Maharashtra,0,1,1,1,2014-11-04,Low,2021-11-13,0
+K00833,Individual,Salaried,360000,Puducherry,0,0,1,1,2021-11-12,Low,2021-12-04,0
+K00834,Individual,Salaried,437000,Karnataka,0,1,1,0,2020-06-13,Low,2024-04-19,0
+K00835,Individual,Self-Employed,857000,Tamil Nadu,0,1,1,1,2012-10-08,Medium,2019-10-28,0
+K00836,Individual,Salaried,200000,Puducherry,0,1,1,1,2018-01-04,Low,2022-07-30,0
+K00837,Individual,Retired,295000,Puducherry,0,1,1,1,2019-02-06,Medium,2023-03-15,0
+K00838,Individual,Student,141000,Tamil Nadu,0,1,1,1,2022-05-02,Medium,2023-10-10,0
+K00839,Individual,Salaried,410000,Puducherry,0,1,1,0,2016-01-12,Low,2024-06-25,0
+K00840,Individual,Self-Employed,674000,Maharashtra,0,1,1,1,2012-04-27,Low,2018-04-13,0
+K00841,Individual,Self-Employed,610000,Karnataka,0,1,1,1,2012-12-30,Low,2021-03-10,0
+K00842,Individual,Homemaker,53000,Puducherry,0,1,1,1,2023-12-19,Low,2023-04-08,0
+K00843,Individual,Salaried,656000,Puducherry,0,1,1,1,2015-01-20,Low,2016-03-23,0
+K00844,Individual,Salaried,482000,Tamil Nadu,0,1,1,1,2017-03-02,Low,2019-06-23,0
+K00845,Individual,Salaried,460000,Maharashtra,0,1,1,1,2018-04-08,Low,2022-08-20,0
+K00846,Individual,Student,85000,Tamil Nadu,0,1,1,1,2014-02-04,Low,2016-06-23,0
+K00847,Sole Proprietor,Business Owner,1743000,Tamil Nadu,0,1,1,1,2016-08-12,Low,2021-05-05,0
+K00848,Individual,Salaried,182000,Tamil Nadu,0,1,1,1,2015-10-29,Medium,2021-04-13,0
+K00849,Individual,Salaried,532000,Delhi,0,1,1,1,2016-06-12,Medium,2017-05-25,0
+K00850,Sole Proprietor,Business Owner,940000,Tamil Nadu,0,1,1,1,2015-10-20,Medium,2021-11-02,0
+K00851,Individual,Salaried,460000,Tamil Nadu,0,1,1,1,2022-12-02,Medium,2024-03-08,0
+K00852,Individual,Salaried,310000,Karnataka,0,1,1,1,2012-05-02,Low,2017-05-09,0
+K00853,Sole Proprietor,Business Owner,828000,Tamil Nadu,0,1,1,1,2012-05-13,High,2020-04-22,1
+K00854,Individual,Salaried,658000,Maharashtra,0,1,1,1,2014-01-14,Low,2018-01-19,0
+K00855,Individual,Salaried,427000,Kerala,0,1,1,1,2013-08-09,Medium,2013-08-19,0
+K00856,Individual,Salaried,378000,Karnataka,0,1,1,0,2021-07-29,Low,2023-03-12,0
+K00857,Individual,Self-Employed,538000,Delhi,0,1,1,1,2016-05-02,Medium,2018-06-01,0
+K00858,Individual,Salaried,445000,Tamil Nadu,0,0,1,1,2021-05-11,Medium,2023-11-15,0
+K00859,Individual,Salaried,426000,Puducherry,0,1,1,1,2022-12-31,Low,2023-06-03,0
+K00860,Individual,Homemaker,32000,Tamil Nadu,0,1,0,0,2018-01-29,Low,2020-03-21,0
+K00861,Individual,Self-Employed,414000,Tamil Nadu,0,1,1,1,2015-11-17,Low,2024-04-28,0
+K00862,Individual,Salaried,387000,Puducherry,0,1,1,1,2020-07-30,Low,2022-08-13,0
+K00863,Individual,Self-Employed,861000,Tamil Nadu,0,1,1,1,2018-10-18,Low,2020-10-24,0
+K00864,Individual,Retired,569000,Puducherry,0,1,1,1,2016-12-26,Low,2023-01-23,0
+K00865,Individual,Retired,202000,Puducherry,0,1,1,1,2017-11-02,Low,2024-06-02,0
+K00866,Sole Proprietor,Business Owner,2952000,Tamil Nadu,0,1,1,1,2014-07-14,Low,2014-08-19,0
+K00867,Individual,Retired,322000,Puducherry,0,1,1,1,2013-02-06,Low,2020-11-02,0
+K00868,Individual,Business Owner,1539000,Maharashtra,0,1,1,1,2016-02-04,Low,2023-12-03,0
+K00869,Individual,Business Owner,971000,Puducherry,0,1,1,1,2020-01-10,Low,2023-03-09,0
+K00870,Individual,Salaried,329000,Puducherry,0,1,1,1,2016-10-13,Low,2017-09-30,0
+K00871,Individual,Salaried,828000,Karnataka,0,1,1,1,2019-03-20,Medium,2022-11-11,0
+K00872,Individual,Business Owner,1122000,Kerala,0,1,1,1,2022-10-17,Medium,2024-03-22,0
+K00873,Individual,Business Owner,1183000,Kerala,0,1,1,1,2016-02-25,High,2018-08-08,1
+K00874,Individual,Homemaker,157000,Maharashtra,0,1,1,1,2014-02-01,Low,2014-04-19,0
+K00875,Individual,Salaried,945000,Tamil Nadu,0,0,1,0,2014-01-05,Low,2015-05-14,0
+K00876,Individual,Retired,158000,Tamil Nadu,0,1,1,1,2020-01-13,Low,2021-08-15,0
+K00877,Individual,Salaried,399000,Puducherry,0,1,1,1,2017-03-07,Low,2020-03-30,0
+K00878,Individual,Homemaker,93000,Delhi,0,1,1,0,2019-06-06,Medium,2024-07-24,0
+K00879,Individual,Homemaker,211000,Karnataka,0,1,1,1,2022-10-26,Low,2023-11-03,0
+K00880,Individual,Salaried,1325000,Delhi,0,0,1,1,2015-03-06,Low,2016-07-21,0
+K00881,Individual,Salaried,426000,Maharashtra,0,1,1,1,2022-10-16,Low,2023-06-28,0
+K00882,Individual,Homemaker,111000,Karnataka,0,1,1,1,2023-08-02,Low,2022-09-21,0
+K00883,Individual,Homemaker,138000,Kerala,0,1,1,1,2021-12-20,Low,2022-08-30,0
+K00884,Sole Proprietor,Business Owner,2098000,Puducherry,0,1,1,1,2023-04-05,Medium,2024-05-29,0
+K00885,Individual,Salaried,379000,Maharashtra,0,1,1,1,2022-07-07,Low,2024-12-01,0
+K00886,Individual,Salaried,644000,Maharashtra,0,1,1,1,2022-05-04,Low,2024-08-19,0
+K00887,Individual,Salaried,319000,Tamil Nadu,0,1,1,1,2021-02-04,Low,2024-06-22,0
+K00888,Individual,Homemaker,30000,Tamil Nadu,0,1,1,1,2022-09-27,Low,2024-02-14,0
+K00889,Individual,Student,34000,Tamil Nadu,0,1,1,1,2016-08-15,Low,2016-11-27,0
+K00890,Individual,Salaried,483000,Tamil Nadu,0,1,1,1,2015-02-03,Low,2018-04-06,0
+K00891,Individual,Business Owner,1785000,Puducherry,0,1,1,1,2023-07-31,Low,2024-07-04,0
+K00892,Individual,Retired,113000,Delhi,0,1,1,0,2023-01-29,Low,2023-03-24,0
+K00893,Individual,Salaried,195000,Tamil Nadu,0,1,1,1,2018-07-07,Low,2018-08-14,0
+K00894,Individual,Retired,310000,Puducherry,0,1,1,1,2017-05-16,Medium,2024-06-26,0
+K00895,Individual,Salaried,96000,Karnataka,0,1,1,1,2013-12-19,Medium,2020-02-29,0
+K00896,Individual,Salaried,567000,Puducherry,0,1,1,1,2014-01-20,Medium,2020-10-11,0
+K00897,Individual,Salaried,703000,Delhi,0,0,1,1,2012-09-06,Low,2016-04-07,0
+K00898,Individual,Salaried,115000,Delhi,0,0,1,1,2013-11-01,Medium,2020-09-12,0
+K00899,Individual,Self-Employed,892000,Kerala,0,1,1,1,2022-05-11,Low,2022-11-26,0
+K00900,Individual,Salaried,406000,Puducherry,0,1,1,1,2016-03-18,Medium,2017-12-18,0
+K00901,Individual,Self-Employed,1199000,Maharashtra,0,1,1,1,2016-07-05,Low,2021-06-23,0
+K00902,Individual,Salaried,503000,Puducherry,0,1,1,1,2015-06-22,Low,2019-11-20,0
+K00903,Individual,Business Owner,1138000,Karnataka,0,1,1,1,2012-12-04,Low,2019-09-10,0
+K00904,Individual,Salaried,469000,Puducherry,0,1,1,1,2016-01-05,Low,2021-09-14,0
+K00905,Individual,Salaried,679000,Karnataka,0,1,1,1,2014-05-22,Low,2022-11-26,0
+K00906,Individual,Salaried,485000,Karnataka,0,1,1,1,2022-08-11,Low,2022-11-29,0
+K00907,Individual,Self-Employed,647000,Tamil Nadu,0,1,1,1,2023-04-30,Low,2023-08-21,0
+K00908,Individual,Student,33000,Tamil Nadu,0,1,1,1,2014-11-08,Low,2015-09-12,0
+K00909,Sole Proprietor,Business Owner,1583000,Maharashtra,0,1,1,1,2023-12-13,Low,2023-11-01,0
+K00910,Individual,Business Owner,1292000,Delhi,0,1,1,1,2015-07-25,Medium,2024-04-03,0
+K00911,Sole Proprietor,Business Owner,2923000,Puducherry,0,1,1,1,2012-12-12,Low,2020-01-15,0
+K00912,Individual,Self-Employed,634000,Delhi,0,1,1,1,2018-12-28,Low,2024-01-26,0
+K00913,Individual,Salaried,430000,Tamil Nadu,0,1,1,1,2013-01-25,Medium,2017-08-15,0
+K00914,Individual,Salaried,337000,Tamil Nadu,0,0,1,1,2023-07-30,Low,2023-07-01,0
+K00915,Individual,Retired,443000,Tamil Nadu,0,1,1,1,2020-12-26,Medium,2024-04-29,0
+K00916,Individual,Salaried,408000,Puducherry,0,1,1,1,2020-12-25,Low,2022-08-16,0
+K00917,Sole Proprietor,Business Owner,930000,Tamil Nadu,0,1,1,1,2013-06-05,Medium,2016-11-23,0
+K00918,Individual,Salaried,922000,Karnataka,0,1,1,1,2018-02-19,Low,2023-10-25,0
+K00919,Individual,Salaried,1000000,Tamil Nadu,0,1,1,1,2022-04-28,Low,2024-08-24,0
+K00920,Individual,Salaried,365000,Puducherry,0,1,1,1,2014-12-16,Low,2018-05-26,0
+K00921,Individual,Salaried,282000,Kerala,0,1,1,1,2013-05-06,Medium,2019-10-10,0
+K00922,Sole Proprietor,Business Owner,2131000,Tamil Nadu,0,1,1,1,2021-11-29,Medium,2022-11-04,0
+K00923,Individual,Salaried,308000,Puducherry,0,1,1,1,2021-01-01,Medium,2022-02-25,0
+K00924,Individual,Business Owner,4583000,Maharashtra,0,0,0,1,2017-08-14,Medium,2022-03-01,0
+K00925,Individual,Salaried,422000,Karnataka,0,1,1,1,2012-05-23,Medium,2013-01-19,0
+K00926,Individual,Salaried,693000,Puducherry,0,1,1,1,2012-05-31,Medium,2013-09-06,0
+K00927,Individual,Salaried,250000,Tamil Nadu,0,1,1,1,2015-08-29,Low,2020-01-31,0
+K00928,Individual,Self-Employed,631000,Kerala,0,1,1,1,2012-11-26,Low,2020-01-01,0
+K00929,Individual,Salaried,736000,Karnataka,0,1,1,1,2022-02-12,Medium,2022-04-16,0
+K00930,Sole Proprietor,Business Owner,1565000,Tamil Nadu,0,1,1,1,2014-05-12,Low,2014-11-21,0
+K00931,Individual,Retired,252000,Kerala,0,1,1,1,2017-08-23,Low,2023-04-29,0
+K00932,Individual,Student,194000,Tamil Nadu,0,1,1,1,2018-02-06,Low,2024-05-24,0
+K00933,Individual,Salaried,628000,Puducherry,0,1,1,1,2021-02-23,Low,2022-08-09,0
+K00934,Individual,Self-Employed,579000,Puducherry,0,1,1,0,2016-06-02,Low,2019-09-20,0
+K00935,Individual,Salaried,342000,Maharashtra,0,1,0,1,2018-04-01,Medium,2024-04-10,0
+K00936,Individual,Self-Employed,569000,Tamil Nadu,0,1,1,1,2013-12-31,Low,2018-05-13,0
+K00937,Individual,Salaried,828000,Karnataka,0,1,1,1,2020-11-22,Medium,2023-11-01,0
+K00938,Sole Proprietor,Business Owner,907000,Tamil Nadu,0,1,1,1,2018-06-22,High,2024-10-22,1
+K00939,Individual,Salaried,457000,Tamil Nadu,0,1,1,1,2016-04-22,Low,2024-09-21,0
+K00940,Individual,Homemaker,67000,Tamil Nadu,0,1,1,1,2017-12-27,Low,2023-01-26,0
+K00941,Individual,Salaried,793000,Puducherry,0,1,1,1,2016-10-28,Medium,2022-01-08,0
+K00942,Individual,Salaried,418000,Puducherry,0,1,1,1,2015-12-30,Low,2017-01-05,0
+K00943,Individual,Self-Employed,949000,Puducherry,0,1,1,1,2016-11-25,Medium,2022-05-06,0
+K00944,Individual,Student,83000,Kerala,0,1,1,1,2015-08-16,Low,2021-02-18,0
+K00945,Individual,Business Owner,989000,Tamil Nadu,0,1,1,1,2018-12-12,High,2023-01-02,1
+K00946,Individual,Salaried,618000,Tamil Nadu,0,1,1,1,2015-12-20,Medium,2024-05-27,0
+K00947,Individual,Salaried,689000,Karnataka,0,1,1,1,2020-04-24,Low,2024-09-04,0
+K00948,Individual,Business Owner,766000,Tamil Nadu,0,1,1,1,2020-01-29,High,2020-02-15,1
+K00949,Individual,Salaried,619000,Maharashtra,0,1,1,1,2012-10-10,Low,2017-07-19,0
+K00950,Individual,Salaried,2252000,Kerala,0,1,1,1,2013-09-04,Low,2018-05-26,0
+K00951,Individual,Homemaker,84000,Maharashtra,0,1,1,1,2022-03-22,Medium,2024-01-20,0
+K00952,Individual,Student,86000,Tamil Nadu,0,1,1,1,2015-12-16,Medium,2019-10-13,0
+K00953,Individual,Salaried,246000,Delhi,0,1,1,1,2019-08-26,Low,2024-11-04,0
+K00954,Individual,Self-Employed,792000,Delhi,0,0,1,1,2018-08-19,Medium,2022-09-21,0
+K00955,Individual,Retired,247000,Karnataka,0,1,1,0,2021-09-17,Medium,2023-07-22,0
+K00956,Individual,Salaried,638000,Kerala,0,1,1,1,2018-09-08,Low,2022-10-06,0
+K00957,Individual,Retired,314000,Puducherry,0,0,1,1,2014-11-22,Medium,2019-12-12,0
+K00958,Individual,Retired,189000,Delhi,0,1,1,1,2021-07-02,Low,2024-08-08,0
+K00959,Sole Proprietor,Business Owner,2118000,Puducherry,0,1,1,1,2014-01-22,Low,2023-01-16,0
+K00960,Individual,Business Owner,1167000,Kerala,0,1,0,1,2017-07-17,Medium,2017-09-13,0
+K00961,Sole Proprietor,Business Owner,813000,Puducherry,0,1,1,1,2021-01-22,Low,2021-12-06,0
+K00962,Individual,Self-Employed,663000,Kerala,0,0,1,1,2016-10-09,Low,2020-02-04,0
+K00963,Individual,Self-Employed,415000,Tamil Nadu,0,1,1,1,2018-05-30,Medium,2024-04-04,0
+K00964,Individual,Salaried,539000,Tamil Nadu,0,1,1,1,2014-10-11,Low,2023-04-07,0
+K00965,Individual,Self-Employed,625000,Tamil Nadu,0,1,1,1,2020-09-07,Low,2021-01-13,0
+K00966,Individual,Business Owner,1088000,Tamil Nadu,0,1,1,1,2015-09-14,Low,2018-03-29,0
+K00967,Individual,Self-Employed,871000,Tamil Nadu,0,1,1,1,2020-08-31,Low,2023-08-04,0
+K00968,Individual,Business Owner,721000,Tamil Nadu,0,1,1,1,2014-06-04,Medium,2015-01-15,0
+K00969,Individual,Self-Employed,1000000,Delhi,0,1,1,1,2022-11-16,Low,2022-12-08,0
+K00970,Individual,Student,30000,Tamil Nadu,0,1,1,0,2021-11-19,Low,2023-09-25,0
+K00971,Individual,Business Owner,2669000,Maharashtra,0,1,1,1,2017-07-04,Low,2018-04-28,0
+K00972,Individual,Salaried,489000,Tamil Nadu,0,1,1,1,2014-12-24,Medium,2019-09-12,0
+K00973,Sole Proprietor,Business Owner,1142000,Maharashtra,0,0,1,0,2015-12-02,Low,2019-01-15,0
+K00974,Individual,Salaried,323000,Karnataka,0,1,1,1,2021-10-08,Medium,2023-09-20,0
+K00975,Individual,Salaried,578000,Maharashtra,0,1,0,1,2015-01-16,Low,2020-01-25,0
+K00976,Individual,Salaried,419000,Kerala,0,1,1,1,2020-06-07,Low,2022-11-15,0
+K00977,Individual,Salaried,416000,Karnataka,0,0,1,1,2014-05-16,Low,2014-08-05,0
+K00978,Individual,Self-Employed,1029000,Maharashtra,0,1,1,1,2021-07-15,Low,2023-01-08,0
+K00979,Individual,Salaried,370000,Karnataka,0,1,1,1,2018-11-04,Low,2023-10-10,0
+K00980,Individual,Salaried,405000,Maharashtra,0,1,1,1,2020-08-05,Low,2023-11-24,0
+K00981,Individual,Business Owner,1565000,Karnataka,0,1,1,1,2021-05-24,Medium,2022-11-19,0
+K00982,Individual,Salaried,734000,Tamil Nadu,0,1,1,1,2012-01-11,Low,2017-02-03,0
+K00983,Individual,Retired,301000,Tamil Nadu,0,1,1,1,2015-05-24,Low,2020-12-20,0
+K00984,Individual,Salaried,484000,Tamil Nadu,0,1,1,1,2015-11-11,Low,2023-11-24,0
+K00985,Individual,Business Owner,1315000,Maharashtra,0,0,1,1,2021-06-16,High,2023-12-29,1
+K00986,Individual,Salaried,632000,Tamil Nadu,0,1,1,1,2022-07-11,Low,2023-12-13,0
+K00987,Individual,Student,127000,Tamil Nadu,0,1,1,1,2023-10-05,Low,2023-12-12,0
+K00988,Sole Proprietor,Business Owner,842000,Delhi,0,1,1,1,2012-04-28,Low,2021-03-17,0
+K00989,Individual,Business Owner,1212000,Karnataka,0,1,1,1,2015-02-24,Low,2019-02-26,0
+K00990,Individual,Salaried,441000,Tamil Nadu,0,1,1,1,2012-09-01,Low,2019-10-12,0
+K00991,Individual,Business Owner,1684000,Karnataka,0,1,1,1,2018-09-07,Low,2022-11-26,0
+K00992,Individual,Salaried,892000,Tamil Nadu,0,1,0,1,2017-08-15,Low,2021-12-21,0
+K00993,Sole Proprietor,Business Owner,1277000,Puducherry,1,1,1,1,2014-06-27,High,2022-04-27,1
+K00994,Individual,Student,71000,Maharashtra,0,1,1,1,2021-10-01,Low,2023-10-04,0
+K00995,Individual,Salaried,754000,Puducherry,0,1,1,1,2017-02-14,Low,2023-04-17,0
+K00996,Individual,Salaried,256000,Delhi,0,1,0,1,2014-08-19,Medium,2015-04-10,0
+K00997,Sole Proprietor,Business Owner,907000,Tamil Nadu,0,1,1,1,2014-08-19,Low,2015-04-02,0
+K00998,Individual,Homemaker,79000,Tamil Nadu,0,1,1,1,2019-05-05,Low,2023-04-24,0
+K00999,Individual,Retired,321000,Tamil Nadu,0,1,0,1,2014-09-27,Medium,2020-01-04,0
+K01000,Individual,Salaried,500000,Tamil Nadu,1,1,1,1,2017-06-27,High,2020-12-19,1
+K01001,Individual,Student,51000,Maharashtra,0,1,1,1,2019-03-02,Low,2022-10-02,0
+K01002,Individual,Salaried,1000000,Tamil Nadu,0,1,1,1,2018-02-13,Low,2023-06-09,0
+K01003,Individual,Salaried,326000,Delhi,0,1,1,1,2015-08-18,Low,2023-06-24,0
+K01004,Individual,Self-Employed,586000,Karnataka,0,1,1,1,2019-11-09,Low,2022-08-07,0
+K01005,Individual,Self-Employed,1054000,Maharashtra,0,1,1,1,2015-05-13,Low,2020-06-24,0
+K01006,Individual,Student,91000,Puducherry,0,1,1,1,2014-04-07,Low,2019-04-10,0
+K01007,Individual,Salaried,447000,Puducherry,0,1,0,1,2021-05-28,Low,2022-01-27,0
+K01008,Individual,Self-Employed,763000,Tamil Nadu,0,1,1,1,2023-01-23,Low,2023-07-14,0
+K01009,Individual,Homemaker,140000,Maharashtra,0,1,1,1,2016-02-15,Low,2016-04-11,0
+K01010,Individual,Salaried,447000,Tamil Nadu,0,1,1,0,2017-10-14,Low,2023-12-25,0
+K01011,Individual,Salaried,604000,Kerala,0,1,1,1,2016-07-10,Medium,2023-08-12,0
+K01012,Individual,Self-Employed,423000,Karnataka,0,1,1,1,2013-04-02,Low,2014-10-23,0
+K01013,Individual,Homemaker,99000,Puducherry,0,1,1,1,2012-04-24,Low,2018-05-18,0
+K01014,Individual,Salaried,212000,Tamil Nadu,0,1,1,1,2015-10-02,Low,2021-01-16,0
+K01015,Sole Proprietor,Business Owner,853000,Puducherry,0,1,1,1,2022-03-28,Low,2023-01-23,0
+K01016,Individual,Salaried,266000,Tamil Nadu,0,1,1,1,2021-10-28,Low,2024-05-12,0
+K01017,Individual,Salaried,793000,Puducherry,0,1,1,1,2012-07-28,Medium,2018-05-03,0
+K01018,Individual,Salaried,363000,Karnataka,0,1,0,1,2015-07-29,Low,2022-04-22,0
+K01019,Individual,Self-Employed,733000,Tamil Nadu,0,1,1,1,2019-12-11,Low,2023-07-01,0
+K01020,Individual,Self-Employed,419000,Karnataka,0,1,1,1,2012-08-31,Low,2015-12-30,0
+K01021,Individual,Salaried,408000,Tamil Nadu,0,1,1,1,2012-09-04,Medium,2021-06-30,0
+K01022,Individual,Self-Employed,562000,Tamil Nadu,0,1,1,1,2013-11-11,Medium,2016-12-29,0
+K01023,Individual,Business Owner,864000,Tamil Nadu,0,1,1,1,2021-03-15,Low,2022-09-11,0
+K01024,Individual,Retired,472000,Tamil Nadu,0,1,1,1,2018-09-04,Low,2022-08-11,0
+K01025,Individual,Self-Employed,298000,Delhi,0,1,1,1,2022-10-26,Medium,2024-09-21,0
+K01026,Individual,Salaried,594000,Tamil Nadu,0,1,1,1,2021-08-24,Medium,2022-04-27,0
+K01027,Individual,Homemaker,322000,Puducherry,0,1,1,1,2012-06-04,Medium,2017-07-27,0
+K01028,Individual,Salaried,306000,Tamil Nadu,0,1,1,1,2021-10-01,Low,2023-12-19,0
+K01029,Individual,Salaried,451000,Kerala,0,1,1,1,2022-10-15,Low,2023-10-13,0
+K01030,Individual,Retired,156000,Tamil Nadu,0,1,1,0,2023-09-09,Low,2024-10-09,0
+K01031,Individual,Salaried,439000,Tamil Nadu,0,1,1,1,2019-12-30,Low,2021-12-29,0
+K01032,Individual,Salaried,201000,Tamil Nadu,0,1,0,1,2020-06-30,Medium,2024-05-16,0
+K01033,Individual,Salaried,590000,Kerala,0,1,1,1,2023-06-17,Low,2024-07-24,0
+K01034,Individual,Salaried,353000,Delhi,0,1,1,0,2016-04-09,Low,2018-07-05,0
+K01035,Individual,Salaried,190000,Puducherry,0,1,1,1,2021-12-26,Low,2024-02-18,0
+K01036,Individual,Retired,174000,Delhi,0,1,1,1,2021-02-09,Low,2022-09-06,0
+K01037,Individual,Salaried,213000,Tamil Nadu,0,1,1,1,2019-09-17,Low,2024-05-01,0
+K01038,Individual,Salaried,386000,Karnataka,0,1,1,1,2014-03-10,Low,2021-09-11,0
+K01039,Individual,Salaried,649000,Tamil Nadu,0,1,1,1,2022-06-12,Low,2024-03-13,0
+K01040,Individual,Homemaker,78000,Tamil Nadu,0,1,1,1,2015-02-19,Low,2015-04-20,0
+K01041,Individual,Salaried,255000,Tamil Nadu,0,1,0,1,2023-03-25,Low,2024-04-13,0
+K01042,Individual,Salaried,298000,Kerala,0,1,1,1,2015-01-18,Low,2021-07-12,0
+K01043,Individual,Student,66000,Tamil Nadu,0,1,1,1,2021-03-06,Low,2023-08-26,0
+K01044,Individual,Homemaker,31000,Kerala,0,1,1,1,2019-09-02,Low,2023-04-27,0
+K01045,Individual,Self-Employed,813000,Puducherry,0,1,1,1,2012-12-13,Low,2013-10-26,0
+K01046,Individual,Student,75000,Puducherry,0,1,1,1,2017-06-09,Low,2023-07-05,0
+K01047,Individual,Salaried,141000,Tamil Nadu,0,1,1,1,2015-01-29,Medium,2018-01-03,0
+K01048,Individual,Salaried,745000,Tamil Nadu,0,1,1,1,2015-10-03,Medium,2023-05-29,0
+K01049,Individual,Self-Employed,292000,Tamil Nadu,0,1,1,1,2012-06-12,Medium,2020-06-04,0
+K01050,Individual,Salaried,391000,Tamil Nadu,0,1,1,1,2023-11-26,Low,2023-11-22,0
+K01051,Individual,Salaried,740000,Karnataka,0,1,1,1,2014-08-11,Low,2023-03-10,0
+K01052,Individual,Salaried,203000,Maharashtra,0,1,1,1,2014-01-28,Low,2022-12-10,0
+K01053,Individual,Salaried,184000,Delhi,0,1,1,1,2014-07-31,Low,2014-11-06,0
+K01054,Individual,Student,37000,Karnataka,0,1,1,1,2018-09-28,Low,2023-12-10,0
+K01055,Individual,Student,37000,Maharashtra,0,1,1,1,2022-05-23,Medium,2023-10-31,0
+K01056,Individual,Salaried,403000,Tamil Nadu,0,1,1,1,2022-03-03,Low,2024-01-03,0
+K01057,Individual,Salaried,337000,Kerala,0,1,1,1,2022-04-28,Low,2023-10-16,0
+K01058,Sole Proprietor,Business Owner,974000,Maharashtra,0,1,1,1,2014-04-13,Low,2020-12-14,0
+K01059,Individual,Retired,245000,Karnataka,0,0,1,1,2013-10-18,Low,2014-06-08,0
+K01060,Individual,Self-Employed,562000,Tamil Nadu,0,1,0,1,2022-07-27,Low,2024-02-26,0
+K01061,Sole Proprietor,Business Owner,825000,Kerala,0,1,1,1,2013-11-01,Medium,2019-10-06,0
+K01062,Individual,Salaried,497000,Kerala,0,1,1,1,2022-07-10,Medium,2023-08-13,0
+K01063,Individual,Student,61000,Delhi,0,1,1,1,2017-06-19,Low,2019-01-21,0
+K01064,Individual,Student,38000,Kerala,0,1,1,1,2020-04-08,Medium,2023-03-13,0
+K01065,Individual,Salaried,988000,Karnataka,0,1,1,1,2018-05-08,Medium,2023-04-06,0
+K01066,Individual,Salaried,238000,Tamil Nadu,0,1,1,1,2015-05-29,Low,2015-09-19,0
+K01067,Individual,Salaried,600000,Puducherry,0,1,1,1,2012-05-16,Medium,2020-04-25,0
+K01068,Individual,Self-Employed,434000,Tamil Nadu,0,1,1,1,2019-09-26,Low,2022-04-04,0
+K01069,Individual,Business Owner,1443000,Karnataka,0,1,1,1,2021-09-09,High,2022-12-24,1
+K01070,Individual,Salaried,544000,Puducherry,0,1,1,1,2012-07-06,Low,2014-12-11,0
+K01071,Individual,Self-Employed,909000,Karnataka,0,1,1,1,2020-01-11,Low,2023-05-21,0
+K01072,Individual,Homemaker,177000,Tamil Nadu,0,1,1,1,2015-12-25,Low,2017-09-23,0
+K01073,Individual,Salaried,292000,Puducherry,0,1,1,1,2023-12-19,Low,2024-03-30,0
+K01074,Individual,Salaried,1598000,Maharashtra,0,1,1,1,2017-07-01,Low,2017-08-08,0
+K01075,Individual,Salaried,518000,Puducherry,0,1,1,1,2014-08-02,Low,2017-07-02,0
+K01076,Individual,Salaried,296000,Maharashtra,0,1,1,1,2021-05-16,Medium,2023-12-28,0
+K01077,Individual,Salaried,231000,Karnataka,0,1,1,1,2022-01-24,Low,2024-11-05,0
+K01078,Individual,Retired,905000,Tamil Nadu,0,1,1,1,2014-12-03,Low,2020-12-17,0
+K01079,Individual,Salaried,920000,Tamil Nadu,0,0,1,1,2019-02-22,Medium,2022-11-01,0
+K01080,Individual,Salaried,429000,Karnataka,0,1,0,1,2023-07-07,Low,2022-11-10,0
+K01081,Individual,Homemaker,132000,Tamil Nadu,0,1,1,1,2017-12-27,Low,2024-12-06,0
+K01082,Individual,Salaried,793000,Karnataka,0,1,1,1,2017-03-20,Medium,2019-05-27,0
+K01083,Individual,Salaried,454000,Karnataka,0,0,1,1,2021-05-23,Low,2022-08-12,0
+K01084,Individual,Salaried,357000,Puducherry,0,1,1,1,2012-01-20,Low,2013-10-04,0
+K01085,Individual,Salaried,427000,Tamil Nadu,0,1,1,1,2014-01-06,Low,2022-08-15,0
+K01086,Individual,Salaried,639000,Kerala,0,1,1,1,2014-05-04,Low,2015-11-26,0
+K01087,Individual,Self-Employed,627000,Puducherry,0,1,1,0,2014-09-14,Medium,2017-11-13,0
+K01088,Individual,Self-Employed,353000,Kerala,0,1,0,1,2022-05-10,Low,2024-01-31,0
+K01089,Individual,Self-Employed,879000,Kerala,0,1,0,1,2019-06-23,Low,2020-11-26,0
+K01090,Individual,Business Owner,561000,Kerala,0,1,1,1,2013-07-17,Medium,2020-10-01,0
+K01091,Individual,Self-Employed,440000,Maharashtra,0,1,1,1,2016-09-14,Medium,2017-03-01,0
+K01092,Individual,Salaried,769000,Tamil Nadu,0,0,1,1,2012-06-14,Low,2017-01-23,0
+K01093,Sole Proprietor,Business Owner,1386000,Delhi,0,0,1,1,2020-12-10,High,2024-08-10,1
+K01094,Individual,Self-Employed,692000,Puducherry,0,0,1,1,2015-07-26,Medium,2017-03-30,0
+K01095,Individual,Salaried,457000,Puducherry,0,1,1,1,2012-06-03,Low,2015-05-08,0
+K01096,Individual,Salaried,699000,Karnataka,0,1,1,1,2018-12-09,Medium,2023-09-25,0
+K01097,Individual,Salaried,425000,Puducherry,0,1,1,1,2019-12-21,Low,2022-07-18,0
+K01098,Individual,Retired,127000,Tamil Nadu,0,1,1,1,2013-01-18,Low,2016-10-10,0
+K01099,Individual,Salaried,487000,Tamil Nadu,0,1,1,1,2015-03-12,Low,2021-04-20,0
+K01100,Individual,Salaried,106000,Karnataka,0,1,1,0,2020-05-02,Low,2024-02-03,0
+K01101,Individual,Student,30000,Tamil Nadu,0,1,1,1,2015-12-27,Low,2024-02-29,0
+K01102,Individual,Business Owner,2572000,Tamil Nadu,0,1,1,1,2017-02-17,Low,2023-04-12,0
+K01103,Individual,Retired,501000,Karnataka,0,1,1,1,2020-03-02,Low,2023-03-12,0
+K01104,Sole Proprietor,Business Owner,1002000,Delhi,0,1,1,1,2014-09-21,High,2017-04-08,1
+K01105,Individual,Salaried,420000,Tamil Nadu,0,1,1,1,2021-12-12,Low,2022-08-18,0
+K01106,Individual,Self-Employed,645000,Puducherry,0,1,1,1,2014-02-25,Low,2021-11-06,0
+K01107,Individual,Self-Employed,983000,Puducherry,0,1,1,1,2021-02-08,Low,2023-05-31,0
+K01108,Individual,Self-Employed,435000,Maharashtra,0,1,1,1,2018-08-23,Low,2022-07-14,0
+K01109,Individual,Homemaker,62000,Kerala,0,1,1,1,2023-11-09,Low,2024-05-18,0
+K01110,Individual,Salaried,325000,Puducherry,0,1,1,1,2016-11-08,Medium,2022-02-15,0
+K01111,Sole Proprietor,Business Owner,1321000,Tamil Nadu,0,1,1,1,2023-02-14,Low,2023-09-30,0
+K01112,Individual,Salaried,490000,Kerala,0,1,1,1,2021-10-30,Low,2023-02-13,0
+K01113,Individual,Salaried,362000,Puducherry,0,1,1,1,2019-07-12,Low,2020-03-21,0
+K01114,Individual,Homemaker,132000,Tamil Nadu,0,1,1,1,2022-03-30,Low,2024-08-02,0
+K01115,Individual,Salaried,271000,Puducherry,0,1,1,1,2015-06-01,Medium,2022-12-10,0
+K01116,Individual,Self-Employed,598000,Tamil Nadu,0,1,1,1,2013-03-27,Low,2014-12-31,0
+K01117,Individual,Retired,225000,Tamil Nadu,0,0,1,1,2022-05-09,Low,2023-02-10,0
+K01118,Sole Proprietor,Business Owner,780000,Tamil Nadu,0,1,1,1,2023-02-14,High,2023-08-06,1
+K01119,Individual,Self-Employed,1090000,Maharashtra,0,1,1,1,2016-09-09,Low,2017-01-04,0
+K01120,Sole Proprietor,Business Owner,1070000,Tamil Nadu,0,1,1,1,2022-03-28,Medium,2024-01-30,0
+K01121,Individual,Homemaker,58000,Delhi,0,1,1,1,2021-12-15,Medium,2022-11-02,0
+K01122,Individual,Homemaker,95000,Tamil Nadu,0,0,1,1,2022-09-02,Low,2023-09-22,0
+K01123,Individual,Salaried,273000,Tamil Nadu,0,1,1,1,2017-07-13,Low,2020-04-12,0
+K01124,Individual,Salaried,571000,Tamil Nadu,0,1,1,1,2022-05-06,Low,2024-07-07,0
+K01125,Individual,Salaried,641000,Tamil Nadu,0,1,1,1,2016-10-31,Low,2016-10-31,0
+K01126,Individual,Salaried,695000,Delhi,0,1,1,1,2019-12-02,Low,2024-04-02,0
+K01127,Sole Proprietor,Business Owner,761000,Tamil Nadu,0,1,1,1,2020-05-02,Medium,2020-09-30,0
+K01128,Individual,Student,58000,Puducherry,0,1,1,1,2022-08-13,Low,2023-01-10,0
+K01129,Individual,Salaried,1014000,Puducherry,0,1,1,1,2015-09-12,Low,2016-04-22,0
+K01130,Individual,Salaried,393000,Karnataka,0,1,1,1,2020-03-18,Low,2022-04-04,0
+K01131,Individual,Salaried,777000,Tamil Nadu,0,1,1,1,2023-12-18,Medium,2022-12-04,0
+K01132,Sole Proprietor,Business Owner,2503000,Tamil Nadu,0,1,1,1,2019-06-24,Low,2022-11-02,0
+K01133,Individual,Student,33000,Karnataka,0,1,1,1,2012-07-23,Medium,2018-04-22,0
+K01134,Individual,Self-Employed,1083000,Puducherry,0,0,1,1,2013-12-06,Low,2019-03-01,0
+K01135,Sole Proprietor,Business Owner,1755000,Puducherry,0,1,1,1,2018-09-16,Low,2024-10-31,0
+K01136,Individual,Retired,464000,Tamil Nadu,0,1,1,1,2020-11-21,Low,2022-10-10,0
+K01137,Individual,Retired,675000,Tamil Nadu,0,1,1,1,2013-04-02,Low,2016-03-10,0
+K01138,Individual,Salaried,537000,Karnataka,0,1,1,1,2019-04-22,Low,2020-10-18,0
+K01139,Individual,Business Owner,1287000,Maharashtra,0,1,1,0,2018-05-23,Medium,2023-09-19,0
+K01140,Individual,Student,82000,Tamil Nadu,0,1,1,1,2013-05-05,Medium,2018-05-12,0
+K01141,Individual,Retired,265000,Kerala,0,1,1,1,2016-05-05,Medium,2024-09-25,0
+K01142,Individual,Salaried,546000,Kerala,0,1,1,1,2013-01-18,Low,2017-12-28,0
+K01143,Individual,Salaried,172000,Tamil Nadu,0,1,1,1,2021-08-04,Low,2023-07-27,0
+K01144,Individual,Self-Employed,1376000,Tamil Nadu,0,1,1,1,2023-09-06,Low,2024-09-18,0
+K01145,Individual,Salaried,340000,Kerala,0,1,1,1,2012-08-12,Low,2021-07-20,0
+K01146,Individual,Salaried,557000,Delhi,0,1,1,1,2012-07-24,Low,2017-11-29,0
+K01147,Individual,Student,72000,Kerala,0,1,1,1,2019-04-22,Low,2023-12-25,0
+K01148,Individual,Business Owner,1302000,Tamil Nadu,0,1,1,1,2021-04-18,High,2024-10-21,0
+K01149,Sole Proprietor,Business Owner,1307000,Puducherry,0,1,1,1,2018-08-04,Medium,2022-09-26,0
+K01150,Sole Proprietor,Business Owner,1279000,Tamil Nadu,0,1,1,0,2019-05-31,Medium,2023-03-14,0
+K01151,Individual,Salaried,204000,Tamil Nadu,0,1,1,1,2023-12-07,Low,2023-08-27,0
+K01152,Individual,Salaried,338000,Tamil Nadu,0,1,1,1,2014-06-11,Low,2022-08-28,0
+K01153,Individual,Salaried,752000,Kerala,0,1,1,1,2021-06-27,Medium,2022-07-23,0
+K01154,Individual,Student,39000,Tamil Nadu,0,1,1,1,2014-03-20,Medium,2020-07-18,0
+K01155,Sole Proprietor,Business Owner,763000,Tamil Nadu,0,1,1,1,2014-06-28,Low,2020-09-07,0
+K01156,Individual,Student,164000,Tamil Nadu,0,1,1,1,2023-05-18,Low,2024-03-07,0
+K01157,Individual,Self-Employed,1081000,Delhi,0,1,1,1,2013-07-16,Low,2019-07-16,0
+K01158,Individual,Student,127000,Tamil Nadu,0,1,1,1,2019-11-17,Low,2024-09-02,0
+K01159,Individual,Homemaker,92000,Karnataka,0,1,1,1,2012-12-29,Medium,2021-05-18,0
+K01160,Sole Proprietor,Business Owner,1403000,Delhi,0,1,0,1,2022-06-30,Medium,2024-01-07,0
+K01161,Individual,Retired,440000,Kerala,1,1,1,1,2019-09-24,High,2022-08-05,1
+K01162,Individual,Homemaker,120000,Karnataka,0,0,1,1,2020-12-11,Low,2023-02-20,0
+K01163,Sole Proprietor,Business Owner,1190000,Maharashtra,0,1,1,1,2014-05-31,Low,2019-01-06,0
+K01164,Individual,Student,32000,Tamil Nadu,0,1,1,1,2017-08-29,Medium,2022-12-01,0
+K01165,Individual,Salaried,309000,Tamil Nadu,0,1,1,1,2022-11-21,Low,2024-01-16,0
+K01166,Individual,Salaried,217000,Tamil Nadu,0,1,1,1,2013-07-26,Low,2020-11-29,0
+K01167,Individual,Retired,637000,Puducherry,0,1,1,1,2018-06-09,Low,2024-07-17,0
+K01168,Individual,Salaried,360000,Puducherry,0,1,1,1,2023-11-12,Low,2023-05-29,0
+K01169,Individual,Salaried,398000,Maharashtra,0,1,1,0,2013-10-19,Low,2016-11-21,0
+K01170,Individual,Salaried,492000,Delhi,0,1,1,1,2015-09-13,Low,2020-07-31,0
+K01171,Individual,Business Owner,1242000,Maharashtra,1,1,1,1,2022-06-13,High,2023-02-04,1
+K01172,Individual,Salaried,549000,Tamil Nadu,0,1,1,1,2020-09-24,Low,2022-09-14,0
+K01173,Individual,Student,46000,Puducherry,0,1,1,1,2021-01-26,Low,2024-05-06,0
+K01174,Individual,Salaried,214000,Kerala,0,1,1,1,2015-07-20,Low,2020-11-19,0
+K01175,Individual,Business Owner,2748000,Tamil Nadu,0,1,1,1,2018-07-22,High,2019-12-31,0
+K01176,Individual,Retired,221000,Karnataka,0,1,0,1,2021-02-06,Medium,2022-03-31,0
+K01177,Individual,Business Owner,987000,Tamil Nadu,0,1,1,1,2022-12-24,Low,2024-04-05,0
+K01178,Individual,Salaried,298000,Karnataka,0,1,1,1,2012-03-26,Low,2016-06-15,0
+K01179,Individual,Self-Employed,477000,Kerala,0,1,1,1,2013-04-14,Low,2016-12-15,0
+K01180,Individual,Retired,309000,Tamil Nadu,0,1,1,1,2019-10-12,Medium,2022-10-01,0
+K01181,Sole Proprietor,Business Owner,1726000,Tamil Nadu,0,1,1,1,2019-08-29,Low,2023-06-08,0
+K01182,Individual,Salaried,264000,Tamil Nadu,0,1,1,1,2015-09-07,Medium,2016-12-05,0
+K01183,Individual,Salaried,489000,Puducherry,0,1,1,1,2019-08-02,Low,2023-02-04,0
+K01184,Individual,Retired,225000,Tamil Nadu,0,1,1,1,2022-08-11,Low,2023-06-12,0
+K01185,Individual,Self-Employed,1060000,Tamil Nadu,0,1,1,0,2017-03-15,Low,2022-12-15,0
+K01186,Individual,Salaried,243000,Tamil Nadu,0,1,1,1,2016-05-23,Low,2016-08-13,0
+K01187,Individual,Self-Employed,639000,Karnataka,0,1,1,1,2020-07-01,Medium,2024-07-03,0
+K01188,Individual,Self-Employed,846000,Kerala,0,1,1,1,2023-11-20,Medium,2023-11-29,0
+K01189,Individual,Salaried,229000,Tamil Nadu,0,0,1,1,2014-11-29,Medium,2018-09-12,0
+K01190,Individual,Retired,321000,Kerala,0,1,1,0,2023-04-06,Medium,2023-12-22,0
+K01191,Individual,Salaried,456000,Tamil Nadu,0,1,1,1,2019-05-11,Low,2024-03-14,0
+K01192,Individual,Salaried,296000,Tamil Nadu,0,1,0,1,2013-05-04,Low,2014-12-14,0
+K01193,Individual,Salaried,386000,Puducherry,0,1,1,1,2016-11-16,Low,2022-12-13,0
+K01194,Individual,Salaried,670000,Tamil Nadu,0,1,1,1,2013-01-13,Low,2015-09-10,0
+K01195,Individual,Retired,340000,Maharashtra,0,1,1,1,2022-10-11,Medium,2023-05-16,0
+K01196,Sole Proprietor,Business Owner,1006000,Maharashtra,0,1,1,1,2017-01-18,Low,2024-05-28,0
+K01197,Individual,Salaried,387000,Delhi,0,0,1,1,2017-07-31,Low,2017-12-27,0
+K01198,Individual,Salaried,522000,Kerala,0,1,1,1,2020-09-09,Low,2023-12-04,0
+K01199,Individual,Salaried,759000,Karnataka,0,1,1,1,2017-07-12,Low,2021-08-16,0
+K01200,Sole Proprietor,Business Owner,1745000,Puducherry,0,1,1,1,2012-06-09,Low,2016-07-28,0
+K01201,Individual,Retired,424000,Puducherry,0,1,1,1,2016-03-19,Low,2021-08-25,0
+K01202,Individual,Salaried,867000,Maharashtra,0,1,1,1,2022-06-07,Low,2024-06-14,0
+K01203,Individual,Self-Employed,300000,Puducherry,0,1,1,1,2022-07-06,Low,2022-12-19,0
+K01204,Individual,Salaried,221000,Puducherry,0,1,1,1,2023-02-17,Low,2023-05-03,0
+K01205,Individual,Salaried,151000,Maharashtra,0,0,1,1,2014-10-31,Medium,2016-08-26,0
+K01206,Individual,Business Owner,1770000,Tamil Nadu,0,1,1,0,2012-01-07,High,2017-01-28,0
+K01207,Individual,Homemaker,32000,Puducherry,0,1,1,1,2012-06-04,Low,2014-03-02,0
+K01208,Individual,Salaried,415000,Tamil Nadu,0,1,1,1,2013-06-24,Low,2018-12-29,0
+K01209,Individual,Self-Employed,852000,Tamil Nadu,0,1,1,1,2014-11-22,Medium,2022-12-11,0
+K01210,Individual,Salaried,224000,Tamil Nadu,0,1,1,1,2013-08-20,Low,2017-10-06,0
+K01211,Individual,Salaried,313000,Puducherry,0,1,1,1,2012-11-09,Low,2014-10-25,0
+K01212,Individual,Self-Employed,536000,Tamil Nadu,0,1,1,1,2019-12-01,Low,2024-11-01,0
+K01213,Individual,Salaried,589000,Tamil Nadu,0,1,1,1,2022-11-01,Low,2023-03-03,0
+K01214,Individual,Business Owner,606000,Puducherry,0,1,1,1,2014-04-14,Low,2020-03-13,0
+K01215,Sole Proprietor,Business Owner,1395000,Tamil Nadu,0,1,1,1,2014-03-31,Medium,2022-11-03,0
+K01216,Individual,Salaried,579000,Karnataka,0,1,1,1,2021-06-27,Low,2021-10-29,0
+K01217,Individual,Self-Employed,643000,Tamil Nadu,0,1,1,1,2021-02-25,Low,2023-11-03,0
+K01218,Individual,Salaried,453000,Tamil Nadu,0,1,1,1,2012-08-11,Medium,2015-03-29,0
+K01219,Sole Proprietor,Business Owner,2124000,Tamil Nadu,0,1,1,1,2022-02-02,High,2022-11-27,1
+K01220,Individual,Salaried,466000,Delhi,0,1,0,1,2016-11-12,Medium,2024-08-05,0
+K01221,Sole Proprietor,Business Owner,1192000,Maharashtra,0,1,0,1,2019-01-29,High,2023-11-15,1
+K01222,Sole Proprietor,Business Owner,1035000,Tamil Nadu,0,1,1,1,2017-09-10,Low,2024-04-22,0
+K01223,Individual,Self-Employed,809000,Kerala,0,1,1,1,2021-05-03,Low,2022-12-17,0
+K01224,Individual,Salaried,370000,Maharashtra,0,1,1,1,2022-06-08,Low,2023-03-21,0
+K01225,Individual,Student,81000,Karnataka,0,1,0,0,2018-06-10,Medium,2022-04-02,0
+K01226,Individual,Salaried,441000,Karnataka,0,1,0,1,2012-09-28,Medium,2014-09-30,0
+K01227,Individual,Student,100000,Puducherry,0,1,0,0,2019-08-20,Medium,2021-07-10,0
+K01228,Individual,Self-Employed,421000,Kerala,0,1,1,1,2017-05-03,Low,2024-11-21,0
+K01229,Individual,Salaried,436000,Puducherry,0,1,1,0,2020-06-25,Low,2021-07-03,0
+K01230,Individual,Business Owner,1409000,Delhi,0,1,1,1,2016-11-22,Low,2021-01-27,0
+K01231,Individual,Salaried,508000,Tamil Nadu,0,1,1,1,2018-05-27,Low,2022-12-27,0
+K01232,Individual,Business Owner,2007000,Tamil Nadu,0,1,1,1,2015-05-08,Low,2019-05-25,0
+K01233,Individual,Salaried,503000,Tamil Nadu,0,1,1,1,2013-04-23,Low,2015-11-27,0
+K01234,Individual,Business Owner,1811000,Tamil Nadu,0,1,1,1,2016-06-27,High,2022-02-02,1
+K01235,Individual,Business Owner,2918000,Puducherry,0,1,1,1,2023-04-10,High,2022-10-04,1
+K01236,Individual,Homemaker,132000,Puducherry,0,1,1,1,2016-05-07,Low,2024-01-15,0
+K01237,Individual,Salaried,261000,Delhi,0,1,1,1,2015-05-24,Medium,2018-10-21,0
+K01238,Individual,Salaried,221000,Tamil Nadu,0,0,1,1,2014-07-28,Low,2021-10-05,0
+K01239,Individual,Homemaker,122000,Puducherry,0,1,1,1,2012-05-08,Medium,2021-01-18,0
+K01240,Individual,Self-Employed,507000,Tamil Nadu,0,1,1,1,2021-01-17,Low,2023-12-03,0
+K01241,Individual,Salaried,480000,Tamil Nadu,0,1,1,1,2020-12-14,Low,2024-04-18,0
+K01242,Sole Proprietor,Business Owner,1112000,Puducherry,0,1,1,1,2018-04-23,Medium,2019-09-06,0
+K01243,Individual,Salaried,759000,Karnataka,0,1,1,1,2020-10-27,Low,2023-08-22,0
+K01244,Individual,Homemaker,155000,Tamil Nadu,0,1,1,1,2022-04-14,Low,2024-02-12,0
+K01245,Individual,Business Owner,723000,Maharashtra,0,1,0,1,2014-11-25,Low,2017-02-10,0
+K01246,Individual,Business Owner,1360000,Tamil Nadu,0,1,1,1,2023-03-25,Medium,2023-02-28,0
+K01247,Individual,Salaried,367000,Puducherry,0,1,1,1,2013-03-27,Low,2016-07-14,0
+K01248,Individual,Student,33000,Tamil Nadu,0,1,1,1,2012-05-21,Low,2013-05-29,0
+K01249,Individual,Retired,402000,Delhi,0,1,1,0,2017-09-10,Low,2023-12-21,0
+K01250,Individual,Student,56000,Puducherry,0,1,1,1,2012-03-04,Medium,2017-05-19,0
+K01251,Individual,Retired,367000,Kerala,0,1,1,1,2018-09-21,Medium,2019-06-10,0
+K01252,Individual,Salaried,1285000,Tamil Nadu,0,1,1,1,2019-12-25,Medium,2024-04-24,0
+K01253,Individual,Business Owner,2188000,Karnataka,0,1,1,1,2013-05-31,Low,2021-06-01,0
+K01254,Individual,Retired,494000,Tamil Nadu,0,0,1,0,2018-10-23,Low,2022-06-24,0
+K01255,Individual,Self-Employed,500000,Maharashtra,0,1,1,1,2022-03-24,Medium,2024-12-15,0
+K01256,Individual,Salaried,247000,Tamil Nadu,0,1,1,1,2014-05-04,Low,2017-02-01,0
+K01257,Individual,Self-Employed,1055000,Tamil Nadu,0,1,1,1,2020-08-25,Low,2023-03-13,0
+K01258,Individual,Salaried,367000,Tamil Nadu,0,0,0,1,2012-03-21,Low,2016-07-23,0
+K01259,Individual,Salaried,429000,Karnataka,1,1,1,1,2015-12-25,High,2017-01-31,1
+K01260,Individual,Homemaker,76000,Tamil Nadu,0,1,1,1,2022-10-20,Low,2024-10-27,0
+K01261,Individual,Student,63000,Tamil Nadu,0,1,1,1,2018-05-14,Medium,2021-06-20,0
+K01262,Individual,Business Owner,3555000,Delhi,0,1,1,1,2018-05-03,Low,2019-10-23,0
+K01263,Individual,Business Owner,1042000,Tamil Nadu,0,1,1,1,2015-08-03,High,2024-05-22,1
+K01264,Sole Proprietor,Business Owner,1057000,Karnataka,0,1,1,1,2014-09-05,Low,2017-07-21,0
+K01265,Individual,Self-Employed,658000,Puducherry,0,1,1,1,2023-06-02,Medium,2023-04-17,0
+K01266,Individual,Salaried,478000,Puducherry,0,1,1,1,2016-01-26,Medium,2018-02-01,0
+K01267,Individual,Salaried,245000,Karnataka,0,1,1,1,2018-03-22,Low,2024-05-27,0
+K01268,Individual,Self-Employed,270000,Tamil Nadu,0,1,1,1,2013-08-15,Low,2017-06-13,0
+K01269,Individual,Self-Employed,461000,Tamil Nadu,0,1,1,1,2015-03-05,Medium,2016-06-05,0
+K01270,Individual,Salaried,381000,Tamil Nadu,0,1,1,1,2016-09-08,Medium,2022-07-27,0
+K01271,Individual,Salaried,294000,Maharashtra,0,1,1,1,2023-11-08,Low,2023-01-24,0
+K01272,Individual,Salaried,267000,Karnataka,0,1,1,1,2017-01-15,Medium,2022-08-08,0
+K01273,Individual,Salaried,274000,Tamil Nadu,0,1,1,1,2012-09-22,Low,2013-03-18,0
+K01274,Individual,Homemaker,75000,Tamil Nadu,0,1,1,1,2012-07-11,Medium,2014-10-12,0
+K01275,Individual,Salaried,396000,Tamil Nadu,0,1,1,1,2016-07-11,Low,2022-01-12,0
+K01276,Individual,Salaried,200000,Kerala,0,1,1,1,2022-03-15,Low,2024-04-24,0
+K01277,Individual,Self-Employed,465000,Karnataka,0,1,1,1,2017-07-08,Low,2022-11-14,0
+K01278,Individual,Salaried,489000,Tamil Nadu,0,1,1,1,2013-09-29,Low,2015-07-07,0
+K01279,Individual,Self-Employed,562000,Tamil Nadu,0,1,1,1,2019-12-09,Low,2023-09-14,0
+K01280,Individual,Self-Employed,322000,Kerala,0,0,1,1,2017-09-28,Low,2023-12-27,0
+K01281,Individual,Salaried,354000,Tamil Nadu,0,1,1,1,2012-04-14,Low,2012-06-09,0
+K01282,Individual,Homemaker,88000,Tamil Nadu,0,1,1,1,2013-09-17,Low,2021-11-19,0
+K01283,Individual,Self-Employed,839000,Tamil Nadu,0,1,1,1,2017-11-03,Low,2023-03-17,0
+K01284,Individual,Salaried,200000,Tamil Nadu,0,1,1,1,2020-06-16,Low,2024-06-06,0
+K01285,Individual,Homemaker,121000,Puducherry,0,1,1,1,2018-12-06,Medium,2022-06-30,0
+K01286,Individual,Salaried,337000,Tamil Nadu,0,1,1,1,2015-04-28,Low,2021-10-26,0
+K01287,Sole Proprietor,Business Owner,1299000,Tamil Nadu,0,1,0,1,2020-05-17,Low,2024-07-30,0
+K01288,Individual,Self-Employed,806000,Puducherry,0,1,1,1,2014-03-04,Low,2022-10-12,0
+K01289,Individual,Salaried,280000,Tamil Nadu,0,1,1,1,2022-06-23,Low,2023-04-18,0
+K01290,Individual,Salaried,288000,Tamil Nadu,0,1,1,1,2022-11-05,Low,2023-03-30,0
+K01291,Individual,Self-Employed,562000,Karnataka,0,1,1,1,2013-06-10,Low,2014-11-29,0
+K01292,Individual,Salaried,574000,Puducherry,0,1,1,1,2021-11-23,Low,2024-08-20,0
+K01293,Individual,Salaried,324000,Maharashtra,0,0,1,1,2016-10-19,Medium,2024-01-06,0
+K01294,Individual,Salaried,219000,Maharashtra,0,1,1,1,2023-01-21,Medium,2023-12-24,0
+K01295,Individual,Salaried,303000,Delhi,0,1,1,1,2022-06-26,Low,2022-07-30,0
+K01296,Individual,Business Owner,1404000,Puducherry,0,1,1,1,2016-12-03,High,2020-08-04,1
+K01297,Individual,Salaried,696000,Puducherry,0,0,1,1,2013-06-26,Low,2016-03-17,0
+K01298,Individual,Salaried,329000,Delhi,0,1,1,1,2014-09-17,Medium,2017-02-20,0
+K01299,Individual,Student,51000,Puducherry,0,1,1,1,2013-05-26,Low,2015-01-11,0
+K01300,Individual,Salaried,381000,Puducherry,0,1,1,1,2022-03-24,Low,2024-05-22,0
+K01301,Sole Proprietor,Business Owner,1110000,Puducherry,0,1,1,1,2013-12-12,High,2021-02-15,1
+K01302,Individual,Self-Employed,385000,Karnataka,0,1,1,1,2013-11-29,Low,2014-12-12,0
+K01303,Individual,Homemaker,72000,Kerala,0,1,1,1,2018-07-20,Low,2021-06-19,0
+K01304,Individual,Salaried,454000,Puducherry,0,1,0,1,2022-04-02,Low,2022-09-27,0
+K01305,Individual,Retired,308000,Tamil Nadu,0,1,1,1,2017-01-25,Low,2017-02-11,0
+K01306,Individual,Salaried,416000,Tamil Nadu,0,1,1,1,2020-12-27,Low,2024-08-15,0
+K01307,Individual,Salaried,262000,Delhi,0,1,1,1,2017-01-16,Low,2020-01-08,0
+K01308,Sole Proprietor,Business Owner,920000,Karnataka,0,1,1,1,2018-08-24,Low,2020-03-05,0
+K01309,Individual,Salaried,299000,Tamil Nadu,0,1,1,1,2014-03-13,Low,2016-08-21,0
+K01310,Individual,Self-Employed,942000,Tamil Nadu,0,1,1,1,2013-10-23,Low,2017-11-26,0
+K01311,Sole Proprietor,Business Owner,2258000,Tamil Nadu,0,1,1,1,2014-07-20,Low,2021-07-23,0
+K01312,Individual,Salaried,480000,Tamil Nadu,0,1,1,1,2022-04-01,Low,2022-08-25,0
+K01313,Individual,Student,120000,Karnataka,0,1,1,1,2023-11-10,Low,2022-09-10,0
+K01314,Individual,Salaried,361000,Puducherry,0,1,1,1,2022-08-05,Low,2024-10-03,0
+K01315,Individual,Homemaker,78000,Tamil Nadu,0,1,1,1,2019-09-29,Low,2023-01-03,0
+K01316,Individual,Salaried,231000,Kerala,0,1,1,1,2019-10-12,Low,2022-08-25,0
+K01317,Individual,Salaried,457000,Tamil Nadu,0,1,1,1,2015-12-09,Medium,2021-11-04,0
+K01318,Individual,Self-Employed,481000,Tamil Nadu,0,1,1,1,2012-03-28,Medium,2017-01-27,0
+K01319,Individual,Salaried,430000,Karnataka,0,1,1,1,2022-12-02,Low,2024-06-28,0
+K01320,Individual,Salaried,513000,Puducherry,0,1,1,1,2014-05-28,Low,2021-12-12,0
+K01321,Individual,Retired,264000,Puducherry,0,1,1,1,2018-01-31,Low,2021-06-08,0
+K01322,Individual,Salaried,250000,Puducherry,0,1,1,1,2019-03-16,Low,2023-09-15,0
+K01323,Individual,Salaried,405000,Tamil Nadu,0,1,1,1,2013-01-11,Low,2017-07-21,0
+K01324,Individual,Salaried,400000,Tamil Nadu,0,1,1,1,2023-09-05,Low,2024-10-23,0
+K01325,Individual,Self-Employed,597000,Tamil Nadu,0,1,1,1,2017-06-08,Low,2022-07-25,0
+K01326,Individual,Student,80000,Tamil Nadu,0,1,1,1,2014-03-31,Low,2015-07-05,0
+K01327,Individual,Business Owner,1073000,Karnataka,0,1,1,1,2016-01-21,High,2019-04-21,1
+K01328,Individual,Self-Employed,524000,Kerala,0,0,1,1,2012-05-22,Low,2017-02-26,0
+K01329,Individual,Salaried,897000,Kerala,0,1,1,1,2017-03-01,Low,2019-06-02,0
+K01330,Individual,Salaried,668000,Karnataka,0,1,1,1,2016-01-25,Low,2024-09-17,0
+K01331,Individual,Salaried,397000,Puducherry,0,1,1,1,2013-12-31,Low,2018-08-24,0
+K01332,Individual,Salaried,273000,Tamil Nadu,0,1,1,1,2017-01-07,Low,2024-10-14,0
+K01333,Individual,Retired,243000,Tamil Nadu,0,1,1,1,2015-05-22,Low,2015-12-09,0
+K01334,Individual,Salaried,491000,Karnataka,0,1,0,1,2016-03-15,Medium,2018-08-19,0
+K01335,Individual,Salaried,604000,Tamil Nadu,0,1,1,1,2020-01-27,Low,2024-06-10,0
+K01336,Individual,Business Owner,3470000,Karnataka,0,1,1,1,2017-10-14,Medium,2024-06-09,0
+K01337,Individual,Self-Employed,532000,Kerala,0,1,1,1,2013-01-11,Low,2016-09-11,0
+K01338,Individual,Salaried,445000,Tamil Nadu,0,1,1,1,2015-11-03,Low,2020-03-13,0
+K01339,Individual,Homemaker,76000,Tamil Nadu,0,1,1,1,2014-11-20,Low,2017-03-27,0
+K01340,Individual,Homemaker,93000,Maharashtra,0,1,1,1,2014-10-21,Low,2020-03-15,0
+K01341,Individual,Salaried,351000,Maharashtra,0,1,1,1,2013-03-15,Low,2015-12-03,0
+K01342,Individual,Student,37000,Tamil Nadu,0,1,1,1,2013-01-23,Low,2015-02-13,0
+K01343,Individual,Self-Employed,940000,Kerala,0,1,1,1,2013-03-27,Low,2013-05-27,0
+K01344,Sole Proprietor,Business Owner,1264000,Puducherry,0,1,1,1,2023-07-06,Medium,2023-05-29,0
+K01345,Sole Proprietor,Business Owner,2117000,Karnataka,0,1,1,1,2022-10-23,Low,2023-04-29,0
+K01346,Sole Proprietor,Business Owner,955000,Karnataka,0,1,1,1,2019-11-09,High,2021-09-12,1
+K01347,Individual,Salaried,470000,Delhi,0,1,1,1,2022-09-04,Low,2023-03-22,0
+K01348,Individual,Salaried,561000,Karnataka,0,1,1,1,2019-12-08,Medium,2022-09-16,0
+K01349,Individual,Student,30000,Puducherry,0,1,1,1,2013-01-04,Low,2019-09-19,0
+K01350,Individual,Salaried,233000,Tamil Nadu,0,0,1,1,2013-07-06,Medium,2014-07-01,0
+K01351,Individual,Salaried,586000,Delhi,0,1,1,1,2013-10-27,Low,2020-03-06,0
+K01352,Individual,Business Owner,1254000,Puducherry,0,1,1,1,2015-10-21,Low,2019-05-07,0
+K01353,Sole Proprietor,Business Owner,530000,Karnataka,0,1,1,1,2022-09-13,Low,2023-11-22,0
+K01354,Individual,Homemaker,65000,Tamil Nadu,0,1,1,1,2019-09-20,Low,2022-10-22,0
+K01355,Individual,Salaried,263000,Tamil Nadu,0,1,1,1,2013-08-18,Low,2018-05-20,0
+K01356,Sole Proprietor,Business Owner,969000,Maharashtra,0,1,1,1,2015-05-28,Low,2021-04-18,0
+K01357,Individual,Salaried,837000,Maharashtra,0,0,1,1,2020-05-18,Low,2022-12-03,0
+K01358,Individual,Salaried,326000,Tamil Nadu,0,1,1,1,2018-03-04,Medium,2020-04-16,0
+K01359,Individual,Salaried,1038000,Karnataka,0,1,1,1,2013-02-25,Low,2020-02-08,0
+K01360,Individual,Salaried,377000,Tamil Nadu,0,1,1,1,2022-09-23,Low,2023-11-22,0
+K01361,Individual,Salaried,304000,Tamil Nadu,0,1,1,1,2014-08-20,Low,2020-09-04,0
+K01362,Individual,Salaried,847000,Puducherry,0,1,1,1,2019-08-16,Medium,2024-06-09,0
+K01363,Individual,Homemaker,138000,Kerala,0,1,1,1,2015-01-23,Medium,2021-06-21,0
+K01364,Individual,Salaried,780000,Puducherry,0,1,1,1,2015-04-08,Low,2017-08-18,0
+K01365,Individual,Salaried,1004000,Puducherry,0,1,1,1,2014-06-25,Low,2018-06-24,0
+K01366,Individual,Retired,485000,Puducherry,0,1,1,1,2018-03-19,Medium,2018-10-06,0
+K01367,Individual,Student,104000,Maharashtra,0,1,1,1,2023-02-06,Low,2024-02-24,0
+K01368,Individual,Student,30000,Karnataka,0,1,1,1,2023-01-14,Medium,2024-07-15,0
+K01369,Individual,Retired,210000,Karnataka,0,0,1,1,2022-05-11,Low,2023-03-09,0
+K01370,Individual,Business Owner,1477000,Maharashtra,0,1,1,1,2013-07-15,High,2017-04-26,0
+K01371,Individual,Salaried,465000,Karnataka,0,1,1,1,2018-06-26,Low,2018-08-09,0
+K01372,Individual,Homemaker,126000,Puducherry,0,1,1,1,2013-05-10,Low,2022-02-08,0
+K01373,Individual,Salaried,344000,Puducherry,0,1,1,1,2021-02-06,Low,2024-06-06,0
+K01374,Individual,Retired,499000,Puducherry,0,1,1,1,2020-05-11,Low,2021-03-18,0
+K01375,Individual,Salaried,1046000,Puducherry,0,1,1,1,2021-04-04,Low,2023-03-03,0
+K01376,Individual,Salaried,554000,Puducherry,0,1,1,1,2019-08-20,Medium,2023-02-08,0
+K01377,Individual,Self-Employed,886000,Tamil Nadu,0,1,1,1,2014-05-24,Low,2014-11-06,0
+K01378,Individual,Salaried,536000,Tamil Nadu,0,1,0,1,2017-07-22,Low,2022-02-20,0
+K01379,Individual,Retired,462000,Tamil Nadu,0,0,1,1,2017-02-19,Low,2024-12-29,0
+K01380,Individual,Student,67000,Tamil Nadu,0,1,1,0,2019-12-20,Low,2024-09-10,0
+K01381,Sole Proprietor,Business Owner,979000,Kerala,0,1,1,1,2019-01-14,High,2023-11-12,1
+K01382,Individual,Salaried,468000,Tamil Nadu,0,1,1,1,2013-12-31,Low,2022-01-31,0
+K01383,Individual,Salaried,450000,Delhi,0,1,1,1,2013-09-24,Medium,2015-03-27,0
+K01384,Individual,Salaried,217000,Karnataka,0,1,1,1,2015-04-12,Low,2017-07-28,0
+K01385,Sole Proprietor,Business Owner,1360000,Puducherry,0,1,1,1,2012-03-20,Low,2014-10-21,0
+K01386,Individual,Salaried,434000,Tamil Nadu,0,1,1,1,2020-11-09,Medium,2023-07-17,0
+K01387,Individual,Salaried,471000,Tamil Nadu,0,1,1,1,2014-07-17,Low,2017-07-29,0
+K01388,Individual,Salaried,336000,Kerala,0,1,1,1,2022-10-09,Low,2024-01-20,0
+K01389,Individual,Retired,380000,Puducherry,0,1,1,1,2022-04-13,Low,2024-05-21,0
+K01390,Individual,Retired,405000,Maharashtra,0,1,1,1,2019-04-07,Low,2024-10-27,0
+K01391,Individual,Salaried,313000,Karnataka,0,1,1,1,2020-03-22,Low,2024-05-07,0
+K01392,Individual,Retired,354000,Maharashtra,0,1,1,1,2019-07-27,Low,2023-04-11,0
+K01393,Individual,Salaried,607000,Tamil Nadu,0,1,1,1,2021-01-14,Medium,2022-08-24,0
+K01394,Sole Proprietor,Business Owner,1705000,Delhi,0,1,1,1,2022-10-29,Low,2023-12-14,0
+K01395,Individual,Salaried,284000,Puducherry,0,1,1,1,2020-06-13,Medium,2024-07-30,0
+K01396,Individual,Salaried,271000,Karnataka,0,1,1,1,2012-05-12,Low,2015-11-17,0
+K01397,Individual,Self-Employed,618000,Puducherry,0,1,1,1,2022-08-08,Low,2024-04-03,0
+K01398,Individual,Salaried,268000,Maharashtra,0,1,1,1,2014-04-30,Low,2016-05-19,0
+K01399,Individual,Salaried,1297000,Tamil Nadu,0,1,1,1,2017-06-17,Low,2024-10-03,0
+K01400,Individual,Self-Employed,424000,Karnataka,0,1,1,1,2021-03-15,Medium,2024-08-20,0
+K01401,Individual,Student,43000,Tamil Nadu,0,1,1,1,2023-08-22,Low,2022-11-27,0
+K01402,Individual,Homemaker,121000,Karnataka,0,1,1,1,2020-06-18,Low,2024-08-23,0
+K01403,Individual,Salaried,344000,Tamil Nadu,0,0,1,1,2022-11-09,Low,2022-10-21,0
+K01404,Individual,Salaried,149000,Tamil Nadu,0,1,1,1,2012-01-10,Low,2017-02-16,0
+K01405,Individual,Salaried,395000,Puducherry,0,1,1,1,2020-10-11,Low,2024-09-18,0
+K01406,Individual,Salaried,272000,Maharashtra,0,1,1,1,2019-04-25,Low,2023-09-09,0
+K01407,Individual,Salaried,333000,Tamil Nadu,0,1,1,1,2022-05-25,Low,2023-10-29,0
+K01408,Individual,Salaried,205000,Tamil Nadu,0,1,1,1,2014-02-21,Low,2019-09-12,0
+K01409,Individual,Business Owner,800000,Kerala,0,1,1,1,2019-09-17,High,2022-02-25,1
+K01410,Individual,Salaried,388000,Karnataka,0,1,1,1,2016-05-21,Low,2022-05-06,0
+K01411,Sole Proprietor,Business Owner,1151000,Maharashtra,0,1,1,1,2018-02-16,High,2019-01-23,1
+K01412,Individual,Salaried,253000,Kerala,1,1,1,1,2016-02-15,High,2020-06-24,1
+K01413,Individual,Salaried,302000,Maharashtra,0,1,1,1,2018-07-18,Low,2022-01-20,0
+K01414,Individual,Self-Employed,405000,Kerala,0,1,1,1,2019-09-04,Low,2024-09-29,0
+K01415,Individual,Salaried,440000,Karnataka,0,1,1,1,2016-02-09,Medium,2016-08-16,0
+K01416,Individual,Salaried,387000,Kerala,0,1,1,1,2023-06-29,Low,2023-04-21,0
+K01417,Individual,Salaried,237000,Maharashtra,0,1,1,1,2023-02-25,Low,2024-03-04,0
+K01418,Individual,Self-Employed,783000,Puducherry,0,1,1,1,2017-05-01,Medium,2017-06-11,0
+K01419,Individual,Retired,216000,Tamil Nadu,0,1,1,1,2021-07-06,Low,2022-09-12,0
+K01420,Individual,Salaried,489000,Tamil Nadu,0,1,1,1,2017-10-01,Low,2018-08-28,0
+K01421,Individual,Salaried,273000,Karnataka,0,0,1,1,2019-11-25,Low,2024-03-10,0
+K01422,Individual,Self-Employed,669000,Tamil Nadu,1,1,1,1,2023-04-21,High,2023-08-15,1
+K01423,Individual,Salaried,389000,Tamil Nadu,0,1,1,1,2020-03-31,Low,2022-03-03,0
+K01424,Individual,Salaried,420000,Tamil Nadu,0,1,1,1,2018-12-17,Low,2024-08-30,0
+K01425,Individual,Homemaker,110000,Puducherry,0,1,1,1,2019-10-03,Low,2024-11-16,0
+K01426,Individual,Salaried,498000,Tamil Nadu,0,1,1,1,2014-08-30,Medium,2022-05-04,0
+K01427,Individual,Retired,315000,Delhi,0,1,1,1,2023-05-29,Medium,2023-07-07,0
+K01428,Individual,Self-Employed,629000,Tamil Nadu,0,0,1,1,2022-04-30,Low,2024-05-06,0
+K01429,Individual,Salaried,233000,Tamil Nadu,0,1,1,1,2015-09-21,Low,2023-08-13,0
+K01430,Individual,Salaried,397000,Tamil Nadu,0,1,1,1,2015-04-10,Low,2022-04-11,0
+K01431,Individual,Salaried,155000,Puducherry,0,1,1,1,2014-04-05,Medium,2022-04-02,0
+K01432,Individual,Self-Employed,216000,Tamil Nadu,0,1,1,1,2012-05-13,Low,2020-08-10,0
+K01433,Individual,Retired,254000,Maharashtra,0,1,1,1,2023-04-20,Low,2023-09-13,0
+K01434,Individual,Salaried,371000,Tamil Nadu,0,1,1,1,2015-11-18,Medium,2023-12-22,0
+K01435,Individual,Salaried,795000,Tamil Nadu,0,1,1,1,2019-07-06,Low,2021-11-21,0
+K01436,Individual,Salaried,550000,Tamil Nadu,0,1,1,1,2016-04-30,Low,2019-10-05,0
+K01437,Individual,Salaried,670000,Maharashtra,0,1,1,1,2021-09-21,Low,2023-09-26,0
+K01438,Individual,Salaried,357000,Karnataka,0,1,1,1,2021-03-30,Low,2023-04-23,0
+K01439,Individual,Homemaker,107000,Karnataka,0,1,1,1,2022-08-15,Low,2023-07-06,0
+K01440,Individual,Student,98000,Tamil Nadu,0,1,1,1,2015-07-23,Low,2015-11-04,0
+K01441,Individual,Homemaker,111000,Tamil Nadu,0,1,1,1,2022-10-30,Low,2024-09-05,0
+K01442,Individual,Self-Employed,687000,Puducherry,0,1,1,1,2019-04-05,Low,2024-10-05,0
+K01443,Individual,Student,62000,Puducherry,0,1,1,1,2017-06-19,Medium,2023-07-26,0
+K01444,Sole Proprietor,Business Owner,782000,Tamil Nadu,0,1,1,1,2016-02-07,Low,2019-05-09,0
+K01445,Individual,Salaried,277000,Maharashtra,0,1,1,1,2012-12-28,Low,2020-03-20,0
+K01446,Sole Proprietor,Business Owner,624000,Tamil Nadu,0,1,1,1,2017-11-09,Low,2024-03-27,0
+K01447,Individual,Salaried,495000,Puducherry,0,1,1,1,2012-05-21,Medium,2019-07-25,0
+K01448,Individual,Self-Employed,523000,Kerala,0,1,1,1,2013-09-22,Low,2014-06-06,0
+K01449,Individual,Student,44000,Tamil Nadu,0,1,1,1,2019-02-04,Medium,2020-06-20,0
+K01450,Individual,Salaried,484000,Tamil Nadu,0,1,1,1,2014-05-15,Low,2022-06-01,0
+K01451,Individual,Salaried,321000,Maharashtra,0,1,1,1,2014-07-12,Low,2018-08-12,0
+K01452,Individual,Retired,470000,Tamil Nadu,0,1,1,1,2017-04-03,Low,2023-08-04,0
+K01453,Individual,Self-Employed,1382000,Delhi,0,1,1,1,2014-09-11,Medium,2015-08-04,0
+K01454,Individual,Salaried,507000,Delhi,0,1,1,1,2022-05-20,Low,2024-08-16,0
+K01455,Individual,Salaried,305000,Puducherry,0,1,1,1,2016-09-11,Low,2018-03-17,0
+K01456,Individual,Salaried,213000,Kerala,0,1,1,1,2014-10-12,Low,2021-03-10,0
+K01457,Individual,Retired,725000,Tamil Nadu,0,1,1,0,2014-02-21,Low,2019-09-25,0
+K01458,Individual,Self-Employed,725000,Puducherry,0,1,1,1,2013-06-09,Low,2016-09-01,0
+K01459,Individual,Retired,176000,Karnataka,0,1,1,1,2018-05-19,Low,2023-10-09,0
+K01460,Individual,Self-Employed,957000,Tamil Nadu,0,1,1,1,2013-04-24,Low,2020-10-16,0
+K01461,Individual,Homemaker,42000,Karnataka,0,1,1,1,2014-04-05,Low,2020-11-15,0
+K01462,Individual,Retired,244000,Puducherry,0,1,1,1,2021-07-06,Low,2024-09-08,0
+K01463,Individual,Self-Employed,534000,Puducherry,0,1,1,1,2020-08-30,Low,2023-11-06,0
+K01464,Individual,Student,51000,Karnataka,0,1,1,1,2016-01-09,Medium,2023-11-12,0
+K01465,Individual,Salaried,251000,Tamil Nadu,0,1,1,1,2013-09-04,Medium,2020-08-12,0
+K01466,Individual,Salaried,1207000,Puducherry,0,1,1,1,2016-08-10,Low,2016-12-03,0
+K01467,Individual,Self-Employed,498000,Karnataka,0,1,1,1,2013-04-02,Medium,2013-08-12,0
+K01468,Individual,Salaried,493000,Karnataka,0,1,1,1,2013-08-15,Medium,2022-02-11,0
+K01469,Individual,Self-Employed,604000,Tamil Nadu,0,1,0,1,2020-08-31,Low,2023-12-19,0
+K01470,Individual,Self-Employed,292000,Karnataka,0,0,1,1,2017-10-08,Low,2022-05-10,0
+K01471,Sole Proprietor,Business Owner,931000,Puducherry,0,1,1,1,2020-02-24,High,2024-05-16,1
+K01472,Individual,Retired,326000,Delhi,0,1,1,1,2016-02-08,Medium,2021-03-22,0
+K01473,Individual,Salaried,630000,Puducherry,0,1,1,1,2012-10-08,Low,2013-06-21,0
+K01474,Individual,Retired,255000,Puducherry,0,1,1,1,2013-04-17,Low,2016-03-06,0
+K01475,Individual,Self-Employed,701000,Tamil Nadu,0,1,1,1,2017-05-25,Low,2024-10-19,0
+K01476,Individual,Self-Employed,512000,Maharashtra,0,1,1,1,2019-07-31,Medium,2023-09-29,0
+K01477,Individual,Self-Employed,774000,Maharashtra,0,1,1,1,2020-01-02,Low,2023-12-30,0
+K01478,Individual,Student,30000,Tamil Nadu,0,1,1,1,2017-05-07,Medium,2023-01-24,0
+K01479,Individual,Salaried,545000,Tamil Nadu,0,1,1,1,2021-05-03,Low,2023-10-30,0
+K01480,Individual,Salaried,316000,Karnataka,0,1,1,1,2016-04-25,Low,2020-02-22,0
+K01481,Individual,Student,46000,Puducherry,0,1,1,1,2016-03-06,Low,2018-01-31,0
+K01482,Individual,Business Owner,335000,Karnataka,0,1,1,1,2013-12-20,Low,2019-12-04,0
+K01483,Sole Proprietor,Business Owner,742000,Puducherry,0,1,1,1,2012-08-03,Low,2014-07-17,0
+K01484,Individual,Salaried,549000,Puducherry,0,1,1,1,2017-07-04,Low,2017-07-23,0
+K01485,Individual,Salaried,1171000,Karnataka,0,1,1,1,2021-05-06,Low,2023-03-19,0
+K01486,Individual,Self-Employed,436000,Tamil Nadu,0,1,1,1,2012-10-18,Low,2021-10-10,0
+K01487,Sole Proprietor,Business Owner,888000,Tamil Nadu,0,1,1,1,2022-12-20,High,2024-02-16,1
+K01488,Sole Proprietor,Business Owner,1485000,Tamil Nadu,0,1,1,1,2015-11-24,High,2023-09-28,1
+K01489,Individual,Self-Employed,678000,Maharashtra,0,1,1,1,2021-01-15,Medium,2022-01-16,0
+K01490,Individual,Business Owner,918000,Karnataka,0,1,1,1,2015-12-14,Low,2016-07-29,0
+K01491,Individual,Salaried,388000,Tamil Nadu,0,1,1,1,2021-11-19,Low,2022-11-28,0
+K01492,Individual,Self-Employed,503000,Puducherry,0,1,1,1,2012-07-26,Medium,2018-12-26,0
+K01493,Individual,Salaried,551000,Karnataka,0,1,1,1,2014-11-04,Low,2023-05-13,0
+K01494,Individual,Business Owner,1703000,Delhi,0,1,1,1,2018-07-12,High,2022-10-18,1
+K01495,Individual,Self-Employed,1312000,Kerala,0,1,1,1,2018-01-17,Medium,2024-12-04,0
+K01496,Sole Proprietor,Business Owner,1802000,Tamil Nadu,0,1,1,1,2021-01-11,High,2022-10-25,1
+K01497,Individual,Business Owner,1611000,Puducherry,0,1,1,1,2020-02-22,High,2024-03-09,1
+K01498,Individual,Retired,321000,Karnataka,0,1,0,1,2012-08-20,Low,2014-04-11,0
+K01499,Individual,Retired,455000,Puducherry,0,1,1,1,2023-10-04,Low,2024-09-28,0
+K01500,Individual,Salaried,270000,Kerala,0,1,1,1,2021-01-04,Low,2023-11-22,0
+K01501,Sole Proprietor,Business Owner,3140000,Puducherry,0,1,1,1,2020-02-29,Low,2023-03-15,0
+K01502,Individual,Salaried,475000,Tamil Nadu,0,1,1,1,2015-06-25,Medium,2018-11-28,0
+K01503,Individual,Salaried,788000,Puducherry,0,1,1,1,2019-07-08,Medium,2021-07-22,0
+K01504,Individual,Self-Employed,420000,Puducherry,0,1,0,1,2023-09-27,Low,2024-07-01,0
+K01505,Individual,Student,95000,Tamil Nadu,0,1,1,1,2018-12-05,Low,2024-04-10,0
+K01506,Individual,Student,72000,Tamil Nadu,0,1,1,1,2020-06-08,Low,2020-08-26,0
+K01507,Individual,Salaried,386000,Karnataka,0,1,1,1,2013-11-16,Low,2014-05-12,0
+K01508,Individual,Salaried,311000,Tamil Nadu,0,1,1,1,2012-06-02,Medium,2019-01-27,0
+K01509,Individual,Business Owner,808000,Maharashtra,0,1,1,1,2013-08-22,Low,2021-10-16,0
+K01510,Individual,Homemaker,201000,Tamil Nadu,0,1,1,1,2018-12-25,Medium,2024-02-15,0
+K01511,Individual,Salaried,725000,Tamil Nadu,0,1,1,0,2016-05-29,Low,2024-06-25,0
+K01512,Individual,Salaried,442000,Karnataka,0,1,1,1,2013-04-15,Low,2016-03-24,0
+K01513,Individual,Business Owner,1309000,Tamil Nadu,0,1,1,1,2018-06-13,High,2024-10-12,1
+K01514,Individual,Self-Employed,433000,Tamil Nadu,0,1,1,1,2017-10-13,Low,2021-12-17,0
+K01515,Individual,Student,30000,Kerala,0,1,1,1,2012-03-01,Low,2018-02-14,0
+K01516,Individual,Salaried,188000,Kerala,0,1,1,1,2012-05-13,Medium,2020-06-02,0
+K01517,Individual,Self-Employed,457000,Maharashtra,0,1,1,1,2013-10-08,Medium,2014-10-22,0
+K01518,Individual,Student,56000,Tamil Nadu,0,1,1,1,2020-12-28,Low,2023-07-23,0
+K01519,Individual,Salaried,248000,Tamil Nadu,0,1,1,1,2014-05-13,Medium,2021-01-20,0
+K01520,Individual,Salaried,600000,Tamil Nadu,0,1,1,1,2020-08-14,Low,2024-04-25,0
+K01521,Individual,Salaried,529000,Kerala,0,1,1,1,2018-02-07,Medium,2024-11-23,0
+K01522,Individual,Student,64000,Tamil Nadu,0,1,1,1,2017-05-25,Medium,2023-08-20,0
+K01523,Individual,Salaried,191000,Tamil Nadu,0,1,1,1,2014-06-02,Low,2015-07-05,0
+K01524,Individual,Salaried,381000,Karnataka,0,1,1,1,2014-01-31,Low,2022-06-22,0
+K01525,Sole Proprietor,Business Owner,1184000,Maharashtra,0,1,1,1,2020-03-05,Low,2023-04-30,0
+K01526,Individual,Retired,170000,Kerala,0,1,1,1,2012-10-25,Low,2018-10-03,0
+K01527,Individual,Retired,112000,Puducherry,0,1,1,1,2015-10-18,Medium,2021-07-13,0
+K01528,Individual,Salaried,992000,Tamil Nadu,0,1,1,1,2017-08-24,Low,2024-06-28,0
+K01529,Individual,Self-Employed,793000,Tamil Nadu,0,1,0,1,2023-07-17,Medium,2024-02-12,0
+K01530,Individual,Salaried,353000,Kerala,0,1,1,1,2018-12-11,Low,2024-02-12,0
+K01531,Individual,Student,123000,Tamil Nadu,0,1,1,0,2013-08-25,Low,2021-08-07,0
+K01532,Individual,Student,99000,Tamil Nadu,0,1,1,1,2012-08-13,Low,2018-08-20,0
+K01533,Sole Proprietor,Business Owner,1467000,Puducherry,0,1,1,1,2020-01-08,High,2024-04-20,0
+K01534,Individual,Student,66000,Delhi,0,1,1,1,2018-03-24,Medium,2019-11-29,0
+K01535,Individual,Self-Employed,851000,Maharashtra,0,1,1,1,2019-05-24,Low,2022-07-26,0
+K01536,Individual,Self-Employed,1157000,Tamil Nadu,0,1,0,1,2013-10-01,Low,2019-05-21,0
+K01537,Individual,Salaried,433000,Karnataka,0,1,1,1,2015-10-16,Low,2016-09-24,0
+K01538,Individual,Business Owner,1082000,Tamil Nadu,0,1,1,1,2020-02-29,Medium,2020-05-24,0
+K01539,Individual,Salaried,545000,Tamil Nadu,0,1,1,1,2017-03-30,Medium,2017-07-20,0
+K01540,Individual,Self-Employed,169000,Tamil Nadu,0,1,1,0,2014-09-13,Low,2016-12-10,0
+K01541,Individual,Salaried,437000,Tamil Nadu,0,1,1,1,2023-07-09,Low,2024-09-28,0
+K01542,Individual,Salaried,350000,Tamil Nadu,0,1,1,1,2023-06-24,Low,2024-09-12,0
+K01543,Individual,Self-Employed,595000,Tamil Nadu,0,1,1,1,2016-04-01,Medium,2024-07-01,0
+K01544,Individual,Business Owner,1104000,Tamil Nadu,0,1,1,1,2022-02-16,Low,2023-11-09,0
+K01545,Individual,Self-Employed,698000,Tamil Nadu,0,1,1,1,2017-01-06,Low,2017-01-11,0
+K01546,Individual,Salaried,440000,Puducherry,0,1,1,1,2018-06-29,Medium,2024-12-07,0
+K01547,Sole Proprietor,Business Owner,1237000,Kerala,0,1,1,1,2012-05-10,High,2016-04-13,1
+K01548,Individual,Business Owner,1130000,Kerala,0,1,1,0,2021-07-09,Medium,2024-01-02,0
+K01549,Individual,Self-Employed,736000,Maharashtra,0,1,1,0,2016-08-03,Medium,2018-07-05,0
+K01550,Individual,Salaried,334000,Puducherry,0,1,1,1,2012-06-01,Medium,2014-03-21,0
+K01551,Individual,Salaried,653000,Tamil Nadu,0,1,1,1,2018-06-24,Low,2020-09-08,0
+K01552,Individual,Self-Employed,281000,Karnataka,0,1,1,1,2016-11-11,Medium,2024-06-13,0
+K01553,Individual,Salaried,460000,Karnataka,0,1,1,1,2021-01-07,Low,2024-11-02,0
+K01554,Individual,Retired,368000,Tamil Nadu,0,1,1,0,2014-01-12,Low,2018-06-20,0
+K01555,Individual,Salaried,237000,Tamil Nadu,0,1,1,1,2014-10-06,Low,2018-07-27,0
+K01556,Individual,Salaried,346000,Delhi,0,1,1,1,2015-10-01,Medium,2022-05-03,0
+K01557,Individual,Self-Employed,1088000,Tamil Nadu,0,1,0,0,2019-11-24,Low,2022-01-15,0
+K01558,Individual,Salaried,396000,Delhi,0,1,1,1,2016-11-23,Low,2019-10-25,0
+K01559,Individual,Retired,202000,Tamil Nadu,0,1,1,1,2013-10-03,Low,2017-01-23,0
+K01560,Individual,Homemaker,30000,Tamil Nadu,0,1,1,1,2014-08-20,Medium,2015-02-11,0
+K01561,Individual,Student,70000,Tamil Nadu,0,1,1,1,2020-09-19,Low,2023-08-23,0
+K01562,Individual,Self-Employed,628000,Kerala,0,1,1,1,2019-05-31,Low,2020-11-25,0
+K01563,Individual,Homemaker,118000,Tamil Nadu,0,1,1,1,2014-11-23,Low,2023-07-10,0
+K01564,Individual,Salaried,1056000,Kerala,0,0,1,1,2023-01-25,Medium,2024-07-09,0
+K01565,Individual,Self-Employed,599000,Kerala,0,1,1,1,2016-09-14,Low,2021-05-12,0
+K01566,Individual,Salaried,446000,Tamil Nadu,0,1,1,1,2013-02-24,Medium,2015-03-08,0
+K01567,Individual,Salaried,308000,Kerala,0,1,1,1,2017-03-14,Low,2024-06-20,0
+K01568,Individual,Retired,292000,Tamil Nadu,0,1,1,0,2018-12-18,Low,2024-01-17,0
+K01569,Sole Proprietor,Business Owner,1184000,Tamil Nadu,0,1,1,1,2021-01-14,High,2022-08-07,1
+K01570,Individual,Self-Employed,843000,Kerala,0,1,1,0,2013-12-21,Low,2022-01-27,0
+K01571,Individual,Self-Employed,770000,Puducherry,0,1,1,1,2022-10-03,Low,2024-05-21,0
+K01572,Individual,Business Owner,851000,Puducherry,0,1,1,1,2022-09-11,High,2022-11-30,0
+K01573,Individual,Self-Employed,484000,Puducherry,0,1,1,1,2015-01-18,Low,2022-05-13,0
+K01574,Individual,Self-Employed,1116000,Tamil Nadu,0,1,1,1,2013-07-16,Low,2014-03-27,0
+K01575,Individual,Self-Employed,390000,Puducherry,0,1,1,0,2023-05-10,Low,2023-06-23,0
+K01576,Individual,Salaried,588000,Puducherry,0,1,1,1,2022-04-22,Low,2023-07-10,0
+K01577,Individual,Salaried,872000,Karnataka,0,1,1,1,2017-10-27,Low,2023-03-07,0
+K01578,Sole Proprietor,Business Owner,1610000,Puducherry,0,1,1,1,2017-06-27,Low,2023-02-20,0
+K01579,Individual,Salaried,471000,Tamil Nadu,0,1,1,1,2014-12-22,Medium,2022-09-09,0
+K01580,Individual,Salaried,776000,Karnataka,0,1,1,1,2017-12-15,Low,2020-05-18,0
+K01581,Individual,Student,70000,Delhi,0,1,1,1,2014-07-01,Low,2020-11-23,0
+K01582,Individual,Salaried,418000,Tamil Nadu,0,1,1,1,2014-07-23,Low,2020-01-13,0
+K01583,Individual,Salaried,383000,Puducherry,0,1,1,1,2020-06-28,Low,2024-04-11,0
+K01584,Individual,Student,101000,Kerala,0,1,1,1,2014-01-16,Low,2014-11-30,0
+K01585,Individual,Salaried,574000,Puducherry,0,1,1,1,2019-10-28,Low,2024-07-22,0
+K01586,Individual,Salaried,842000,Kerala,0,1,1,1,2016-11-11,Low,2019-11-17,0
+K01587,Individual,Retired,258000,Puducherry,0,1,1,1,2023-11-05,Low,2022-10-25,0
+K01588,Individual,Salaried,365000,Puducherry,0,1,1,1,2018-12-20,Low,2023-01-29,0
+K01589,Individual,Student,49000,Maharashtra,0,1,1,1,2020-04-17,Medium,2022-12-23,0
+K01590,Sole Proprietor,Business Owner,1361000,Karnataka,0,1,1,1,2015-07-25,Medium,2015-08-20,0
+K01591,Individual,Salaried,308000,Puducherry,0,1,1,1,2012-09-10,Low,2019-10-10,0
+K01592,Individual,Salaried,637000,Tamil Nadu,0,1,1,1,2023-09-30,Low,2024-11-02,0
+K01593,Individual,Retired,349000,Kerala,0,1,1,1,2017-02-22,Medium,2022-08-01,0
+K01594,Individual,Salaried,270000,Puducherry,1,1,1,1,2020-08-18,High,2022-02-14,1
+K01595,Individual,Salaried,111000,Maharashtra,0,1,1,1,2014-06-24,Low,2018-12-20,0
+K01596,Individual,Homemaker,40000,Puducherry,0,1,1,1,2015-07-27,Low,2023-08-23,0
+K01597,Individual,Salaried,802000,Tamil Nadu,0,1,1,1,2014-08-19,Low,2021-03-20,0
+K01598,Individual,Homemaker,88000,Puducherry,0,1,1,1,2016-02-02,Medium,2018-01-13,0
+K01599,Sole Proprietor,Business Owner,1282000,Tamil Nadu,0,1,1,1,2013-12-27,Low,2018-06-18,0
+K01600,Individual,Self-Employed,495000,Puducherry,0,1,1,1,2017-09-16,Low,2024-03-25,0
+K01601,Individual,Salaried,501000,Puducherry,0,1,0,1,2016-05-27,Low,2024-11-26,0
+K01602,Individual,Business Owner,505000,Tamil Nadu,0,1,1,1,2023-02-11,High,2022-10-13,1
+K01603,Individual,Student,30000,Karnataka,0,1,1,1,2017-12-19,Low,2023-01-13,0
+K01604,Individual,Salaried,201000,Tamil Nadu,0,1,1,1,2018-02-04,Low,2023-05-26,0
+K01605,Individual,Salaried,432000,Tamil Nadu,0,1,1,1,2016-10-23,Low,2017-09-30,0
+K01606,Individual,Salaried,576000,Tamil Nadu,0,1,1,1,2015-05-04,Low,2019-10-12,0
+K01607,Individual,Salaried,519000,Tamil Nadu,0,1,1,1,2016-03-10,Low,2016-09-03,0
+K01608,Individual,Salaried,396000,Puducherry,0,1,1,1,2019-11-09,Medium,2024-10-03,0
+K01609,Individual,Student,34000,Tamil Nadu,0,1,1,1,2018-08-24,Medium,2021-09-05,0
+K01610,Individual,Salaried,600000,Puducherry,0,1,1,1,2014-06-03,Low,2020-10-24,0
+K01611,Individual,Salaried,369000,Puducherry,0,1,1,1,2012-02-17,Low,2015-06-24,0
+K01612,Individual,Salaried,416000,Tamil Nadu,0,1,1,1,2020-12-25,Medium,2024-10-13,0
+K01613,Individual,Salaried,406000,Puducherry,0,1,1,1,2014-12-25,Low,2021-10-04,0
+K01614,Individual,Self-Employed,485000,Puducherry,0,1,1,1,2023-12-15,Low,2023-09-25,0
+K01615,Individual,Self-Employed,432000,Tamil Nadu,0,1,1,1,2012-02-16,Low,2020-10-07,0
+K01616,Individual,Salaried,321000,Puducherry,0,1,1,1,2012-07-15,Low,2013-10-31,0
+K01617,Individual,Student,33000,Delhi,0,1,1,1,2023-05-10,Low,2024-08-10,0
+K01618,Individual,Self-Employed,670000,Maharashtra,0,1,1,1,2013-10-23,Low,2022-05-21,0
+K01619,Individual,Salaried,388000,Kerala,0,1,1,1,2014-01-18,Low,2021-09-16,0
+K01620,Individual,Homemaker,142000,Tamil Nadu,0,1,1,1,2022-11-07,Medium,2023-11-22,0
+K01621,Individual,Business Owner,530000,Karnataka,0,1,1,1,2023-05-08,Low,2022-08-26,0
+K01622,Individual,Salaried,710000,Puducherry,0,1,1,1,2013-08-02,Medium,2017-04-21,0
+K01623,Individual,Homemaker,87000,Delhi,0,1,1,1,2016-04-25,Low,2023-10-08,0
+K01624,Individual,Self-Employed,557000,Karnataka,0,1,1,1,2022-09-26,Low,2023-05-05,0
+K01625,Individual,Salaried,292000,Tamil Nadu,0,1,1,1,2017-08-11,Low,2024-11-10,0
+K01626,Individual,Salaried,290000,Tamil Nadu,0,1,1,1,2022-03-05,Low,2024-10-29,0
+K01627,Individual,Salaried,214000,Tamil Nadu,0,1,1,1,2016-10-13,Low,2018-05-21,0
+K01628,Individual,Salaried,628000,Maharashtra,0,1,1,1,2020-04-16,Low,2024-10-14,0
+K01629,Individual,Salaried,381000,Karnataka,0,1,1,1,2017-03-11,Low,2019-11-06,0
+K01630,Individual,Salaried,579000,Puducherry,0,1,1,1,2022-04-30,Medium,2024-04-12,0
+K01631,Individual,Homemaker,130000,Puducherry,0,1,1,1,2020-10-28,Low,2022-09-23,0
+K01632,Individual,Self-Employed,478000,Kerala,0,1,1,1,2021-05-19,Medium,2022-07-28,0
+K01633,Individual,Salaried,377000,Tamil Nadu,0,1,1,1,2018-06-15,Low,2024-11-28,0
+K01634,Individual,Salaried,359000,Tamil Nadu,0,1,1,1,2014-01-15,Low,2015-09-29,0
+K01635,Individual,Salaried,666000,Karnataka,0,1,1,1,2021-12-06,Low,2024-02-08,0
+K01636,Individual,Salaried,445000,Tamil Nadu,0,1,1,1,2020-09-22,Low,2024-08-31,0
+K01637,Individual,Self-Employed,646000,Kerala,0,1,1,1,2018-06-14,Low,2022-02-15,0
+K01638,Individual,Self-Employed,829000,Karnataka,0,1,1,1,2020-07-31,Low,2021-03-22,0
+K01639,Individual,Retired,290000,Puducherry,0,1,1,1,2017-09-18,Low,2017-12-21,0
+K01640,Individual,Salaried,1052000,Karnataka,0,1,1,1,2016-01-01,Low,2017-06-28,0
+K01641,Sole Proprietor,Business Owner,789000,Delhi,0,1,1,1,2023-08-21,High,2024-04-09,1
+K01642,Sole Proprietor,Business Owner,2108000,Karnataka,0,1,1,1,2023-01-07,Medium,2023-07-04,0
+K01643,Individual,Salaried,789000,Tamil Nadu,0,1,1,1,2016-04-27,Medium,2019-02-12,0
+K01644,Individual,Self-Employed,359000,Tamil Nadu,0,0,1,1,2017-06-21,Low,2018-12-22,0
+K01645,Individual,Salaried,619000,Maharashtra,0,1,1,1,2018-12-08,Low,2022-06-25,0
+K01646,Individual,Salaried,476000,Kerala,0,1,1,1,2015-03-13,Low,2020-06-21,0
+K01647,Individual,Salaried,621000,Tamil Nadu,0,1,1,1,2013-12-12,Medium,2016-03-09,0
+K01648,Individual,Homemaker,52000,Tamil Nadu,1,1,1,1,2012-01-15,High,2013-04-04,1
+K01649,Individual,Salaried,469000,Tamil Nadu,0,1,1,1,2012-09-15,Medium,2017-09-16,0
+K01650,Individual,Retired,193000,Kerala,0,1,1,1,2017-03-14,Low,2019-09-25,0
+K01651,Individual,Salaried,362000,Puducherry,0,1,1,1,2022-12-27,Low,2024-01-11,0
+K01652,Individual,Salaried,796000,Puducherry,0,1,1,1,2013-11-08,Low,2022-04-04,0
+K01653,Individual,Homemaker,85000,Delhi,0,1,1,1,2016-02-05,Medium,2020-08-13,0
+K01654,Individual,Business Owner,436000,Tamil Nadu,0,1,1,1,2015-10-07,Low,2017-10-09,0
+K01655,Individual,Salaried,224000,Tamil Nadu,0,1,1,1,2021-12-01,Low,2022-12-29,0
+K01656,Individual,Student,36000,Maharashtra,0,1,1,1,2015-03-04,Low,2016-04-24,0
+K01657,Sole Proprietor,Business Owner,1895000,Maharashtra,0,1,1,1,2014-11-09,High,2014-11-18,1
+K01658,Individual,Salaried,307000,Karnataka,0,1,1,1,2014-11-02,Low,2021-08-26,0
+K01659,Sole Proprietor,Business Owner,595000,Puducherry,0,1,1,1,2019-03-28,High,2024-11-14,0
+K01660,Sole Proprietor,Business Owner,1983000,Tamil Nadu,0,1,1,1,2019-08-31,Low,2024-05-06,0
+K01661,Individual,Salaried,470000,Puducherry,1,1,1,1,2017-12-09,High,2021-06-17,0
+K01662,Sole Proprietor,Business Owner,1400000,Puducherry,0,1,1,1,2022-08-13,Medium,2024-04-18,0
+K01663,Individual,Retired,209000,Puducherry,0,1,1,1,2016-11-13,Low,2022-12-10,0
+K01664,Individual,Business Owner,2281000,Tamil Nadu,0,1,1,1,2014-02-22,High,2017-11-04,1
+K01665,Individual,Student,57000,Tamil Nadu,0,0,1,1,2017-05-10,Low,2022-03-01,0
+K01666,Individual,Homemaker,37000,Puducherry,0,1,1,1,2021-10-14,Low,2023-09-04,0
+K01667,Individual,Student,36000,Puducherry,0,1,1,1,2012-03-12,Low,2017-10-24,0
+K01668,Individual,Self-Employed,411000,Puducherry,0,1,1,1,2022-06-12,Low,2022-10-22,0
+K01669,Individual,Self-Employed,558000,Puducherry,0,1,1,1,2017-12-04,Low,2021-02-06,0
+K01670,Sole Proprietor,Business Owner,1693000,Puducherry,0,1,1,1,2017-08-22,Low,2020-10-31,0
+K01671,Sole Proprietor,Business Owner,865000,Tamil Nadu,0,1,1,1,2018-03-15,Low,2020-03-16,0
+K01672,Individual,Salaried,320000,Tamil Nadu,0,1,1,1,2014-06-14,Low,2015-09-03,0
+K01673,Individual,Salaried,1133000,Puducherry,0,1,1,1,2022-05-22,Low,2023-02-04,0
+K01674,Individual,Salaried,436000,Puducherry,0,1,1,1,2019-06-20,Low,2020-06-10,0
+K01675,Individual,Student,47000,Puducherry,0,1,1,1,2021-02-21,Low,2024-09-05,0
+K01676,Individual,Salaried,426000,Tamil Nadu,0,1,1,1,2020-10-21,Low,2023-02-27,0
+K01677,Individual,Salaried,239000,Puducherry,0,1,0,1,2016-10-21,Medium,2020-09-23,0
+K01678,Individual,Student,76000,Karnataka,0,1,1,1,2021-12-31,Low,2024-08-19,0
+K01679,Individual,Salaried,649000,Maharashtra,0,1,1,1,2018-02-16,Low,2024-06-24,0
+K01680,Individual,Salaried,323000,Tamil Nadu,0,1,1,1,2013-01-16,Medium,2020-09-22,0
+K01681,Individual,Salaried,659000,Tamil Nadu,0,1,1,1,2015-03-24,Low,2022-11-21,0
+K01682,Individual,Salaried,368000,Kerala,0,1,1,0,2023-08-13,Medium,2024-01-07,0
+K01683,Sole Proprietor,Business Owner,1366000,Tamil Nadu,0,1,1,1,2021-08-29,Medium,2022-12-07,0
+K01684,Individual,Salaried,301000,Puducherry,0,1,1,1,2020-12-21,Low,2022-07-11,0
+K01685,Individual,Salaried,293000,Delhi,0,1,1,0,2014-10-07,Medium,2014-10-31,0
+K01686,Individual,Salaried,214000,Puducherry,0,1,1,0,2016-08-31,Medium,2022-04-21,0
+K01687,Individual,Salaried,464000,Tamil Nadu,0,1,0,1,2019-10-16,Low,2021-05-03,0
+K01688,Individual,Student,53000,Tamil Nadu,0,1,1,1,2015-03-28,Low,2021-01-24,0
+K01689,Individual,Salaried,375000,Kerala,0,1,1,1,2014-06-29,Medium,2018-08-21,0
+K01690,Individual,Salaried,253000,Puducherry,0,0,1,1,2015-04-01,Low,2015-08-04,0
+K01691,Sole Proprietor,Business Owner,709000,Tamil Nadu,0,1,1,1,2013-07-10,Medium,2017-02-12,0
+K01692,Individual,Salaried,316000,Tamil Nadu,0,0,1,1,2014-08-26,Low,2022-11-29,0
+K01693,Individual,Self-Employed,741000,Tamil Nadu,0,1,0,1,2014-08-27,Low,2019-06-16,0
+K01694,Individual,Salaried,481000,Tamil Nadu,0,1,1,1,2016-08-30,Medium,2018-01-26,0
+K01695,Individual,Self-Employed,441000,Tamil Nadu,0,1,1,1,2016-07-01,Low,2023-05-23,0
+K01696,Individual,Salaried,479000,Tamil Nadu,0,1,1,1,2012-03-31,Low,2020-05-15,0
+K01697,Individual,Self-Employed,1323000,Tamil Nadu,0,1,1,1,2013-03-31,Low,2019-07-18,0
+K01698,Individual,Salaried,440000,Puducherry,0,1,1,1,2016-12-17,Low,2023-07-30,0
+K01699,Individual,Salaried,1043000,Puducherry,0,1,1,1,2023-09-14,Low,2024-01-29,0
+K01700,Individual,Self-Employed,729000,Tamil Nadu,0,1,1,0,2014-05-21,Medium,2018-07-30,0
+K01701,Individual,Student,109000,Tamil Nadu,0,1,1,1,2018-11-24,Low,2022-07-20,0
+K01702,Individual,Homemaker,71000,Karnataka,0,1,1,1,2019-05-26,Low,2024-06-26,0
+K01703,Individual,Student,102000,Tamil Nadu,0,1,1,1,2021-07-27,Medium,2024-10-20,0
+K01704,Individual,Self-Employed,352000,Karnataka,0,1,1,1,2017-12-19,Medium,2024-01-29,0
+K01705,Individual,Business Owner,1339000,Tamil Nadu,0,1,1,1,2019-05-18,Low,2024-02-26,0
+K01706,Individual,Business Owner,1032000,Delhi,0,1,1,1,2012-10-23,Low,2018-08-17,0
+K01707,Sole Proprietor,Business Owner,489000,Tamil Nadu,0,1,0,1,2020-01-16,Low,2022-04-19,0
+K01708,Individual,Homemaker,49000,Tamil Nadu,0,1,1,1,2023-02-25,Low,2022-08-02,0
+K01709,Individual,Salaried,699000,Tamil Nadu,0,1,1,1,2022-04-22,Medium,2024-07-26,0
+K01710,Individual,Salaried,524000,Puducherry,0,1,1,1,2013-01-04,Medium,2015-05-28,0
+K01711,Individual,Student,107000,Delhi,0,1,1,1,2017-06-19,Medium,2020-02-01,0
+K01712,Individual,Salaried,458000,Maharashtra,0,1,1,1,2018-07-19,Low,2021-05-08,0
+K01713,Individual,Salaried,114000,Delhi,0,1,1,1,2023-11-07,Low,2024-04-04,0
+K01714,Individual,Retired,336000,Tamil Nadu,0,0,1,1,2016-12-06,Low,2018-06-24,0
+K01715,Individual,Salaried,325000,Maharashtra,0,1,1,1,2014-04-30,Low,2015-10-25,0
+K01716,Individual,Retired,239000,Kerala,0,1,1,1,2022-08-05,Medium,2023-11-06,0
+K01717,Individual,Retired,245000,Tamil Nadu,0,1,1,1,2018-05-19,Low,2024-04-09,0
+K01718,Individual,Salaried,297000,Tamil Nadu,0,1,1,1,2016-05-30,Low,2022-03-11,0
+K01719,Individual,Business Owner,778000,Puducherry,0,1,1,1,2020-07-20,Low,2021-10-18,0
+K01720,Individual,Salaried,733000,Kerala,0,1,1,1,2015-10-14,Medium,2016-01-13,0
+K01721,Individual,Salaried,513000,Tamil Nadu,0,0,1,1,2012-08-14,Low,2018-11-15,0
+K01722,Individual,Homemaker,67000,Maharashtra,0,1,1,1,2021-07-26,Medium,2023-05-04,0
+K01723,Individual,Retired,248000,Karnataka,0,1,1,1,2019-08-04,Low,2020-10-18,0
+K01724,Individual,Business Owner,1857000,Tamil Nadu,0,1,1,1,2013-05-30,High,2021-08-14,1
+K01725,Individual,Salaried,498000,Tamil Nadu,0,1,1,1,2015-11-28,Medium,2023-09-23,0
+K01726,Individual,Homemaker,98000,Kerala,0,1,1,1,2013-08-23,Low,2014-01-06,0
+K01727,Individual,Self-Employed,345000,Tamil Nadu,0,1,1,1,2012-10-27,Low,2020-01-15,0
+K01728,Individual,Homemaker,74000,Puducherry,0,1,1,1,2015-06-10,Low,2022-04-21,0
+K01729,Sole Proprietor,Business Owner,718000,Tamil Nadu,0,1,1,1,2013-12-23,Low,2014-10-06,0
+K01730,Individual,Salaried,177000,Karnataka,0,1,1,1,2023-03-10,Low,2023-09-27,0
+K01731,Individual,Student,89000,Kerala,0,1,1,1,2022-08-14,Medium,2024-01-23,0
+K01732,Individual,Student,52000,Puducherry,0,1,1,1,2015-04-20,Low,2023-09-07,0
+K01733,Individual,Retired,248000,Delhi,0,1,1,1,2012-04-04,Medium,2019-02-03,0
+K01734,Individual,Self-Employed,388000,Tamil Nadu,0,1,1,0,2022-12-07,Low,2023-12-01,0
+K01735,Individual,Salaried,589000,Maharashtra,0,1,1,1,2015-02-19,Low,2022-08-08,0
+K01736,Individual,Retired,767000,Tamil Nadu,0,1,1,1,2019-04-14,Low,2024-09-04,0
+K01737,Individual,Salaried,545000,Delhi,0,1,1,1,2013-11-30,Low,2021-07-19,0
+K01738,Individual,Salaried,636000,Puducherry,0,1,1,1,2014-10-20,Medium,2018-12-28,0
+K01739,Individual,Salaried,239000,Karnataka,0,1,1,1,2023-09-11,Low,2024-11-24,0
+K01740,Individual,Salaried,453000,Tamil Nadu,0,1,1,1,2017-01-30,Low,2020-03-20,0
+K01741,Individual,Student,66000,Puducherry,0,1,1,1,2016-07-12,Low,2019-03-18,0
+K01742,Individual,Salaried,818000,Kerala,0,1,1,1,2020-04-04,Low,2023-09-03,0
+K01743,Individual,Retired,300000,Tamil Nadu,0,1,1,1,2022-01-14,Low,2023-11-25,0
+K01744,Individual,Salaried,274000,Maharashtra,0,1,1,1,2013-12-17,Medium,2022-09-18,0
+K01745,Sole Proprietor,Business Owner,1160000,Maharashtra,0,1,1,1,2017-07-09,High,2021-07-02,0
+K01746,Individual,Salaried,344000,Tamil Nadu,0,1,0,1,2017-08-11,Low,2018-06-28,0
+K01747,Individual,Self-Employed,1146000,Tamil Nadu,0,1,1,1,2012-10-29,Low,2018-10-03,0
+K01748,Individual,Salaried,564000,Tamil Nadu,0,1,1,1,2013-12-08,Medium,2018-06-27,0
+K01749,Individual,Retired,348000,Kerala,0,0,1,1,2014-12-20,Medium,2018-04-25,0
+K01750,Individual,Salaried,453000,Maharashtra,0,1,1,1,2017-09-25,Medium,2023-03-27,0
+K01751,Individual,Self-Employed,873000,Kerala,0,1,1,1,2014-08-11,Medium,2016-06-15,0
+K01752,Individual,Self-Employed,479000,Puducherry,0,1,1,1,2019-01-31,Low,2019-12-20,0
+K01753,Individual,Self-Employed,395000,Karnataka,0,1,1,1,2018-07-25,Low,2019-11-09,0
+K01754,Individual,Salaried,179000,Puducherry,0,1,1,1,2013-12-31,Medium,2022-02-10,0
+K01755,Individual,Salaried,713000,Delhi,0,1,1,1,2016-07-26,Medium,2019-11-21,0
+K01756,Individual,Homemaker,112000,Maharashtra,0,1,1,1,2016-11-12,Medium,2024-02-13,0
+K01757,Individual,Salaried,558000,Tamil Nadu,0,1,1,1,2022-04-19,Low,2023-11-23,0
+K01758,Individual,Salaried,426000,Tamil Nadu,0,0,1,1,2015-04-19,Medium,2018-04-21,0
+K01759,Individual,Retired,630000,Puducherry,0,1,1,1,2022-01-06,Low,2022-08-13,0
+K01760,Individual,Retired,192000,Tamil Nadu,0,1,1,1,2020-06-25,Low,2023-10-30,0
+K01761,Individual,Business Owner,2051000,Karnataka,0,1,1,1,2022-10-08,Low,2024-11-03,0
+K01762,Individual,Self-Employed,408000,Kerala,0,1,1,1,2020-02-06,Low,2023-07-24,0
+K01763,Individual,Homemaker,73000,Puducherry,0,1,1,1,2013-05-24,Medium,2014-11-13,0
+K01764,Individual,Salaried,241000,Tamil Nadu,0,1,1,1,2013-11-05,Low,2014-12-30,0
+K01765,Individual,Salaried,434000,Karnataka,0,1,1,1,2018-11-12,Low,2024-12-26,0
+K01766,Individual,Salaried,366000,Kerala,0,1,1,1,2018-07-19,Low,2023-08-27,0
+K01767,Individual,Self-Employed,723000,Puducherry,0,1,1,1,2013-10-02,Medium,2020-10-25,0
+K01768,Individual,Self-Employed,457000,Tamil Nadu,0,1,1,1,2016-06-07,Low,2016-07-18,0
+K01769,Individual,Retired,159000,Tamil Nadu,0,1,1,1,2022-09-28,Low,2023-03-16,0
+K01770,Individual,Salaried,538000,Tamil Nadu,0,1,1,0,2015-06-18,Low,2021-04-05,0
+K01771,Individual,Retired,531000,Tamil Nadu,0,1,1,1,2014-12-08,Low,2015-12-14,0
+K01772,Individual,Self-Employed,828000,Tamil Nadu,0,1,1,1,2017-02-23,Low,2019-08-20,0
+K01773,Sole Proprietor,Business Owner,1161000,Delhi,0,1,1,1,2013-08-24,Low,2015-02-27,0
+K01774,Individual,Salaried,499000,Karnataka,0,1,1,1,2012-05-31,Medium,2013-06-12,0
+K01775,Individual,Salaried,194000,Tamil Nadu,0,1,1,1,2018-09-01,Low,2021-08-01,0
+K01776,Individual,Salaried,358000,Delhi,0,1,1,1,2017-05-02,Low,2022-01-25,0
+K01777,Individual,Salaried,701000,Tamil Nadu,0,0,1,1,2022-12-24,Low,2023-11-10,0
+K01778,Individual,Self-Employed,731000,Kerala,0,1,1,1,2015-09-03,Low,2024-01-08,0
+K01779,Individual,Self-Employed,404000,Kerala,0,1,0,1,2022-11-21,Medium,2022-08-08,0
+K01780,Individual,Student,87000,Puducherry,0,1,1,1,2018-08-13,Low,2023-12-28,0
+K01781,Individual,Salaried,392000,Tamil Nadu,0,0,1,1,2015-01-20,Low,2022-03-23,0
+K01782,Individual,Self-Employed,825000,Tamil Nadu,0,0,1,1,2020-03-15,Low,2022-08-19,0
+K01783,Individual,Self-Employed,315000,Delhi,0,1,1,1,2015-11-25,Low,2016-10-24,0
+K01784,Individual,Student,47000,Tamil Nadu,0,1,1,1,2023-04-18,Medium,2023-08-05,0
+K01785,Individual,Business Owner,1375000,Maharashtra,0,1,1,1,2013-09-29,High,2016-09-21,0
+K01786,Individual,Self-Employed,680000,Karnataka,0,1,1,1,2017-01-29,Medium,2024-03-25,0
+K01787,Individual,Business Owner,1523000,Kerala,0,1,1,0,2023-04-27,Medium,2024-04-12,0
+K01788,Individual,Salaried,414000,Tamil Nadu,0,1,1,1,2017-01-08,Medium,2020-05-07,0
+K01789,Individual,Student,54000,Tamil Nadu,0,1,1,1,2017-05-07,Medium,2018-05-15,0
+K01790,Individual,Student,73000,Maharashtra,0,1,1,1,2021-11-23,Medium,2023-07-30,0
+K01791,Individual,Self-Employed,876000,Karnataka,0,1,1,1,2014-02-20,Low,2015-11-07,0
+K01792,Individual,Salaried,210000,Delhi,0,1,1,1,2013-09-12,Medium,2020-11-14,0
+K01793,Individual,Salaried,360000,Kerala,0,1,1,1,2012-08-17,Low,2019-05-26,0
+K01794,Individual,Salaried,379000,Karnataka,0,1,1,1,2013-10-12,Low,2019-03-26,0
+K01795,Individual,Salaried,446000,Karnataka,0,1,1,1,2014-03-02,Medium,2017-07-03,0
+K01796,Individual,Salaried,655000,Tamil Nadu,0,1,1,1,2019-02-20,Medium,2019-05-06,0
+K01797,Individual,Student,33000,Puducherry,0,1,1,1,2016-10-18,Low,2018-02-02,0
+K01798,Individual,Salaried,528000,Karnataka,0,1,1,1,2014-02-23,Low,2019-08-07,0
+K01799,Individual,Salaried,191000,Karnataka,0,1,1,1,2015-05-02,Low,2018-11-01,0
+K01800,Individual,Salaried,296000,Maharashtra,1,1,1,1,2021-07-10,High,2022-09-20,1

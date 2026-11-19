@@ -1,0 +1,99 @@
+AlertID,CustomerID,Rules,Typologies,FirstSeen,ValueINR,Occupation,RiskRating,PEP,DeclaredAnnualIncome,RiskScore,Priority,Status
+ALT-0001,K01589,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-12,2652168.0,Student,Medium,0,49000,90.0,P1 - investigate within 2 days,Open
+ALT-0002,K00018,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-07,3866597.0,Self-Employed,Medium,0,797000,84.0,P1 - investigate within 2 days,Open
+ALT-0003,K00583,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,4369608.0,Self-Employed,Medium,0,316000,84.0,P1 - investigate within 2 days,Open
+ALT-0004,K01418,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-05,4722698.0,Self-Employed,Medium,0,783000,84.0,P1 - investigate within 2 days,Open
+ALT-0005,K01522,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-10,1573562.0,Student,Medium,0,64000,84.0,P1 - investigate within 2 days,Open
+ALT-0006,K01492,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-11,5003438.0,Self-Employed,Medium,0,503000,84.0,P1 - investigate within 2 days,Open
+ALT-0007,K00831,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-01,2588051.0,Salaried,Medium,0,684000,84.0,P1 - investigate within 2 days,Open
+ALT-0008,K01154,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-26,2800268.0,Student,Medium,0,39000,84.0,P1 - investigate within 2 days,Open
+ALT-0009,K00623,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,5017114.0,Salaried,Medium,0,249000,84.0,P1 - investigate within 2 days,Open
+ALT-0010,K01788,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-01,3457578.0,Salaried,Medium,0,414000,84.0,P1 - investigate within 2 days,Open
+ALT-0011,K01725,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,4068418.0,Salaried,Medium,0,498000,84.0,P1 - investigate within 2 days,Open
+ALT-0012,K00057,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-05,6709348.0,Salaried,Medium,0,1169000,84.0,P1 - investigate within 2 days,Open
+ALT-0013,K00673,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-05,2254843.0,Salaried,Low,0,605000,75.0,P2 - investigate within 7 days,Open
+ALT-0014,K00413,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-03,1876740.0,Salaried,Low,0,376000,75.0,P2 - investigate within 7 days,Open
+ALT-0015,K00706,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-07,2795575.0,Self-Employed,Low,0,628000,75.0,P2 - investigate within 7 days,Open
+ALT-0016,K00797,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-02,2892087.0,Salaried,Low,0,519000,75.0,P2 - investigate within 7 days,Open
+ALT-0017,K01213,"R03, R05, R06",High-risk jurisdiction; Income mismatch; Unusual spike,2024-01-03,2051866.0,Salaried,Low,0,589000,75.0,P2 - investigate within 7 days,Open
+ALT-0018,K00368,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-04,6387001.0,Salaried,Low,0,465000,70.0,P2 - investigate within 7 days,Open
+ALT-0019,K00773,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-02,2262853.0,Salaried,Low,0,427000,70.0,P2 - investigate within 7 days,Open
+ALT-0020,K01046,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-16,6005776.0,Student,Low,0,75000,70.0,P2 - investigate within 7 days,Open
+ALT-0021,K01002,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-05,3687866.0,Salaried,Low,0,1000000,70.0,P2 - investigate within 7 days,Open
+ALT-0022,K00310,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,2474568.0,Salaried,Low,0,222000,70.0,P2 - investigate within 7 days,Open
+ALT-0023,K00335,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-02,6354886.0,Self-Employed,Low,0,940000,70.0,P2 - investigate within 7 days,Open
+ALT-0024,K00441,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-22,1613405.0,Homemaker,Low,0,73000,70.0,P2 - investigate within 7 days,Open
+ALT-0025,K00319,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-01,4979785.0,Self-Employed,Low,0,686000,70.0,P2 - investigate within 7 days,Open
+ALT-0026,K00243,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,5635671.0,Salaried,Low,0,571000,70.0,P2 - investigate within 7 days,Open
+ALT-0027,K00697,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-02,3281038.0,Salaried,Low,0,408000,70.0,P2 - investigate within 7 days,Open
+ALT-0028,K01729,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-02,5342793.0,Business Owner,Low,0,718000,70.0,P2 - investigate within 7 days,Open
+ALT-0029,K01712,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-01,4058676.0,Salaried,Low,0,458000,70.0,P2 - investigate within 7 days,Open
+ALT-0030,K01581,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-02-27,5951550.0,Student,Low,0,70000,70.0,P2 - investigate within 7 days,Open
+ALT-0031,K01419,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-05,3535455.0,Retired,Low,0,216000,70.0,P2 - investigate within 7 days,Open
+ALT-0032,K00769,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-02,3053695.0,Self-Employed,Low,0,657000,70.0,P2 - investigate within 7 days,Open
+ALT-0033,K01324,"R02, R03, R06",Income mismatch; Pass-through (rapid in/out); Unusual spike,2024-01-03,2200716.0,Salaried,Low,0,400000,70.0,P2 - investigate within 7 days,Open
+ALT-0034,K00648,"R01, R06",Structuring; Unusual spike,2024-05-01,315965.0,Business Owner,High,0,601000,68.0,P2 - investigate within 7 days,Open
+ALT-0035,K01662,"R05, R06",High-risk jurisdiction; Unusual spike,2024-11-21,2326664.0,Business Owner,Medium,0,1400000,66.0,P2 - investigate within 7 days,Open
+ALT-0036,K00026,"R02, R06",Pass-through (rapid in/out); Unusual spike,2024-05-01,1579633.0,Self-Employed,Medium,0,1207000,60.0,P2 - investigate within 7 days,Open
+ALT-0037,K01266,"R01, R06",Structuring; Unusual spike,2024-10-01,367503.0,Salaried,Medium,0,478000,54.0,P2 - investigate within 7 days,Open
+ALT-0038,K01218,"R04, R06",Funnel account (many senders); Unusual spike,2024-02-01,342351.0,Salaried,Medium,0,453000,54.0,P2 - investigate within 7 days,Open
+ALT-0039,K00610,"R01, R06",Structuring; Unusual spike,2024-10-01,320781.0,Self-Employed,Low,0,324000,45.0,P3 - review and close,Open
+ALT-0040,K00564,R04,Funnel account (many senders),2024-01-01,104101.0,Business Owner,High,0,1769000,45.0,P3 - review and close,Open
+ALT-0041,K00138,"R04, R06",Funnel account (many senders); Unusual spike,2024-07-01,383546.0,Salaried,Low,0,699000,45.0,P3 - review and close,Open
+ALT-0042,K00105,R01,Structuring,2024-03-20,175699.0,Business Owner,High,0,2013000,45.0,P3 - review and close,Open
+ALT-0043,K01719,"R04, R06",Funnel account (many senders); Unusual spike,2024-04-01,311824.0,Business Owner,Low,0,778000,45.0,P3 - review and close,Open
+ALT-0044,K01770,"R01, R06",Structuring; Unusual spike,2024-05-01,333443.0,Salaried,Low,0,538000,45.0,P3 - review and close,Open
+ALT-0045,K00255,R04,Funnel account (many senders),2024-02-07,172680.0,Business Owner,High,0,1552000,45.0,P3 - review and close,Open
+ALT-0046,K01497,R01,Structuring,2024-02-18,142513.0,Business Owner,High,0,1611000,45.0,P3 - review and close,Open
+ALT-0047,K00985,R04,Funnel account (many senders),2024-06-21,104652.0,Business Owner,High,0,1315000,45.0,P3 - review and close,Open
+ALT-0048,K00824,R04,Funnel account (many senders),2024-09-03,65772.0,Business Owner,High,0,1224000,45.0,P3 - review and close,Open
+ALT-0049,K00749,"R01, R06",Structuring; Unusual spike,2024-03-29,331172.0,Salaried,Low,0,580000,45.0,P3 - review and close,Open
+ALT-0050,K01790,"R03, R06",Income mismatch; Unusual spike,2024-01-13,1457406.0,Student,Medium,0,73000,42.0,P3 - review and close,Open
+ALT-0051,K01239,"R03, R06",Income mismatch; Unusual spike,2024-01-08,1629155.0,Homemaker,Medium,0,122000,42.0,P3 - review and close,Open
+ALT-0052,K00261,"R03, R06",Income mismatch; Unusual spike,2024-01-17,1319504.0,Student,Medium,0,84000,42.0,P3 - review and close,Open
+ALT-0053,K00023,R04,Funnel account (many senders),2024-02-09,48921.0,Self-Employed,Medium,0,618000,36.0,P3 - review and close,Open
+ALT-0054,K01318,R01,Structuring,2024-06-18,137933.0,Self-Employed,Medium,0,481000,36.0,P3 - review and close,Open
+ALT-0055,K01426,R04,Funnel account (many senders),2024-07-23,223147.0,Salaried,Medium,0,498000,36.0,P3 - review and close,Open
+ALT-0056,K01242,R04,Funnel account (many senders),2024-07-01,69104.0,Business Owner,Medium,0,1112000,36.0,P3 - review and close,Open
+ALT-0057,K01149,R04,Funnel account (many senders),2024-12-12,86584.0,Business Owner,Medium,0,1307000,36.0,P3 - review and close,Open
+ALT-0058,K01517,R01,Structuring,2024-09-08,133514.0,Self-Employed,Medium,0,457000,36.0,P3 - review and close,Open
+ALT-0059,K01160,R04,Funnel account (many senders),2024-02-06,112144.0,Business Owner,Medium,0,1403000,36.0,P3 - review and close,Open
+ALT-0060,K00190,R01,Structuring,2024-09-30,142136.0,Salaried,Medium,0,519000,36.0,P3 - review and close,Open
+ALT-0061,K00524,R04,Funnel account (many senders),2024-07-05,260866.0,Student,Medium,0,30000,36.0,P3 - review and close,Open
+ALT-0062,K00523,R01,Structuring,2024-05-29,279829.0,Self-Employed,Medium,0,989000,36.0,P3 - review and close,Open
+ALT-0063,K00580,"R03, R06",Income mismatch; Unusual spike,2024-01-12,1000186.0,Homemaker,Low,0,58000,35.0,P3 - review and close,Open
+ALT-0064,K00396,"R03, R06",Income mismatch; Unusual spike,2024-01-15,1649492.0,Student,Low,0,72000,35.0,P3 - review and close,Open
+ALT-0065,K00092,"R03, R06",Income mismatch; Unusual spike,2024-02-27,982897.0,Student,Low,0,71000,35.0,P3 - review and close,Open
+ALT-0066,K00103,"R03, R06",Income mismatch; Unusual spike,2024-01-24,843101.0,Student,Low,0,109000,35.0,P3 - review and close,Open
+ALT-0067,K00149,"R03, R06",Income mismatch; Unusual spike,2024-01-19,1242298.0,Student,Low,0,60000,35.0,P3 - review and close,Open
+ALT-0068,K00719,"R03, R06",Income mismatch; Unusual spike,2024-01-10,1422813.0,Student,Low,0,202000,35.0,P3 - review and close,Open
+ALT-0069,K01531,"R03, R06",Income mismatch; Unusual spike,2024-01-24,962592.0,Student,Low,0,123000,35.0,P3 - review and close,Open
+ALT-0070,K00432,R04,Funnel account (many senders),2024-04-09,79080.0,Self-Employed,Low,0,741000,30.0,P3 - review and close,Open
+ALT-0071,K00340,R04,Funnel account (many senders),2024-01-18,125975.0,Business Owner,Low,0,2084000,30.0,P3 - review and close,Open
+ALT-0072,K00226,R04,Funnel account (many senders),2024-08-15,63524.0,Business Owner,Low,0,1135000,30.0,P3 - review and close,Open
+ALT-0073,K00248,R04,Funnel account (many senders),2024-06-24,32785.0,Self-Employed,Low,0,301000,30.0,P3 - review and close,Open
+ALT-0074,K00269,R04,Funnel account (many senders),2024-08-31,264520.0,Business Owner,Low,0,1287000,30.0,P3 - review and close,Open
+ALT-0075,K00521,R01,Structuring,2024-06-17,180927.0,Business Owner,Low,0,2267000,30.0,P3 - review and close,Open
+ALT-0076,K00504,R04,Funnel account (many senders),2024-02-01,388222.0,Salaried,Low,0,1731000,30.0,P3 - review and close,Open
+ALT-0077,K00393,R04,Funnel account (many senders),2024-02-02,42058.0,Business Owner,Low,0,1087000,30.0,P3 - review and close,Open
+ALT-0078,K00783,R04,Funnel account (many senders),2024-10-16,41258.0,Self-Employed,Low,0,808000,30.0,P3 - review and close,Open
+ALT-0079,K00678,R01,Structuring,2024-08-13,269280.0,Business Owner,Low,0,1075000,30.0,P3 - review and close,Open
+ALT-0080,K00629,R01,Structuring,2024-09-26,239003.0,Self-Employed,Low,0,451000,30.0,P3 - review and close,Open
+ALT-0081,K00757,R04,Funnel account (many senders),2024-10-19,41791.0,Business Owner,Low,0,617000,30.0,P3 - review and close,Open
+ALT-0082,K01028,R04,Funnel account (many senders),2024-05-08,192729.0,Salaried,Low,0,306000,30.0,P3 - review and close,Open
+ALT-0083,K01181,R01,Structuring,2024-07-22,138402.0,Business Owner,Low,0,1726000,30.0,P3 - review and close,Open
+ALT-0084,K01031,R01,Structuring,2024-10-26,279842.0,Salaried,Low,0,439000,30.0,P3 - review and close,Open
+ALT-0085,K00861,R04,Funnel account (many senders),2024-07-12,40314.0,Self-Employed,Low,0,414000,30.0,P3 - review and close,Open
+ALT-0086,K00890,R01,Structuring,2024-03-18,189142.0,Salaried,Low,0,483000,30.0,P3 - review and close,Open
+ALT-0087,K00959,R04,Funnel account (many senders),2024-11-16,165857.0,Business Owner,Low,0,2118000,30.0,P3 - review and close,Open
+ALT-0088,K00908,R01,Structuring,2024-04-24,336192.0,Student,Low,0,33000,30.0,P3 - review and close,Open
+ALT-0089,K01004,R04,Funnel account (many senders),2024-01-16,51087.0,Self-Employed,Low,0,586000,30.0,P3 - review and close,Open
+ALT-0090,K01268,R04,Funnel account (many senders),2024-11-12,39283.0,Self-Employed,Low,0,270000,30.0,P3 - review and close,Open
+ALT-0091,K01504,R04,Funnel account (many senders),2024-02-10,33314.0,Self-Employed,Low,0,420000,30.0,P3 - review and close,Open
+ALT-0092,K01501,R01,Structuring,2024-07-07,328320.0,Business Owner,Low,0,3140000,30.0,P3 - review and close,Open
+ALT-0093,K01469,R04,Funnel account (many senders),2024-10-16,59739.0,Self-Employed,Low,0,604000,30.0,P3 - review and close,Open
+ALT-0094,K01414,R01,Structuring,2024-08-15,140188.0,Self-Employed,Low,0,405000,30.0,P3 - review and close,Open
+ALT-0095,K01693,R04,Funnel account (many senders),2024-08-25,39338.0,Self-Employed,Low,0,741000,30.0,P3 - review and close,Open
+ALT-0096,K01541,R01,Structuring,2024-07-05,188933.0,Salaried,Low,0,437000,30.0,P3 - review and close,Open
+ALT-0097,K01536,R01,Structuring,2024-01-15,273851.0,Self-Employed,Low,0,1157000,30.0,P3 - review and close,Open
+ALT-0098,K01747,R01,Structuring,2024-01-27,130399.0,Self-Employed,Low,0,1146000,30.0,P3 - review and close,Open

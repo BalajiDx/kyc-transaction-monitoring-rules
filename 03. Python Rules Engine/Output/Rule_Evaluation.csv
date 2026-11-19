@@ -1,0 +1,8 @@
+RuleID,Rule,Target typology,Customers flagged,Planted cases,Planted cases caught,Recall %,Flags on any planted case %
+R01,"Cash deposits just under ₹50,000",Structuring,23,14.0,11.0,78.6,47.8
+R02,Large credit moved out within 2 days,Pass-through (rapid in/out),28,12.0,12.0,100.0,42.9
+R03,Credits above 3x declared income,Income mismatch,43,10.0,10.0,100.0,62.8
+R04,15+ different senders in 7 days,Funnel account (many senders),30,8.0,8.0,100.0,26.7
+R05,Transfer with high-risk jurisdiction,High-risk jurisdiction,7,7.0,7.0,100.0,100.0
+R06,Monthly credits above 5x own normal,Unusual spike,53,,,,67.9
+ALL,Any alert,All planted,98,51.0,48.0,94.1,49.0
